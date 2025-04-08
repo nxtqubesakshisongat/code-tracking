@@ -4,15 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 310                                          |
-| **Lines Removed** (➖) | 113                                        |
-| **Net Change** (↕)    | 197                |
-| **Active Time** (⌚)   | 42 minutes |
+| **Lines Added** (➕)   | 393                                          |
+| **Lines Removed** (➖) | 114                                        |
+| **Net Change** (↕)    | 279                |
+| **Active Time** (⌚)   | 50 minutes |
 
 
 ## Modified Files
-- **dataGather.js** (+245, -111)
+- **dataGather.js** (+246, -111)
 - **flightLog.modal.js** (+65, -2)
+- **flightLog.controller.js** (+82, -1)
 
 ## Visualizations
 
@@ -21,7 +22,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 423
+".js" : 507
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -31,8 +32,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "13h" : 8
 "15h" : 30
-"16h" : 5
+"16h" : 11
 ```
 
 
-> **Last Updated:** 08/04/2025, 16:03:23
+> **Last Updated:** 08/04/2025, 16:08:23

@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1264                                          |
-| **Lines Removed** (➖) | 238                                        |
-| **Net Change** (↕)    | 1026                |
-| **Active Time** (⌚)   | 104 minutes |
+| **Lines Added** (➕)   | 1266                                          |
+| **Lines Removed** (➖) | 284                                        |
+| **Net Change** (↕)    | 982                |
+| **Active Time** (⌚)   | 115 minutes |
 
 
 ## Modified Files
 - **dataGather.js** (+375, -121)
 - **flightLog.modal.js** (+65, -2)
 - **flightLog.controller.js** (+82, -1)
-- **LaunchControl.jsx** (+742, -114)
+- **LaunchControl.jsx** (+744, -160)
 
 ## Visualizations
 
@@ -24,7 +24,7 @@
 pie showData
 title Lines changed by file type
 ".js" : 646
-".jsx" : 856
+".jsx" : 904
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -35,7 +35,8 @@ title Coding activity by hour (count of changes)
 "13h" : 8
 "15h" : 30
 "16h" : 46
+"17h" : 11
 ```
 
 
-> **Last Updated:** 08/04/2025, 17:03:23
+> **Last Updated:** 08/04/2025, 17:52:27

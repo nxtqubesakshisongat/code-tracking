@@ -2,9 +2,9 @@
   "date": "2025-04-08",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 1152,
-      "totalLinesRemoved": 125,
-      "totalActiveTime": 98,
+      "totalLinesAdded": 1264,
+      "totalLinesRemoved": 238,
+      "totalActiveTime": 104,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/CommandHandler/MissionLogs/dataGather.js": [
           {
@@ -1103,6 +1103,90 @@
               "removed": []
             },
             "duration": 3,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-04-08T11:28:24.768Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Mission/LaunchControl.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 108,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-04-08T11:28:46.886Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Mission/LaunchControl.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-04-08T11:28:48.159Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Mission/LaunchControl.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 111,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-04-08T11:29:26.966Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Mission/LaunchControl.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-04-08T11:29:28.690Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Mission/LaunchControl.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-04-08T11:29:31.929Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Mission/LaunchControl.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "jsx"
           }
         ]

@@ -2,9 +2,9 @@
   "date": "2025-04-08",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 393,
+      "totalLinesAdded": 395,
       "totalLinesRemoved": 114,
-      "totalActiveTime": 50,
+      "totalActiveTime": 54,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/CommandHandler/MissionLogs/dataGather.js": [
           {
@@ -551,6 +551,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-04-08T10:39:39.685Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/CommandHandler/MissionLogs/dataGather.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "js"
           }
         ],

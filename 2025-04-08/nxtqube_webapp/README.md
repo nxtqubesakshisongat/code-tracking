@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1280                                          |
-| **Lines Removed** (➖) | 477                                        |
-| **Net Change** (↕)    | 803                |
-| **Active Time** (⌚)   | 124 minutes |
+| **Lines Added** (➕)   | 1410                                          |
+| **Lines Removed** (➖) | 581                                        |
+| **Net Change** (↕)    | 829                |
+| **Active Time** (⌚)   | 133 minutes |
 
 
 ## Modified Files
-- **dataGather.js** (+376, -234)
+- **dataGather.js** (+506, -338)
 - **flightLog.modal.js** (+65, -2)
 - **flightLog.controller.js** (+82, -1)
 - **LaunchControl.jsx** (+757, -240)
@@ -23,7 +23,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 760
+".js" : 994
 ".jsx" : 997
 ```
 
@@ -35,8 +35,9 @@ title Coding activity by hour (count of changes)
 "13h" : 8
 "15h" : 30
 "16h" : 46
-"17h" : 16
+"17h" : 24
+"18h" : 1
 ```
 
 
-> **Last Updated:** 08/04/2025, 17:57:27
+> **Last Updated:** 08/04/2025, 18:02:27

@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2997                                          |
-| **Lines Removed** (➖) | 1982                                        |
-| **Net Change** (↕)    | 1015                |
-| **Active Time** (⌚)   | 55 minutes |
+| **Lines Added** (➕)   | 3134                                          |
+| **Lines Removed** (➖) | 1998                                        |
+| **Net Change** (↕)    | 1136                |
+| **Active Time** (⌚)   | 67 minutes |
 
 
 ## Modified Files
 - **dataGather.js** (+71, -0)
-- **createMissionLogs.js** (+57, -0)
+- **createMissionLogs.js** (+168, -0)
 - **2_ARGOS_DATA.json** (+2380, -1980)
-- **mqttSubscriber.js** (+387, -2)
+- **mqttSubscriber.js** (+413, -18)
 - **scriptLA.py** (+102, -0)
 
 ## Visualizations
@@ -24,7 +24,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 517
+".js" : 670
 ".json" : 4360
 ".py" : 102
 ```
@@ -38,7 +38,8 @@ title Coding activity by hour (count of changes)
 "15h" : 3
 "17h" : 1
 "18h" : 38
+"19h" : 8
 ```
 
 
-> **Last Updated:** 09/04/2025, 19:00:46
+> **Last Updated:** 09/04/2025, 19:05:46

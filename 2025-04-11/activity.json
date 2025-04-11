@@ -2,9 +2,9 @@
   "date": "2025-04-11",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 15633,
-      "totalLinesRemoved": 5029,
-      "totalActiveTime": 296,
+      "totalLinesAdded": 16337,
+      "totalLinesRemoved": 15251,
+      "totalActiveTime": 322,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/MiddleWareTestScripts/scriptLA.py": [
           {
@@ -4026,6 +4026,300 @@
             },
             "duration": 1,
             "language": "log"
+          },
+          {
+            "timestamp": "2025-04-11T11:25:04.625Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/config/MQTT/logs/2_ARGOS_DATA.log",
+            "fileType": ".log",
+            "linesAdded": 0,
+            "linesRemoved": 10220,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "log"
+          },
+          {
+            "timestamp": "2025-04-11T11:25:05.312Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/config/MQTT/logs/2_ARGOS_DATA.log",
+            "fileType": ".log",
+            "linesAdded": 58,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "log"
+          },
+          {
+            "timestamp": "2025-04-11T11:25:05.665Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/config/MQTT/logs/2_ARGOS_DATA.log",
+            "fileType": ".log",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "log"
+          },
+          {
+            "timestamp": "2025-04-11T11:25:06.264Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/config/MQTT/logs/2_ARGOS_DATA.log",
+            "fileType": ".log",
+            "linesAdded": 58,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "log"
+          },
+          {
+            "timestamp": "2025-04-11T11:25:06.655Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/config/MQTT/logs/2_ARGOS_DATA.log",
+            "fileType": ".log",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "log"
+          },
+          {
+            "timestamp": "2025-04-11T11:25:07.289Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/config/MQTT/logs/2_ARGOS_DATA.log",
+            "fileType": ".log",
+            "linesAdded": 58,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "log"
+          },
+          {
+            "timestamp": "2025-04-11T11:25:08.618Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/config/MQTT/logs/2_ARGOS_DATA.log",
+            "fileType": ".log",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "log"
+          },
+          {
+            "timestamp": "2025-04-11T11:25:09.316Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/config/MQTT/logs/2_ARGOS_DATA.log",
+            "fileType": ".log",
+            "linesAdded": 58,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "log"
+          },
+          {
+            "timestamp": "2025-04-11T11:25:09.691Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/config/MQTT/logs/2_ARGOS_DATA.log",
+            "fileType": ".log",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "log"
+          },
+          {
+            "timestamp": "2025-04-11T11:25:10.256Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/config/MQTT/logs/2_ARGOS_DATA.log",
+            "fileType": ".log",
+            "linesAdded": 58,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "log"
+          },
+          {
+            "timestamp": "2025-04-11T11:25:10.715Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/config/MQTT/logs/2_ARGOS_DATA.log",
+            "fileType": ".log",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "log"
+          },
+          {
+            "timestamp": "2025-04-11T11:25:11.396Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/config/MQTT/logs/2_ARGOS_DATA.log",
+            "fileType": ".log",
+            "linesAdded": 58,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "log"
+          },
+          {
+            "timestamp": "2025-04-11T11:25:11.786Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/config/MQTT/logs/2_ARGOS_DATA.log",
+            "fileType": ".log",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "log"
+          },
+          {
+            "timestamp": "2025-04-11T11:25:12.319Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/config/MQTT/logs/2_ARGOS_DATA.log",
+            "fileType": ".log",
+            "linesAdded": 58,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "log"
+          },
+          {
+            "timestamp": "2025-04-11T11:25:12.726Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/config/MQTT/logs/2_ARGOS_DATA.log",
+            "fileType": ".log",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "log"
+          },
+          {
+            "timestamp": "2025-04-11T11:25:13.292Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/config/MQTT/logs/2_ARGOS_DATA.log",
+            "fileType": ".log",
+            "linesAdded": 58,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "log"
+          },
+          {
+            "timestamp": "2025-04-11T11:25:14.034Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/config/MQTT/logs/2_ARGOS_DATA.log",
+            "fileType": ".log",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "log"
+          },
+          {
+            "timestamp": "2025-04-11T11:25:14.378Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/config/MQTT/logs/2_ARGOS_DATA.log",
+            "fileType": ".log",
+            "linesAdded": 58,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "log"
+          },
+          {
+            "timestamp": "2025-04-11T11:25:14.813Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/config/MQTT/logs/2_ARGOS_DATA.log",
+            "fileType": ".log",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "log"
+          },
+          {
+            "timestamp": "2025-04-11T11:25:15.390Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/config/MQTT/logs/2_ARGOS_DATA.log",
+            "fileType": ".log",
+            "linesAdded": 58,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "log"
+          },
+          {
+            "timestamp": "2025-04-11T11:25:15.747Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/config/MQTT/logs/2_ARGOS_DATA.log",
+            "fileType": ".log",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "log"
           }
         ],
         "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/config/MQTT/mqttSubscriber.js": [
@@ -4063,6 +4357,34 @@
             "fileType": ".js",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-04-11T11:24:16.788Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/config/MQTT/mqttSubscriber.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-04-11T11:24:17.892Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/config/MQTT/mqttSubscriber.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
             "projectName": "nxtqube_webapp",
             "content": {
               "added": [],
@@ -4113,6 +4435,48 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-04-11T11:21:48.760Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/config/MQTT/createMissionLogs.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-04-11T11:21:49.825Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/config/MQTT/createMissionLogs.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-04-11T11:23:43.744Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/config/MQTT/createMissionLogs.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "js"
           }
         ]

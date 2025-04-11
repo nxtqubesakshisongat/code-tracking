@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 60971                                          |
-| **Lines Removed** (➖) | 59427                                        |
-| **Net Change** (↕)    | 1544                |
-| **Active Time** (⌚)   | 1578 minutes |
+| **Lines Added** (➕)   | 61059                                          |
+| **Lines Removed** (➖) | 59439                                        |
+| **Net Change** (↕)    | 1620                |
+| **Active Time** (⌚)   | 1591 minutes |
 
 
 ## Modified Files
@@ -16,6 +16,7 @@
 - **mqttSubscriber.js** (+264, -143)
 - **createMissionLogs.js** (+270, -147)
 - **dataGather.js** (+76, -0)
+- **flightLog.modal.js** (+88, -12)
 
 ## Visualizations
 
@@ -26,7 +27,7 @@ pie showData
 title Lines changed by file type
 ".py" : 102
 ".log" : 119396
-".js" : 900
+".js" : 1000
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -36,8 +37,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "16h" : 662
 "17h" : 912
-"18h" : 1
+"18h" : 15
 ```
 
 
-> **Last Updated:** 11/04/2025, 18:16:43
+> **Last Updated:** 11/04/2025, 18:31:43

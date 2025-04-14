@@ -3,8 +3,8 @@
   "projects": {
     "nxtqube_webapp": {
       "totalLinesAdded": 6049,
-      "totalLinesRemoved": 5198,
-      "totalActiveTime": 154,
+      "totalLinesRemoved": 5199,
+      "totalActiveTime": 157,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/config/MQTT/createMissionLogs.js": [
           {
@@ -2067,6 +2067,20 @@
             "fileType": ".js",
             "linesAdded": 2,
             "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-04-14T08:06:27.178Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/src/controllers/missionLog/flightLog.controller.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "nxtqube_webapp",
             "content": {
               "added": [],

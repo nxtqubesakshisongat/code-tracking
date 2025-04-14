@@ -4,16 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5802                                          |
-| **Lines Removed** (➖) | 5187                                        |
-| **Net Change** (↕)    | 615                |
-| **Active Time** (⌚)   | 137 minutes |
+| **Lines Added** (➕)   | 5930                                          |
+| **Lines Removed** (➖) | 5192                                        |
+| **Net Change** (↕)    | 738                |
+| **Active Time** (⌚)   | 145 minutes |
 
 
 ## Modified Files
-- **createMissionLogs.js** (+626, -185)
+- **createMissionLogs.js** (+626, -187)
 - **scriptLA.py** (+102, -0)
 - **2_ARGOS_DATA.log** (+5074, -5002)
+- **flightLog.modal.js** (+93, -3)
+- **index.js** (+35, -0)
 
 ## Visualizations
 
@@ -22,7 +24,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 811
+".js" : 944
 ".py" : 102
 ".log" : 10076
 ```
@@ -34,7 +36,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "10h" : 4
 "11h" : 128
+"13h" : 7
 ```
 
 
-> **Last Updated:** 14/04/2025, 11:38:17
+> **Last Updated:** 14/04/2025, 13:13:39

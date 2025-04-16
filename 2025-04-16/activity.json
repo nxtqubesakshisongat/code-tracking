@@ -2,9 +2,9 @@
   "date": "2025-04-16",
   "projects": {
     "OMTS NEW": {
-      "totalLinesAdded": 495,
+      "totalLinesAdded": 500,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalActiveTime": 2,
       "files": {
         "/Users/sakshi/Downloads/OMTS NEW/Backend/index.js": [
           {
@@ -19,6 +19,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-04-16T05:34:01.839Z",
+            "fileName": "/Users/sakshi/Downloads/OMTS NEW/Backend/index.js",
+            "fileType": ".js",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "OMTS NEW",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-04-16T05:34:08.336Z",
+            "fileName": "/Users/sakshi/Downloads/OMTS NEW/Backend/index.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "OMTS NEW",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "js"
           }
         ],

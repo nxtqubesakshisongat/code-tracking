@@ -1,0 +1,66 @@
+{
+  "date": "2025-04-16",
+  "projects": {
+    "OMTS NEW": {
+      "totalLinesAdded": 118,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/sakshi/Downloads/OMTS NEW/Backend/index.js": [
+          {
+            "timestamp": "2025-04-16T05:13:29.118Z",
+            "fileName": "/Users/sakshi/Downloads/OMTS NEW/Backend/index.js",
+            "fileType": ".js",
+            "linesAdded": 111,
+            "linesRemoved": 0,
+            "projectName": "OMTS NEW",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ],
+        "/Users/sakshi/Downloads/OMTS NEW/Backend/.env": [
+          {
+            "timestamp": "2025-04-16T05:13:49.904Z",
+            "fileName": "/Users/sakshi/Downloads/OMTS NEW/Backend/.env",
+            "fileType": "unknown",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "OMTS NEW",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 0,
+        "unknown": 1
+      },
+      "changeFrequency": {
+        "10": 1
+      },
+      "topFiles": [
+        "/Users/sakshi/Downloads/OMTS NEW/Backend/index.js",
+        "/Users/sakshi/Downloads/OMTS NEW/Backend/.env"
+      ],
+      "averageChangeSize": 59
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    10
+  ],
+  "mostUsedLanguages": [
+    "unknown",
+    "js"
+  ]
+}

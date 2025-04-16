@@ -4,14 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 300                                          |
+| **Lines Added** (➕)   | 441                                          |
 | **Lines Removed** (➖) | 14                                        |
-| **Net Change** (↕)    | 286                |
-| **Active Time** (⌚)   | 13 minutes |
+| **Net Change** (↕)    | 427                |
+| **Active Time** (⌚)   | 17 minutes |
 
 
 ## Modified Files
-- **createMissionLogs.js** (+300, -14)
+- **createMissionLogs.js** (+314, -14)
+- **flightLog.controller.js** (+127, -0)
 
 ## Visualizations
 
@@ -20,7 +21,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 314
+".js" : 455
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -29,8 +30,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "11h" : 6
-"12h" : 8
+"12h" : 11
 ```
 
 
-> **Last Updated:** 16/04/2025, 12:44:23
+> **Last Updated:** 16/04/2025, 12:49:23

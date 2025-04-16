@@ -185,9 +185,9 @@
       "averageChangeSize": 59
     },
     "nxtqube_webapp": {
-      "totalLinesAdded": 300,
+      "totalLinesAdded": 441,
       "totalLinesRemoved": 14,
-      "totalActiveTime": 13,
+      "totalActiveTime": 17,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/config/MQTT/createMissionLogs.js": [
           {
@@ -377,6 +377,50 @@
             "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/config/MQTT/createMissionLogs.js",
             "fileType": ".js",
             "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-04-16T07:14:33.158Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/config/MQTT/createMissionLogs.js",
+            "fileType": ".js",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/src/controllers/missionLog/flightLog.controller.js": [
+          {
+            "timestamp": "2025-04-16T07:15:39.692Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/src/controllers/missionLog/flightLog.controller.js",
+            "fileType": ".js",
+            "linesAdded": 118,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-04-16T07:15:49.566Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/src/controllers/missionLog/flightLog.controller.js",
+            "fileType": ".js",
+            "linesAdded": 9,
             "linesRemoved": 0,
             "projectName": "nxtqube_webapp",
             "content": {

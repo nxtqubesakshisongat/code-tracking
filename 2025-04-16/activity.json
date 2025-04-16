@@ -2,7 +2,7 @@
   "date": "2025-04-16",
   "projects": {
     "OMTS NEW": {
-      "totalLinesAdded": 118,
+      "totalLinesAdded": 495,
       "totalLinesRemoved": 0,
       "totalActiveTime": 1,
       "files": {
@@ -36,6 +36,22 @@
             },
             "duration": 1,
             "language": "unknown"
+          }
+        ],
+        "/Users/sakshi/Downloads/OMTS NEW/Frontend/html/index.html": [
+          {
+            "timestamp": "2025-04-16T05:21:13.195Z",
+            "fileName": "/Users/sakshi/Downloads/OMTS NEW/Frontend/html/index.html",
+            "fileType": ".html",
+            "linesAdded": 377,
+            "linesRemoved": 0,
+            "projectName": "OMTS NEW",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
           }
         ]
       },

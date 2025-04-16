@@ -185,7 +185,7 @@
       "averageChangeSize": 59
     },
     "nxtqube_webapp": {
-      "totalLinesAdded": 3018,
+      "totalLinesAdded": 3027,
       "totalLinesRemoved": 1285,
       "totalActiveTime": 130,
       "files": {
@@ -1170,6 +1170,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-04-16T13:06:42.466Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/src/controllers/missionLog/flightLog.controller.js",
+            "fileType": ".js",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ],

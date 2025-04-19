@@ -2,9 +2,9 @@
   "date": "2025-04-19",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 21061,
-      "totalLinesRemoved": 782,
-      "totalActiveTime": 470,
+      "totalLinesAdded": 21356,
+      "totalLinesRemoved": 910,
+      "totalActiveTime": 474,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/MiddleWareTestScripts/scriptLA.py": [
           {
@@ -6321,6 +6321,36 @@
             "fileType": ".jsx",
             "linesAdded": 0,
             "linesRemoved": 36,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/MissionControl/EmergencySwitches.jsx": [
+          {
+            "timestamp": "2025-04-19T09:06:22.866Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/MissionControl/EmergencySwitches.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 295,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-04-19T09:06:23.880Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/MissionControl/EmergencySwitches.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 128,
             "projectName": "nxtqube_webapp",
             "content": {
               "added": [],

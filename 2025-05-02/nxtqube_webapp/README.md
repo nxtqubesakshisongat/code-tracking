@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1622                                          |
+| **Lines Added** (➕)   | 3092                                          |
 | **Lines Removed** (➖) | 75                                        |
-| **Net Change** (↕)    | 1547                |
-| **Active Time** (⌚)   | 7 minutes |
+| **Net Change** (↕)    | 3017                |
+| **Active Time** (⌚)   | 37 minutes |
 
 
 ## Modified Files
@@ -16,6 +16,8 @@
 - **argos.log** (+201, -0)
 - **mqttSubscriber.js** (+122, -1)
 - **DetailedLog.jsx** (+563, -73)
+- **geofence.jsx** (+216, -0)
+- **Map.jsx** (+1254, -0)
 
 ## Visualizations
 
@@ -24,7 +26,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".jsx" : 1172
+".jsx" : 2642
 ".log" : 402
 ".js" : 123
 ```
@@ -40,7 +42,8 @@ title Coding activity by hour (count of changes)
 "14h" : 2
 "15h" : 3
 "16h" : 1
+"17h" : 30
 ```
 
 
-> **Last Updated:** 02/05/2025, 16:38:38
+> **Last Updated:** 02/05/2025, 17:43:55

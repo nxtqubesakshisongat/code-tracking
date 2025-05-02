@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 3098                                          |
-| **Lines Removed** (➖) | 88                                        |
-| **Net Change** (↕)    | 3010                |
-| **Active Time** (⌚)   | 55 minutes |
+| **Lines Removed** (➖) | 268                                        |
+| **Net Change** (↕)    | 2830                |
+| **Active Time** (⌚)   | 61 minutes |
 
 
 ## Modified Files
@@ -17,7 +17,7 @@
 - **mqttSubscriber.js** (+122, -1)
 - **DetailedLog.jsx** (+563, -73)
 - **geofence.jsx** (+216, -0)
-- **Map.jsx** (+1260, -13)
+- **Map.jsx** (+1260, -193)
 
 ## Visualizations
 
@@ -26,7 +26,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".jsx" : 2661
+".jsx" : 2841
 ".log" : 402
 ".js" : 123
 ```
@@ -42,8 +42,8 @@ title Coding activity by hour (count of changes)
 "14h" : 2
 "15h" : 3
 "16h" : 1
-"17h" : 46
+"17h" : 49
 ```
 
 
-> **Last Updated:** 02/05/2025, 17:48:55
+> **Last Updated:** 02/05/2025, 17:53:55

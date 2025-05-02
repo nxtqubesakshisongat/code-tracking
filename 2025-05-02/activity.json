@@ -2,9 +2,9 @@
   "date": "2025-05-02",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 524,
+      "totalLinesAdded": 725,
       "totalLinesRemoved": 1,
-      "totalActiveTime": 1,
+      "totalActiveTime": 2,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Mission/LaunchControl.jsx": [
           {
@@ -34,6 +34,36 @@
             },
             "duration": 1,
             "language": "jsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Mission/js/argos.log": [
+          {
+            "timestamp": "2025-05-02T06:03:52.847Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Mission/js/argos.log",
+            "fileType": ".log",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "log"
+          },
+          {
+            "timestamp": "2025-05-02T06:03:53.866Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Mission/js/argos.log",
+            "fileType": ".log",
+            "linesAdded": 200,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "log"
           }
         ]
       },

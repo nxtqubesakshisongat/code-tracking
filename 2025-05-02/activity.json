@@ -2,9 +2,9 @@
   "date": "2025-05-02",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 3299,
-      "totalLinesRemoved": 268,
-      "totalActiveTime": 64,
+      "totalLinesAdded": 3644,
+      "totalLinesRemoved": 297,
+      "totalActiveTime": 70,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Mission/LaunchControl.jsx": [
           {
@@ -931,6 +931,36 @@
               "removed": []
             },
             "duration": 0,
+            "language": "js"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Map/components/geofence/circularFence.js": [
+          {
+            "timestamp": "2025-05-02T13:36:14.352Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Map/components/geofence/circularFence.js",
+            "fileType": ".js",
+            "linesAdded": 345,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-02T13:36:15.361Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Map/components/geofence/circularFence.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 29,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "js"
           }
         ]

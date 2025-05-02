@@ -2,7 +2,7 @@
   "date": "2025-05-02",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 1621,
+      "totalLinesAdded": 1622,
       "totalLinesRemoved": 75,
       "totalActiveTime": 7,
       "files": {
@@ -145,6 +145,20 @@
             "fileType": ".js",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-02T11:05:43.571Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/config/MQTT/mqttSubscriber.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
             "projectName": "nxtqube_webapp",
             "content": {
               "added": [],

@@ -1,0 +1,47 @@
+{
+  "date": "2025-05-05",
+  "projects": {
+    "nxtqube_webapp": {
+      "totalLinesAdded": 1025,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Map/Map.jsx": [
+          {
+            "timestamp": "2025-05-05T05:15:34.717Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Map/Map.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1025,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "jsx": 0
+      },
+      "changeFrequency": {
+        "10": 0
+      },
+      "topFiles": [
+        "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Map/Map.jsx"
+      ],
+      "averageChangeSize": 1025
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    10
+  ],
+  "mostUsedLanguages": [
+    "jsx"
+  ]
+}

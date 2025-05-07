@@ -2,7 +2,7 @@
   "date": "2025-05-07",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 1712,
+      "totalLinesAdded": 1762,
       "totalLinesRemoved": 140,
       "totalActiveTime": 57,
       "files": {
@@ -537,6 +537,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-07T11:15:28.808Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Map/Map.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 50,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "jsx"
           }
         ]

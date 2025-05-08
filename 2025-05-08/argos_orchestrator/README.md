@@ -5,15 +5,15 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 83                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 83                |
-| **Active Time** (⌚)   | 7 minutes |
+| **Lines Removed** (➖) | 15                                        |
+| **Net Change** (↕)    | 68                |
+| **Active Time** (⌚)   | 10 minutes |
 
 
 ## Modified Files
 - **drone.yaml** (+36, -0)
 - **dock.yaml** (+9, -0)
-- **mqttgateway.yaml** (+36, -0)
+- **mqttgateway.yaml** (+36, -15)
 - **mavproxy_bridge.yaml** (+2, -0)
 
 ## Visualizations
@@ -23,7 +23,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".yaml" : 83
+".yaml" : 98
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -31,8 +31,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"18h" : 8
+"18h" : 9
 ```
 
 
-> **Last Updated:** 08/05/2025, 18:36:37
+> **Last Updated:** 08/05/2025, 18:41:37

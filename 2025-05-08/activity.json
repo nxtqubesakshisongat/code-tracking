@@ -3,8 +3,8 @@
   "projects": {
     "argos_orchestrator": {
       "totalLinesAdded": 83,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 7,
+      "totalLinesRemoved": 15,
+      "totalActiveTime": 10,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/argos_orchestrator/config/user/drone.yaml": [
           {
@@ -93,6 +93,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "yaml"
+          },
+          {
+            "timestamp": "2025-05-08T13:07:46.692Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/argos_orchestrator/config/user/mqttgateway.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 0,
+            "linesRemoved": 15,
+            "projectName": "argos_orchestrator",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "yaml"
           }
         ],

@@ -1,0 +1,154 @@
+{
+  "date": "2025-05-08",
+  "projects": {
+    "argos_orchestrator": {
+      "totalLinesAdded": 83,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 7,
+      "files": {
+        "/Users/sakshi/Desktop/nxtqube/argos_orchestrator/config/user/drone.yaml": [
+          {
+            "timestamp": "2025-05-08T13:03:06.651Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/argos_orchestrator/config/user/drone.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "argos_orchestrator",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "yaml"
+          },
+          {
+            "timestamp": "2025-05-08T13:03:07.672Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/argos_orchestrator/config/user/drone.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "argos_orchestrator",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yaml"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/argos_orchestrator/config/user/dock.yaml": [
+          {
+            "timestamp": "2025-05-08T13:03:56.766Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/argos_orchestrator/config/user/dock.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "argos_orchestrator",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yaml"
+          },
+          {
+            "timestamp": "2025-05-08T13:03:57.788Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/argos_orchestrator/config/user/dock.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "argos_orchestrator",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yaml"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/argos_orchestrator/config/user/mqttgateway.yaml": [
+          {
+            "timestamp": "2025-05-08T13:04:39.918Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/argos_orchestrator/config/user/mqttgateway.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "argos_orchestrator",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yaml"
+          },
+          {
+            "timestamp": "2025-05-08T13:04:40.931Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/argos_orchestrator/config/user/mqttgateway.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "argos_orchestrator",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yaml"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/argos_orchestrator/config/user/mavproxy_bridge.yaml": [
+          {
+            "timestamp": "2025-05-08T13:05:03.282Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/argos_orchestrator/config/user/mavproxy_bridge.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "argos_orchestrator",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yaml"
+          },
+          {
+            "timestamp": "2025-05-08T13:05:04.300Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/argos_orchestrator/config/user/mavproxy_bridge.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "argos_orchestrator",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yaml"
+          }
+        ]
+      },
+      "languageStats": {
+        "yaml": 7
+      },
+      "changeFrequency": {
+        "18": 7
+      },
+      "topFiles": [
+        "/Users/sakshi/Desktop/nxtqube/argos_orchestrator/config/user/drone.yaml",
+        "/Users/sakshi/Desktop/nxtqube/argos_orchestrator/config/user/dock.yaml",
+        "/Users/sakshi/Desktop/nxtqube/argos_orchestrator/config/user/mqttgateway.yaml",
+        "/Users/sakshi/Desktop/nxtqube/argos_orchestrator/config/user/mavproxy_bridge.yaml"
+      ],
+      "averageChangeSize": 10.375
+    }
+  },
+  "totalActiveTime": 7,
+  "totalProjects": 1,
+  "totalFiles": 4,
+  "mostActiveHours": [
+    18
+  ],
+  "mostUsedLanguages": [
+    "yaml"
+  ]
+}

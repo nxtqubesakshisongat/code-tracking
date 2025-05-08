@@ -2,7 +2,7 @@
   "date": "2025-05-08",
   "projects": {
     "argos_orchestrator": {
-      "totalLinesAdded": 83,
+      "totalLinesAdded": 85,
       "totalLinesRemoved": 15,
       "totalActiveTime": 10,
       "files": {
@@ -137,6 +137,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "yaml"
+          },
+          {
+            "timestamp": "2025-05-08T13:18:18.303Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/argos_orchestrator/config/user/mavproxy_bridge.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "argos_orchestrator",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "yaml"
           }
         ]

@@ -4,20 +4,20 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4070                                          |
+| **Lines Added** (➕)   | 4078                                          |
 | **Lines Removed** (➖) | 1228                                        |
-| **Net Change** (↕)    | 2842                |
-| **Active Time** (⌚)   | 247 minutes |
+| **Net Change** (↕)    | 2850                |
+| **Active Time** (⌚)   | 252 minutes |
 
 
 ## Modified Files
 - **Create.jsx** (+459, -11)
-- **Setting.jsx** (+1133, -840)
+- **Setting.jsx** (+1137, -840)
 - **Map.jsx** (+1585, -3)
 - **text.text** (+95, -0)
 - **package.json** (+59, -0)
-- **SettingsSidebar.jsx** (+237, -105)
-- **SettingsContent.jsx** (+200, -161)
+- **SettingsSidebar.jsx** (+239, -105)
+- **SettingsContent.jsx** (+202, -161)
 - **General.jsx** (+127, -12)
 - **UserAndPermissions.jsx** (+115, -95)
 - **DroneControl.jsx** (+20, -0)
@@ -31,7 +31,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".jsx" : 5144
+".jsx" : 5152
 ".text" : 95
 ".json" : 59
 ```
@@ -46,8 +46,8 @@ title Coding activity by hour (count of changes)
 "13h" : 17
 "14h" : 6
 "17h" : 54
-"18h" : 57
+"18h" : 62
 ```
 
 
-> **Last Updated:** 10/05/2025, 18:36:47
+> **Last Updated:** 10/05/2025, 18:46:47

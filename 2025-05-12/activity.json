@@ -2,9 +2,9 @@
   "date": "2025-05-12",
   "projects": {
     "Argos-dev": {
-      "totalLinesAdded": 2768,
+      "totalLinesAdded": 2790,
       "totalLinesRemoved": 404,
-      "totalActiveTime": 77,
+      "totalActiveTime": 80,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Settings/UserAndPermissions.jsx": [
           {
@@ -599,6 +599,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-12T12:45:29.990Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Settings/General.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "Argos-dev",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-12T12:48:16.263Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Settings/General.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Argos-dev",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "jsx"
           }
         ],

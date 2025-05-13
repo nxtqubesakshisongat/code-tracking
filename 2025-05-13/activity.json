@@ -2,9 +2,9 @@
   "date": "2025-05-13",
   "projects": {
     "Argos-dev": {
-      "totalLinesAdded": 2001,
-      "totalLinesRemoved": 908,
-      "totalActiveTime": 109,
+      "totalLinesAdded": 3344,
+      "totalLinesRemoved": 1018,
+      "totalActiveTime": 113,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Settings/General.jsx": [
           {
@@ -1217,6 +1217,66 @@
               "removed": []
             },
             "duration": 0,
+            "language": "jsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Mission/Create.jsx": [
+          {
+            "timestamp": "2025-05-13T11:50:30.180Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Mission/Create.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 448,
+            "linesRemoved": 0,
+            "projectName": "Argos-dev",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-13T11:50:31.201Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Mission/Create.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 110,
+            "projectName": "Argos-dev",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Mission/MissionControl.jsx": [
+          {
+            "timestamp": "2025-05-13T11:51:56.229Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Mission/MissionControl.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 894,
+            "linesRemoved": 0,
+            "projectName": "Argos-dev",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-13T11:51:57.244Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Mission/MissionControl.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Argos-dev",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "jsx"
           }
         ]

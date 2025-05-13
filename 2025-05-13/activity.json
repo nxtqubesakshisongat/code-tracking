@@ -2,9 +2,9 @@
   "date": "2025-05-13",
   "projects": {
     "Argos-dev": {
-      "totalLinesAdded": 1464,
-      "totalLinesRemoved": 698,
-      "totalActiveTime": 72,
+      "totalLinesAdded": 1488,
+      "totalLinesRemoved": 712,
+      "totalActiveTime": 79,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Settings/General.jsx": [
           {
@@ -758,6 +758,76 @@
             "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Settings/GeneralCostomizedPrechecks.jsx",
             "fileType": ".jsx",
             "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "Argos-dev",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-13T06:46:07.779Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Settings/GeneralCostomizedPrechecks.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "Argos-dev",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-13T06:48:08.478Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Settings/GeneralCostomizedPrechecks.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Argos-dev",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-13T06:48:38.020Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Settings/GeneralCostomizedPrechecks.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "Argos-dev",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-13T06:49:33.287Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Settings/GeneralCostomizedPrechecks.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "Argos-dev",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-13T06:49:36.389Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Settings/GeneralCostomizedPrechecks.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 8,
             "linesRemoved": 0,
             "projectName": "Argos-dev",
             "content": {

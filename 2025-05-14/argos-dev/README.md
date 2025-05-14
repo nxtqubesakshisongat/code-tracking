@@ -4,18 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2103                                          |
-| **Lines Removed** (➖) | 993                                        |
-| **Net Change** (↕)    | 1110                |
+| **Lines Added** (➕)   | 2443                                          |
+| **Lines Removed** (➖) | 999                                        |
+| **Net Change** (↕)    | 1444                |
 | **Active Time** (⌚)   | 69 minutes |
 
 
 ## Modified Files
 - **DockControl.jsx** (+482, -0)
-- **DataManagement.jsx** (+630, -510)
-- **SettingsContent.jsx** (+78, -0)
-- **help.jsx** (+761, -483)
-- **SettingsSidebar.jsx** (+152, -0)
+- **DataManagement.jsx** (+867, -510)
+- **SettingsContent.jsx** (+78, -5)
+- **help.jsx** (+864, -483)
+- **SettingsSidebar.jsx** (+152, -1)
 
 ## Visualizations
 
@@ -24,7 +24,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".jsx" : 3096
+".jsx" : 3442
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -36,7 +36,8 @@ title Coding activity by hour (count of changes)
 "11h" : 17
 "12h" : 33
 "14h" : 10
+"15h" : 4
 ```
 
 
-> **Last Updated:** 14/05/2025, 14:46:13
+> **Last Updated:** 14/05/2025, 15:18:45

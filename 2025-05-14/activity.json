@@ -2,7 +2,7 @@
   "date": "2025-05-14",
   "projects": {
     "Argos-dev": {
-      "totalLinesAdded": 4879,
+      "totalLinesAdded": 4880,
       "totalLinesRemoved": 2350,
       "totalActiveTime": 206,
       "files": {
@@ -2089,6 +2089,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-05-14T12:41:38.058Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Settings/GeneralSettings.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Argos-dev",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "jsx"
           }
         ],

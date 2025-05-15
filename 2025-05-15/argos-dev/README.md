@@ -4,15 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 768                                          |
+| **Lines Added** (➕)   | 1604                                          |
 | **Lines Removed** (➖) | 16                                        |
-| **Net Change** (↕)    | 752                |
-| **Active Time** (⌚)   | 31 minutes |
+| **Net Change** (↕)    | 1588                |
+| **Active Time** (⌚)   | 36 minutes |
 
 
 ## Modified Files
 - **FetchHomeLocation.jsx** (+371, -10)
 - **setSafeLocation.jsx** (+397, -6)
+- **DockControl.jsx** (+284, -0)
+- **Sidenav.jsx** (+552, -0)
 
 ## Visualizations
 
@@ -21,7 +23,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".jsx" : 784
+".jsx" : 1620
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -30,8 +32,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "12h" : 10
-"13h" : 11
+"13h" : 15
 ```
 
 
-> **Last Updated:** 15/05/2025, 13:12:54
+> **Last Updated:** 15/05/2025, 13:32:54

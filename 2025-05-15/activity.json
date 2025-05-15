@@ -3,7 +3,7 @@
   "projects": {
     "Argos-dev": {
       "totalLinesAdded": 1931,
-      "totalLinesRemoved": 16,
+      "totalLinesRemoved": 22,
       "totalActiveTime": 43,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/pages/FetchHomeLocation.jsx": [
@@ -447,6 +447,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-15T11:33:33.695Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/config/MQTT/createMissionLogs.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "Argos-dev",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ]

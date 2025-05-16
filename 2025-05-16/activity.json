@@ -2,9 +2,9 @@
   "date": "2025-05-16",
   "projects": {
     "Argos-dev": {
-      "totalLinesAdded": 61,
-      "totalLinesRemoved": 21,
-      "totalActiveTime": 24,
+      "totalLinesAdded": 86,
+      "totalLinesRemoved": 23,
+      "totalActiveTime": 26,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Settings/DockControl.jsx": [
           {
@@ -328,6 +328,50 @@
             },
             "duration": 0,
             "language": "jsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/src/models/safeLocation.modal.js": [
+          {
+            "timestamp": "2025-05-16T10:12:46.859Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/src/models/safeLocation.modal.js",
+            "fileType": ".js",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "Argos-dev",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-16T10:12:48.154Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/src/models/safeLocation.modal.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Argos-dev",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-16T10:12:50.932Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/src/models/safeLocation.modal.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Argos-dev",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ]
       },

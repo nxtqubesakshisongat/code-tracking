@@ -3,7 +3,7 @@
   "projects": {
     "javacript": {
       "totalLinesAdded": 56,
-      "totalLinesRemoved": 2,
+      "totalLinesRemoved": 24,
       "totalActiveTime": 11,
       "files": {
         "/Users/sakshi/Desktop/sakshi/javacript/test.js": [
@@ -89,6 +89,20 @@
               "removed": []
             },
             "duration": 5,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-17T11:13:05.870Z",
+            "fileName": "/Users/sakshi/Desktop/sakshi/javacript/test.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 22,
+            "projectName": "javacript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ],

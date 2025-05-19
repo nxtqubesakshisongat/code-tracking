@@ -3,8 +3,8 @@
   "projects": {
     "nxtqube_webapp": {
       "totalLinesAdded": 1254,
-      "totalLinesRemoved": 205,
-      "totalActiveTime": 28,
+      "totalLinesRemoved": 213,
+      "totalActiveTime": 35,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/pages/geofence.jsx": [
           {
@@ -315,6 +315,48 @@
             "fileType": ".js",
             "linesAdded": 37,
             "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-19T07:40:58.099Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/src/controllers/dockLocation.controller.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-19T07:41:00.677Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/src/controllers/dockLocation.controller.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-19T07:41:19.049Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/src/controllers/dockLocation.controller.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 2,
             "projectName": "nxtqube_webapp",
             "content": {
               "added": [],

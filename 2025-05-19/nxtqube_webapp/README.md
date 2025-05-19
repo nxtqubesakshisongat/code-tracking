@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 1254                                          |
-| **Lines Removed** (➖) | 205                                        |
-| **Net Change** (↕)    | 1049                |
-| **Active Time** (⌚)   | 28 minutes |
+| **Lines Removed** (➖) | 213                                        |
+| **Net Change** (↕)    | 1041                |
+| **Active Time** (⌚)   | 35 minutes |
 
 
 ## Modified Files
@@ -15,7 +15,7 @@
 - **DockControl.jsx** (+385, -47)
 - **FetchHomeLocation.jsx** (+368, -157)
 - **dockLocation.js** (+48, -0)
-- **dockLocation.controller.js** (+76, -0)
+- **dockLocation.controller.js** (+76, -8)
 - **dockLocation.route.js** (+13, -0)
 - **routes.js** (+50, -0)
 
@@ -27,7 +27,7 @@
 pie showData
 title Lines changed by file type
 ".jsx" : 1272
-".js" : 187
+".js" : 195
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -38,8 +38,8 @@ title Coding activity by hour (count of changes)
 "09h" : 4
 "10h" : 12
 "12h" : 8
-"13h" : 3
+"13h" : 6
 ```
 
 
-> **Last Updated:** 19/05/2025, 13:09:53
+> **Last Updated:** 19/05/2025, 13:14:53

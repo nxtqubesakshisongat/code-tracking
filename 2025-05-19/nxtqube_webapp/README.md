@@ -4,20 +4,21 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1290                                          |
-| **Lines Removed** (➖) | 258                                        |
-| **Net Change** (↕)    | 1032                |
-| **Active Time** (⌚)   | 46 minutes |
+| **Lines Added** (➕)   | 1688                                          |
+| **Lines Removed** (➖) | 432                                        |
+| **Net Change** (↕)    | 1256                |
+| **Active Time** (⌚)   | 55 minutes |
 
 
 ## Modified Files
 - **geofence.jsx** (+314, -1)
 - **DockControl.jsx** (+390, -47)
-- **FetchHomeLocation.jsx** (+368, -157)
+- **FetchHomeLocation.jsx** (+368, -174)
 - **dockLocation.js** (+48, -0)
 - **dockLocation.controller.js** (+107, -50)
 - **dockLocation.route.js** (+13, -3)
 - **routes.js** (+50, -0)
+- **setSafeLocation.jsx** (+398, -157)
 
 ## Visualizations
 
@@ -26,7 +27,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".jsx" : 1277
+".jsx" : 1849
 ".js" : 271
 ```
 
@@ -39,8 +40,8 @@ title Coding activity by hour (count of changes)
 "10h" : 12
 "12h" : 8
 "13h" : 14
-"15h" : 3
+"15h" : 12
 ```
 
 
-> **Last Updated:** 19/05/2025, 15:18:05
+> **Last Updated:** 19/05/2025, 15:28:57

@@ -2,7 +2,7 @@
   "date": "2025-05-20",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 1585,
+      "totalLinesAdded": 1711,
       "totalLinesRemoved": 94,
       "totalActiveTime": 9,
       "files": {
@@ -118,6 +118,22 @@
             },
             "duration": 1,
             "language": "jsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/MiddleWareTestScripts/scriptM.py": [
+          {
+            "timestamp": "2025-05-20T09:52:18.533Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/MiddleWareTestScripts/scriptM.py",
+            "fileType": ".py",
+            "linesAdded": 126,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
           }
         ]
       },

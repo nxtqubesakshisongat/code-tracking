@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4983                                          |
+| **Lines Added** (➕)   | 4985                                          |
 | **Lines Removed** (➖) | 969                                        |
-| **Net Change** (↕)    | 4014                |
-| **Active Time** (⌚)   | 77 minutes |
+| **Net Change** (↕)    | 4016                |
+| **Active Time** (⌚)   | 78 minutes |
 
 
 ## Modified Files
@@ -16,7 +16,7 @@
 - **dockLocation.route.js** (+12, -0)
 - **ExistingMission.jsx** (+1664, -917)
 - **DockCard.jsx** (+613, -1)
-- **Map.jsx** (+1540, -15)
+- **Map.jsx** (+1542, -15)
 - **locationService.js** (+99, -4)
 - **fetchHomeLocation.jsx** (+42, -10)
 - **recenterMapToHome.js** (+42, -10)
@@ -30,7 +30,7 @@
 pie showData
 title Lines changed by file type
 ".js" : 458
-".jsx" : 5494
+".jsx" : 5496
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -42,8 +42,8 @@ title Coding activity by hour (count of changes)
 "14h" : 4
 "15h" : 37
 "17h" : 6
-"18h" : 11
+"18h" : 13
 ```
 
 
-> **Last Updated:** 21/05/2025, 18:15:09
+> **Last Updated:** 21/05/2025, 18:40:10

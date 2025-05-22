@@ -4,15 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2015                                          |
-| **Lines Removed** (➖) | 288                                        |
-| **Net Change** (↕)    | 1727                |
-| **Active Time** (⌚)   | 53 minutes |
+| **Lines Added** (➕)   | 2790                                          |
+| **Lines Removed** (➖) | 347                                        |
+| **Net Change** (↕)    | 2443                |
+| **Active Time** (⌚)   | 56 minutes |
 
 
 ## Modified Files
-- **Map.jsx** (+1862, -285)
-- **droneLocation.js** (+153, -3)
+- **Map.jsx** (+1867, -285)
+- **droneLocation.js** (+153, -62)
+- **ExistingMission.jsx** (+770, -0)
 
 ## Visualizations
 
@@ -21,8 +22,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".jsx" : 2147
-".js" : 156
+".jsx" : 2922
+".js" : 215
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -33,8 +34,8 @@ title Coding activity by hour (count of changes)
 "10h" : 4
 "12h" : 28
 "13h" : 10
-"14h" : 3
+"14h" : 7
 ```
 
 
-> **Last Updated:** 22/05/2025, 14:38:29
+> **Last Updated:** 22/05/2025, 14:43:29

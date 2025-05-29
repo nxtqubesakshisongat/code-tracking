@@ -2,9 +2,9 @@
   "date": "2025-05-29",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 1241,
-      "totalLinesRemoved": 57,
-      "totalActiveTime": 81,
+      "totalLinesAdded": 1243,
+      "totalLinesRemoved": 58,
+      "totalActiveTime": 85,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Map/components/locationService.js": [
           {
@@ -745,6 +745,34 @@
             "fileType": ".js",
             "linesAdded": 3,
             "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-29T13:04:53.498Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/src/models/setting.model/droneControl.model.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-29T13:04:56.930Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/src/models/setting.model/droneControl.model.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "nxtqube_webapp",
             "content": {
               "added": [],

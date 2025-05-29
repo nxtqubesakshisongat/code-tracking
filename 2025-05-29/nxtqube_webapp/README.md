@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1184                                          |
-| **Lines Removed** (➖) | 55                                        |
-| **Net Change** (↕)    | 1129                |
-| **Active Time** (⌚)   | 73 minutes |
+| **Lines Added** (➕)   | 1241                                          |
+| **Lines Removed** (➖) | 56                                        |
+| **Net Change** (↕)    | 1185                |
+| **Active Time** (⌚)   | 81 minutes |
 
 
 ## Modified Files
@@ -18,10 +18,12 @@
 - **droneFailsafe.model.js** (+65, -13)
 - **droneFailsafe.controller.js** (+48, -3)
 - **droneFailsafe.route.js** (+11, -4)
-- **routes.js** (+54, -3)
+- **routes.js** (+58, -3)
 - **droneCommandHandler.jsx** (+307, -0)
 - **droneControl.model.js** (+74, -9)
-- **droneControl.controller.js** (+55, -4)
+- **droneControl.controller.js** (+89, -4)
+- **droneControl.route.js** (+10, -1)
+- **droneControl.route.js** (+9, -0)
 
 ## Visualizations
 
@@ -30,7 +32,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 514
+".js" : 572
 ".jsx" : 725
 ```
 
@@ -42,8 +44,8 @@ title Coding activity by hour (count of changes)
 "11h" : 4
 "15h" : 28
 "16h" : 18
-"17h" : 6
+"17h" : 13
 ```
 
 
-> **Last Updated:** 29/05/2025, 17:17:25
+> **Last Updated:** 29/05/2025, 17:37:26

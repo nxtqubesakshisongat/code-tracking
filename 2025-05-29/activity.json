@@ -2,9 +2,9 @@
   "date": "2025-05-29",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 95,
+      "totalLinesAdded": 513,
       "totalLinesRemoved": 2,
-      "totalActiveTime": 1,
+      "totalActiveTime": 4,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Map/components/locationService.js": [
           {
@@ -34,6 +34,38 @@
             },
             "duration": 1,
             "language": "js"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/pages/setSafeLocation.jsx": [
+          {
+            "timestamp": "2025-05-29T05:32:47.556Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/pages/setSafeLocation.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 224,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "jsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/pages/FetchHomeLocation.jsx": [
+          {
+            "timestamp": "2025-05-29T05:32:53.351Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/pages/FetchHomeLocation.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 194,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
           }
         ]
       },

@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1858                                          |
-| **Lines Removed** (➖) | 176                                        |
-| **Net Change** (↕)    | 1682                |
-| **Active Time** (⌚)   | 159 minutes |
+| **Lines Added** (➕)   | 2665                                          |
+| **Lines Removed** (➖) | 201                                        |
+| **Net Change** (↕)    | 2464                |
+| **Active Time** (⌚)   | 167 minutes |
 
 
 ## Modified Files
@@ -20,6 +20,7 @@
 - **droneControl.route.js** (+13, -1)
 - **DockCard.jsx** (+644, -15)
 - **sensorDataSlice.js** (+51, -1)
+- **DroneControl.jsx** (+807, -25)
 
 ## Visualizations
 
@@ -29,7 +30,7 @@
 pie showData
 title Lines changed by file type
 ".js" : 758
-".jsx" : 1276
+".jsx" : 2108
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -42,8 +43,8 @@ title Coding activity by hour (count of changes)
 "15h" : 33
 "16h" : 21
 "17h" : 15
-"18h" : 11
+"18h" : 20
 ```
 
 
-> **Last Updated:** 31/05/2025, 18:06:05
+> **Last Updated:** 31/05/2025, 18:21:05

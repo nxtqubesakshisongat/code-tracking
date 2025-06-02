@@ -1,0 +1,75 @@
+{
+  "date": "2025-06-02",
+  "projects": {
+    "nxtqube_webapp": {
+      "totalLinesAdded": 786,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 2,
+      "files": {
+        "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Settings/DroneControl.jsx": [
+          {
+            "timestamp": "2025-06-02T09:28:52.705Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Settings/DroneControl.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 786,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-06-02T09:28:53.725Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Settings/DroneControl.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-06-02T09:29:39.149Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Settings/DroneControl.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "jsx": 2
+      },
+      "changeFrequency": {
+        "14": 2
+      },
+      "topFiles": [
+        "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Settings/DroneControl.jsx"
+      ],
+      "averageChangeSize": 262.6666666666667
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    14
+  ],
+  "mostUsedLanguages": [
+    "jsx"
+  ]
+}

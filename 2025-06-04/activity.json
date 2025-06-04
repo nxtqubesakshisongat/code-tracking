@@ -2,9 +2,9 @@
   "date": "2025-06-04",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 2440,
-      "totalLinesRemoved": 679,
-      "totalActiveTime": 136,
+      "totalLinesAdded": 2442,
+      "totalLinesRemoved": 690,
+      "totalActiveTime": 146,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Settings/DroneControl.jsx": [
           {
@@ -1397,6 +1397,62 @@
             "fileType": ".jsx",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-06-04T11:27:39.911Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Settings/GeneralSettings.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-06-04T11:27:47.888Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Settings/GeneralSettings.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-06-04T11:31:35.967Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Settings/GeneralSettings.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-06-04T11:31:38.485Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Settings/GeneralSettings.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
             "projectName": "nxtqube_webapp",
             "content": {
               "added": [],

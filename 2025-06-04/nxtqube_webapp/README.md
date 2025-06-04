@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2463                                          |
-| **Lines Removed** (➖) | 693                                        |
-| **Net Change** (↕)    | 1770                |
-| **Active Time** (⌚)   | 153 minutes |
+| **Lines Added** (➕)   | 2542                                          |
+| **Lines Removed** (➖) | 699                                        |
+| **Net Change** (↕)    | 1843                |
+| **Active Time** (⌚)   | 158 minutes |
 
 
 ## Modified Files
@@ -18,6 +18,7 @@
 - **generalSetting.route.js** (+22, -8)
 - **routes.js** (+58, -0)
 - **GeneralSettings.jsx** (+436, -25)
+- **SettingsContent.jsx** (+79, -6)
 
 ## Visualizations
 
@@ -26,7 +27,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".jsx" : 2083
+".jsx" : 2168
 ".js" : 1073
 ```
 
@@ -43,8 +44,8 @@ title Coding activity by hour (count of changes)
 "15h" : 18
 "16h" : 28
 "17h" : 9
-"18h" : 1
+"18h" : 7
 ```
 
 
-> **Last Updated:** 04/06/2025, 18:42:19
+> **Last Updated:** 04/06/2025, 18:57:19

@@ -3,7 +3,7 @@
   "projects": {
     "nxtqube_webapp": {
       "totalLinesAdded": 142,
-      "totalLinesRemoved": 121,
+      "totalLinesRemoved": 143,
       "totalActiveTime": 52,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Settings/SettingsContent.jsx": [
@@ -637,6 +637,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-06-05T09:32:39.350Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Settings/GeneralSettings.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 22,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "jsx"
           }
         ]

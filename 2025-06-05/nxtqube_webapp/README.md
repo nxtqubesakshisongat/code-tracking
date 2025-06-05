@@ -4,15 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 143                                          |
-| **Lines Removed** (➖) | 145                                        |
-| **Net Change** (↕)    | -2                |
-| **Active Time** (⌚)   | 59 minutes |
+| **Lines Added** (➕)   | 243                                          |
+| **Lines Removed** (➖) | 218                                        |
+| **Net Change** (↕)    | 25                |
+| **Active Time** (⌚)   | 65 minutes |
 
 
 ## Modified Files
 - **SettingsContent.jsx** (+0, -37)
 - **GeneralSettings.jsx** (+143, -108)
+- **help.model.js** (+100, -73)
 
 ## Visualizations
 
@@ -22,6 +23,7 @@
 pie showData
 title Lines changed by file type
 ".jsx" : 288
+".js" : 173
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -32,7 +34,8 @@ title Coding activity by hour (count of changes)
 "13h" : 13
 "14h" : 32
 "15h" : 4
+"17h" : 7
 ```
 
 
-> **Last Updated:** 05/06/2025, 15:07:55
+> **Last Updated:** 05/06/2025, 17:04:10

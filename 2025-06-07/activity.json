@@ -2,9 +2,9 @@
   "date": "2025-06-07",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 713,
-      "totalLinesRemoved": 58,
-      "totalActiveTime": 32,
+      "totalLinesAdded": 1660,
+      "totalLinesRemoved": 877,
+      "totalActiveTime": 38,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/src/controllers/setting.controller/helpdesk_ticket.controller.js": [
           {
@@ -358,6 +358,62 @@
             },
             "duration": 1,
             "language": "jsx"
+          },
+          {
+            "timestamp": "2025-06-07T09:48:31.325Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Settings/help.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 365,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-06-07T09:48:59.578Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Settings/help.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 108,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-06-07T09:50:22.946Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Settings/help.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 473,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-06-07T09:51:09.438Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Settings/help.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 346,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
           }
         ],
         "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/src/routes/helpdesk_ticket.route.js": [
@@ -432,6 +488,36 @@
             },
             "duration": 3,
             "language": "js"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Settings/helpdesk.jsx": [
+          {
+            "timestamp": "2025-06-07T09:48:21.845Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Settings/helpdesk.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-06-07T09:48:22.853Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Settings/helpdesk.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 473,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
           }
         ]
       },

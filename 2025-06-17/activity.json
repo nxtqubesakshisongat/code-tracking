@@ -2,7 +2,7 @@
   "date": "2025-06-17",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 100,
+      "totalLinesAdded": 102,
       "totalLinesRemoved": 36,
       "totalActiveTime": 39,
       "files": {
@@ -523,6 +523,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-06-17T12:55:18.065Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Settings/DroneControl.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "jsx"
           }
         ],

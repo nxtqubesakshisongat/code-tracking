@@ -4,14 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 63                                          |
+| **Lines Added** (➕)   | 99                                          |
 | **Lines Removed** (➖) | 24                                        |
-| **Net Change** (↕)    | 39                |
+| **Net Change** (↕)    | 75                |
 | **Active Time** (⌚)   | 37 minutes |
 
 
 ## Modified Files
 - **DroneControl.jsx** (+63, -24)
+- **droneCommand.controller.js** (+36, -0)
 
 ## Visualizations
 
@@ -21,6 +22,7 @@
 pie showData
 title Lines changed by file type
 ".jsx" : 87
+".js" : 36
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -32,8 +34,8 @@ title Coding activity by hour (count of changes)
 "14h" : 2
 "15h" : 24
 "16h" : 6
-"17h" : 1
+"17h" : 2
 ```
 
 
-> **Last Updated:** 17/06/2025, 17:11:44
+> **Last Updated:** 17/06/2025, 17:41:55

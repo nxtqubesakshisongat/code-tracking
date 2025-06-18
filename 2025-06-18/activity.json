@@ -3,7 +3,7 @@
   "projects": {
     "nxtqube_webapp": {
       "totalLinesAdded": 211,
-      "totalLinesRemoved": 0,
+      "totalLinesRemoved": 4,
       "totalActiveTime": 0,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Mission/js/dataProcessor.js": [
@@ -13,6 +13,20 @@
             "fileType": ".js",
             "linesAdded": 211,
             "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-06-18T08:41:59.152Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Mission/js/dataProcessor.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 4,
             "projectName": "nxtqube_webapp",
             "content": {
               "added": [],

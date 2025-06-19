@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 414                                          |
-| **Lines Removed** (➖) | 101                                        |
-| **Net Change** (↕)    | 313                |
-| **Active Time** (⌚)   | 54 minutes |
+| **Lines Added** (➕)   | 423                                          |
+| **Lines Removed** (➖) | 106                                        |
+| **Net Change** (↕)    | 317                |
+| **Active Time** (⌚)   | 62 minutes |
 
 
 ## Modified Files
@@ -18,7 +18,8 @@
 - **droneControlUserModelDefaults.model.js** (+39, -0)
 - **dataProcessor.js** (+0, -1)
 - **ModelNxtqubeDrones.model.js** (+116, -45)
-- **ModelsNxtqubeDrone.controller.js** (+45, -0)
+- **ModelsNxtqubeDrone.controller.js** (+45, -4)
+- **ModelsNxtqubeDrone.route.js** (+9, -1)
 
 ## Visualizations
 
@@ -27,7 +28,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 515
+".js" : 529
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -38,8 +39,8 @@ title Coding activity by hour (count of changes)
 "11h" : 10
 "12h" : 1
 "17h" : 32
-"18h" : 3
+"18h" : 11
 ```
 
 
-> **Last Updated:** 19/06/2025, 18:03:42
+> **Last Updated:** 19/06/2025, 18:08:42

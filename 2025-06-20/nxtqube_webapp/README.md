@@ -5,8 +5,8 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 553                                          |
-| **Lines Removed** (➖) | 97                                        |
-| **Net Change** (↕)    | 456                |
+| **Lines Removed** (➖) | 98                                        |
+| **Net Change** (↕)    | 455                |
 | **Active Time** (⌚)   | 74 minutes |
 
 
@@ -18,7 +18,7 @@
 - **routes.js** (+5, -0)
 - **ManufacturedDrones.model.js** (+67, -33)
 - **drone.model.js** (+20, -0)
-- **drone.controller.js** (+2, -1)
+- **drone.controller.js** (+2, -2)
 - **manufacturedDrones.controller.js** (+68, -0)
 - **manufacturedDrones.route.js** (+16, -6)
 
@@ -29,7 +29,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 650
+".js" : 651
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -42,8 +42,8 @@ title Coding activity by hour (count of changes)
 "12h" : 1
 "14h" : 13
 "15h" : 1
-"16h" : 11
+"16h" : 12
 ```
 
 
-> **Last Updated:** 20/06/2025, 16:13:53
+> **Last Updated:** 20/06/2025, 16:23:53

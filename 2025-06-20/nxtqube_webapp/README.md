@@ -5,15 +5,15 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 553                                          |
-| **Lines Removed** (➖) | 98                                        |
-| **Net Change** (↕)    | 455                |
-| **Active Time** (⌚)   | 74 minutes |
+| **Lines Removed** (➖) | 102                                        |
+| **Net Change** (↕)    | 451                |
+| **Active Time** (⌚)   | 76 minutes |
 
 
 ## Modified Files
 - **DroneDefaultsByUser.model.js** (+81, -40)
 - **droneFailsafeDefaluts.model.js** (+62, -8)
-- **DroneDefaultsByUser.controller.js** (+219, -9)
+- **DroneDefaultsByUser.controller.js** (+219, -13)
 - **DroneDefaultsByUser.route.js** (+13, -0)
 - **routes.js** (+5, -0)
 - **ManufacturedDrones.model.js** (+67, -33)
@@ -29,7 +29,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 651
+".js" : 655
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -43,7 +43,8 @@ title Coding activity by hour (count of changes)
 "14h" : 13
 "15h" : 1
 "16h" : 12
+"17h" : 3
 ```
 
 
-> **Last Updated:** 20/06/2025, 16:23:53
+> **Last Updated:** 20/06/2025, 17:17:34

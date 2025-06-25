@@ -4,16 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1737                                          |
-| **Lines Removed** (➖) | 470                                        |
-| **Net Change** (↕)    | 1267                |
-| **Active Time** (⌚)   | 13 minutes |
+| **Lines Added** (➕)   | 2332                                          |
+| **Lines Removed** (➖) | 480                                        |
+| **Net Change** (↕)    | 1852                |
+| **Active Time** (⌚)   | 32 minutes |
 
 
 ## Modified Files
 - **LaunchControl.jsx** (+628, -0)
 - **help.model.js** (+54, -0)
-- **help.jsx** (+1055, -470)
+- **help.jsx** (+1060, -479)
+- **addToken.jsx** (+590, -1)
 
 ## Visualizations
 
@@ -22,7 +23,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".jsx" : 2153
+".jsx" : 2758
 ".js" : 54
 ```
 
@@ -32,8 +33,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "10h" : 1
-"11h" : 9
+"11h" : 26
 ```
 
 
-> **Last Updated:** 25/06/2025, 11:13:01
+> **Last Updated:** 25/06/2025, 11:18:01

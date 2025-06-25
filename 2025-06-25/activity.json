@@ -2,7 +2,7 @@
   "date": "2025-06-25",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 2622,
+      "totalLinesAdded": 2741,
       "totalLinesRemoved": 546,
       "totalActiveTime": 53,
       "files": {
@@ -615,6 +615,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-06-25T06:31:03.079Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Settings/helpdesk.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 119,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "jsx"
           }
         ]

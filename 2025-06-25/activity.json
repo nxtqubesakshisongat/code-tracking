@@ -3,7 +3,7 @@
   "projects": {
     "nxtqube_webapp": {
       "totalLinesAdded": 3835,
-      "totalLinesRemoved": 1956,
+      "totalLinesRemoved": 1960,
       "totalActiveTime": 192,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Mission/LaunchControl.jsx": [
@@ -49,6 +49,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-06-25T13:32:20.657Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/backend/src/models/setting.model/help.model.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ],

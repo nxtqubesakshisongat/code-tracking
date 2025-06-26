@@ -2,7 +2,7 @@
   "date": "2025-06-26",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 0,
+      "totalLinesAdded": 2,
       "totalLinesRemoved": 1,
       "totalActiveTime": 0,
       "files": {
@@ -13,6 +13,20 @@
             "fileType": ".jsx",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-06-26T05:34:49.273Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos-dev/nxtqube_webapp/frontend/src/components/Settings/help.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
             "projectName": "nxtqube_webapp",
             "content": {
               "added": [],

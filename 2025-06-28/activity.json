@@ -2,9 +2,9 @@
   "date": "2025-06-28",
   "projects": {
     "Argos": {
-      "totalLinesAdded": 646,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 4,
+      "totalLinesAdded": 1022,
+      "totalLinesRemoved": 159,
+      "totalActiveTime": 13,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/ScheduleMission/MissionFormDrawer.jsx": [
           {
@@ -85,6 +85,94 @@
             "fileType": ".js",
             "linesAdded": 2,
             "linesRemoved": 0,
+            "projectName": "Argos",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/models/scheduledMissions.model.js": [
+          {
+            "timestamp": "2025-06-28T05:54:47.341Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/models/scheduledMissions.model.js",
+            "fileType": ".js",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "Argos",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-06-28T05:54:50.529Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/models/scheduledMissions.model.js",
+            "fileType": ".js",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "Argos",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/controllers/scheduledMissions.controller.js": [
+          {
+            "timestamp": "2025-06-28T05:55:24.373Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/controllers/scheduledMissions.controller.js",
+            "fileType": ".js",
+            "linesAdded": 157,
+            "linesRemoved": 0,
+            "projectName": "Argos",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-06-28T05:55:26.994Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/controllers/scheduledMissions.controller.js",
+            "fileType": ".js",
+            "linesAdded": 161,
+            "linesRemoved": 0,
+            "projectName": "Argos",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-06-28T05:56:57.556Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/controllers/scheduledMissions.controller.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 157,
+            "projectName": "Argos",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-06-28T05:57:01.266Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/controllers/scheduledMissions.controller.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 2,
             "projectName": "Argos",
             "content": {
               "added": [],

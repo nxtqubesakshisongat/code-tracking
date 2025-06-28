@@ -2,9 +2,9 @@
   "date": "2025-06-28",
   "projects": {
     "Argos": {
-      "totalLinesAdded": 1022,
+      "totalLinesAdded": 1322,
       "totalLinesRemoved": 159,
-      "totalActiveTime": 13,
+      "totalActiveTime": 18,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/ScheduleMission/MissionFormDrawer.jsx": [
           {
@@ -173,6 +173,36 @@
             "fileType": ".js",
             "linesAdded": 0,
             "linesRemoved": 2,
+            "projectName": "Argos",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/missionScheduler.js": [
+          {
+            "timestamp": "2025-06-28T06:00:37.633Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/missionScheduler.js",
+            "fileType": ".js",
+            "linesAdded": 161,
+            "linesRemoved": 0,
+            "projectName": "Argos",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-06-28T06:00:55.938Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/missionScheduler.js",
+            "fileType": ".js",
+            "linesAdded": 139,
+            "linesRemoved": 0,
             "projectName": "Argos",
             "content": {
               "added": [],

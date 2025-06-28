@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1962                                          |
-| **Lines Removed** (➖) | 159                                        |
-| **Net Change** (↕)    | 1803                |
-| **Active Time** (⌚)   | 22 minutes |
+| **Lines Added** (➕)   | 2374                                          |
+| **Lines Removed** (➖) | 162                                        |
+| **Net Change** (↕)    | 2212                |
+| **Active Time** (⌚)   | 32 minutes |
 
 
 ## Modified Files
@@ -16,6 +16,7 @@
 - **scheduledMissions.model.js** (+58, -0)
 - **scheduledMissions.controller.js** (+318, -159)
 - **missionScheduler.js** (+300, -0)
+- **DetailedLog.jsx** (+412, -3)
 
 ## Visualizations
 
@@ -24,7 +25,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".jsx" : 1281
+".jsx" : 1696
 ".js" : 840
 ```
 
@@ -34,7 +35,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "11h" : 15
+"12h" : 11
 ```
 
 
-> **Last Updated:** 28/06/2025, 11:39:02
+> **Last Updated:** 28/06/2025, 12:11:33

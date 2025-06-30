@@ -4,14 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 182                                          |
+| **Lines Added** (➕)   | 587                                          |
 | **Lines Removed** (➖) | 14                                        |
-| **Net Change** (↕)    | 168                |
+| **Net Change** (↕)    | 573                |
 | **Active Time** (⌚)   | 1 minute |
 
 
 ## Modified Files
 - **PlaybackTab.jsx** (+182, -14)
+- **DetailedLog.jsx** (+405, -0)
 
 ## Visualizations
 
@@ -20,7 +21,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".jsx" : 196
+".jsx" : 601
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -29,7 +30,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "11h" : 2
+"12h" : 1
 ```
 
 
-> **Last Updated:** 30/06/2025, 11:14:48
+> **Last Updated:** 30/06/2025, 12:22:43

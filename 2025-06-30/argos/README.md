@@ -4,18 +4,19 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1224                                          |
-| **Lines Removed** (➖) | 85                                        |
-| **Net Change** (↕)    | 1139                |
-| **Active Time** (⌚)   | 48 minutes |
+| **Lines Added** (➕)   | 1310                                          |
+| **Lines Removed** (➖) | 90                                        |
+| **Net Change** (↕)    | 1220                |
+| **Active Time** (⌚)   | 59 minutes |
 
 
 ## Modified Files
-- **PlaybackTab.jsx** (+207, -21)
+- **PlaybackTab.jsx** (+209, -22)
 - **DetailedLog.jsx** (+411, -0)
 - **droneCommandHandler.jsx** (+327, -7)
-- **commandHandler.js** (+138, -0)
+- **commandHandler.js** (+138, -2)
 - **commandHandler.js** (+141, -57)
+- **Notifications.js** (+84, -2)
 
 ## Visualizations
 
@@ -24,8 +25,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".jsx" : 973
-".js" : 336
+".jsx" : 976
+".js" : 424
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -38,8 +39,8 @@ title Coding activity by hour (count of changes)
 "13h" : 9
 "14h" : 4
 "15h" : 15
-"16h" : 12
+"16h" : 18
 ```
 
 
-> **Last Updated:** 30/06/2025, 16:10:04
+> **Last Updated:** 30/06/2025, 16:15:04

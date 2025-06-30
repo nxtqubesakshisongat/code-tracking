@@ -2,9 +2,9 @@
   "date": "2025-06-30",
   "projects": {
     "Argos": {
-      "totalLinesAdded": 1839,
+      "totalLinesAdded": 2472,
       "totalLinesRemoved": 227,
-      "totalActiveTime": 128,
+      "totalActiveTime": 134,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/MissionLogs/PlaybackTab.jsx": [
           {
@@ -1462,6 +1462,36 @@
             },
             "duration": 0,
             "language": "js"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/LaunchControl.jsx": [
+          {
+            "timestamp": "2025-06-30T12:24:58.075Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/LaunchControl.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 628,
+            "linesRemoved": 0,
+            "projectName": "Argos",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-06-30T12:24:59.918Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/LaunchControl.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "Argos",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
           }
         ]
       },

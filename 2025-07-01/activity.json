@@ -3,7 +3,7 @@
   "projects": {
     "Argos": {
       "totalLinesAdded": 2142,
-      "totalLinesRemoved": 113,
+      "totalLinesRemoved": 114,
       "totalActiveTime": 56,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/controllers/DroneDefaultsByUser.controller.js": [
@@ -691,6 +691,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-01T12:16:45.242Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/controllers/setting.controller/helpdesk_ticket.controller.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Argos",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ]

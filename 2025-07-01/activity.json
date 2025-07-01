@@ -2,9 +2,9 @@
   "date": "2025-07-01",
   "projects": {
     "Argos": {
-      "totalLinesAdded": 1781,
+      "totalLinesAdded": 2009,
       "totalLinesRemoved": 112,
-      "totalActiveTime": 49,
+      "totalActiveTime": 50,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/controllers/DroneDefaultsByUser.controller.js": [
           {
@@ -624,6 +624,36 @@
             "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Settings/help.jsx",
             "fileType": ".jsx",
             "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "Argos",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Settings/helpdesk.jsx": [
+          {
+            "timestamp": "2025-07-01T08:01:48.739Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Settings/helpdesk.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 199,
+            "linesRemoved": 0,
+            "projectName": "Argos",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-07-01T08:01:52.087Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Settings/helpdesk.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 29,
             "linesRemoved": 0,
             "projectName": "Argos",
             "content": {

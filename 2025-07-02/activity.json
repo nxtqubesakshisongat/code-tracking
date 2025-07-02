@@ -83,9 +83,9 @@
       "averageChangeSize": 243
     },
     "webscrap": {
-      "totalLinesAdded": 28,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 5,
+      "totalLinesAdded": 9218,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 12,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/webscrap/scraper.py": [
           {
@@ -145,6 +145,92 @@
             },
             "duration": 1,
             "language": "py"
+          },
+          {
+            "timestamp": "2025-07-02T07:18:31.944Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/webscrap/scrape_to_excel.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "webscrap",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-02T07:18:33.457Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/webscrap/scrape_to_excel.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "webscrap",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-02T07:18:40.931Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/webscrap/scrape_to_excel.py",
+            "fileType": ".py",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "webscrap",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-02T07:18:45.838Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/webscrap/scrape_to_excel.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "webscrap",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/webscrap/webscrap.htm": [
+          {
+            "timestamp": "2025-07-02T07:19:14.674Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/webscrap/webscrap.htm",
+            "fileType": ".htm",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "webscrap",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "htm"
+          },
+          {
+            "timestamp": "2025-07-02T07:19:15.688Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/webscrap/webscrap.htm",
+            "fileType": ".htm",
+            "linesAdded": 9184,
+            "linesRemoved": 0,
+            "projectName": "webscrap",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "htm"
           }
         ]
       },

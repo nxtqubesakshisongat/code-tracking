@@ -4,15 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 28                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 28                |
-| **Active Time** (⌚)   | 5 minutes |
+| **Lines Added** (➕)   | 9218                                          |
+| **Lines Removed** (➖) | 1                                        |
+| **Net Change** (↕)    | 9217                |
+| **Active Time** (⌚)   | 12 minutes |
 
 
 ## Modified Files
 - **scraper.py** (+14, -0)
-- **scrape_to_excel.py** (+14, -0)
+- **scrape_to_excel.py** (+19, -1)
+- **webscrap.htm** (+9185, -0)
 
 ## Visualizations
 
@@ -21,7 +22,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 28
+".py" : 34
+".htm" : 9185
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -29,8 +31,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"12h" : 4
+"12h" : 10
 ```
 
 
-> **Last Updated:** 02/07/2025, 12:47:09
+> **Last Updated:** 02/07/2025, 12:52:09

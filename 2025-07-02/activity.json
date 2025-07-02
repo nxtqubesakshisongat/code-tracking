@@ -2,9 +2,9 @@
   "date": "2025-07-02",
   "projects": {
     "Argos": {
-      "totalLinesAdded": 2344,
-      "totalLinesRemoved": 6,
-      "totalActiveTime": 18,
+      "totalLinesAdded": 2665,
+      "totalLinesRemoved": 7,
+      "totalActiveTime": 30,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/controllers/missionLog/flightLog.controller.js": [
           {
@@ -225,6 +225,106 @@
               "removed": []
             },
             "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-07-02T13:33:04.571Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Geofence/ExistingFenceForm.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "Argos",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-07-02T13:33:44.077Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Geofence/ExistingFenceForm.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Argos",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-07-02T13:34:02.498Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Geofence/ExistingFenceForm.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Argos",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/pages/geofence.jsx": [
+          {
+            "timestamp": "2025-07-02T13:37:05.492Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/pages/geofence.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 313,
+            "linesRemoved": 0,
+            "projectName": "Argos",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-07-02T13:37:06.501Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/pages/geofence.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Argos",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-07-02T13:37:10.444Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/pages/geofence.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Argos",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-07-02T13:37:15.724Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/pages/geofence.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Argos",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "jsx"
           }
         ]

@@ -81,6 +81,84 @@
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/MissionLogs/PlaybackTab.jsx"
       ],
       "averageChangeSize": 243
+    },
+    "webscrap": {
+      "totalLinesAdded": 28,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 5,
+      "files": {
+        "/Users/sakshi/Desktop/nxtqube/webscrap/scraper.py": [
+          {
+            "timestamp": "2025-07-02T07:14:13.491Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/webscrap/scraper.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "webscrap",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-02T07:14:14.506Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/webscrap/scraper.py",
+            "fileType": ".py",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "webscrap",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/webscrap/scrape_to_excel.py": [
+          {
+            "timestamp": "2025-07-02T07:16:52.666Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/webscrap/scrape_to_excel.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "webscrap",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-02T07:16:54.553Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/webscrap/scrape_to_excel.py",
+            "fileType": ".py",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "webscrap",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 5
+      },
+      "changeFrequency": {
+        "12": 5
+      },
+      "topFiles": [
+        "/Users/sakshi/Desktop/nxtqube/webscrap/scraper.py",
+        "/Users/sakshi/Desktop/nxtqube/webscrap/scrape_to_excel.py"
+      ],
+      "averageChangeSize": 7
     }
   },
   "totalActiveTime": 5,

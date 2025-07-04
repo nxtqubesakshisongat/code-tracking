@@ -3,7 +3,7 @@
   "projects": {
     "Argos": {
       "totalLinesAdded": 326,
-      "totalLinesRemoved": 10,
+      "totalLinesRemoved": 11,
       "totalActiveTime": 8,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/pages/geofence.jsx": [
@@ -125,6 +125,20 @@
             "fileType": ".jsx",
             "linesAdded": 0,
             "linesRemoved": 3,
+            "projectName": "Argos",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-07-04T07:26:47.076Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/pages/geofence.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "Argos",
             "content": {
               "added": [],

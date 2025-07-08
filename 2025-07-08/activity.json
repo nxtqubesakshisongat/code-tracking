@@ -2,7 +2,7 @@
   "date": "2025-07-08",
   "projects": {
     "Argos": {
-      "totalLinesAdded": 4680,
+      "totalLinesAdded": 4681,
       "totalLinesRemoved": 409,
       "totalActiveTime": 186,
       "files": {
@@ -1907,6 +1907,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-07-08T12:48:55.556Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/pages/createFlow.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Argos",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "jsx"
           }
         ]

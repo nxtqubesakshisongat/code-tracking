@@ -2,9 +2,9 @@
   "date": "2025-07-08",
   "projects": {
     "Argos": {
-      "totalLinesAdded": 5211,
-      "totalLinesRemoved": 582,
-      "totalActiveTime": 222,
+      "totalLinesAdded": 5217,
+      "totalLinesRemoved": 586,
+      "totalActiveTime": 228,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Geofence/CreateFenceForm.jsx": [
           {
@@ -2313,6 +2313,76 @@
               "removed": []
             },
             "duration": 2,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-07-08T13:30:36.515Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/pages/createFlow.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "Argos",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-07-08T13:30:38.912Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/pages/createFlow.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "Argos",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-07-08T13:30:41.670Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/pages/createFlow.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Argos",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-07-08T13:31:08.185Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/pages/createFlow.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Argos",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-07-08T13:31:13.972Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/pages/createFlow.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Argos",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "jsx"
           }
         ]

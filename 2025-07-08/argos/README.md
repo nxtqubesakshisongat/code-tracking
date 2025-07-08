@@ -4,16 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3222                                          |
-| **Lines Removed** (➖) | 21                                        |
-| **Net Change** (↕)    | 3201                |
-| **Active Time** (⌚)   | 33 minutes |
+| **Lines Added** (➕)   | 3747                                          |
+| **Lines Removed** (➖) | 23                                        |
+| **Net Change** (↕)    | 3724                |
+| **Active Time** (⌚)   | 46 minutes |
 
 
 ## Modified Files
 - **CreateFenceForm.jsx** (+862, -15)
 - **Map.jsx** (+1805, -2)
-- **Sidenav.jsx** (+555, -4)
+- **Sidenav.jsx** (+584, -4)
+- **AllRoutes.jsx** (+133, -2)
+- **flows.jsx** (+363, -0)
 
 ## Visualizations
 
@@ -22,7 +24,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".jsx" : 3243
+".jsx" : 3770
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -32,8 +34,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "11h" : 16
 "12h" : 3
-"13h" : 7
+"13h" : 18
 ```
 
 
-> **Last Updated:** 08/07/2025, 13:18:18
+> **Last Updated:** 08/07/2025, 13:23:18

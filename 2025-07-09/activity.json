@@ -2,9 +2,9 @@
   "date": "2025-07-09",
   "projects": {
     "Argos": {
-      "totalLinesAdded": 5664,
+      "totalLinesAdded": 5804,
       "totalLinesRemoved": 1764,
-      "totalActiveTime": 148,
+      "totalActiveTime": 153,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/pages/createFlow.jsx": [
           {
@@ -1798,6 +1798,50 @@
             },
             "duration": 1,
             "language": "jsx"
+          },
+          {
+            "timestamp": "2025-07-09T13:17:00.262Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/Map.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Argos",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "jsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/components/HandleAddWaypointOnclick.js": [
+          {
+            "timestamp": "2025-07-09T13:13:20.543Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/components/HandleAddWaypointOnclick.js",
+            "fileType": ".js",
+            "linesAdded": 91,
+            "linesRemoved": 0,
+            "projectName": "Argos",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-09T13:13:22.281Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/components/HandleAddWaypointOnclick.js",
+            "fileType": ".js",
+            "linesAdded": 48,
+            "linesRemoved": 0,
+            "projectName": "Argos",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ]
       },

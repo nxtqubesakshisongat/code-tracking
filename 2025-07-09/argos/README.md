@@ -5,16 +5,16 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 2690                                          |
-| **Lines Removed** (➖) | 1097                                        |
-| **Net Change** (↕)    | 1593                |
-| **Active Time** (⌚)   | 76 minutes |
+| **Lines Removed** (➖) | 1100                                        |
+| **Net Change** (↕)    | 1590                |
+| **Active Time** (⌚)   | 78 minutes |
 
 
 ## Modified Files
 - **createFlow.jsx** (+707, -174)
 - **Sidenav.jsx** (+609, -0)
 - **scheduledMissions.controller.js** (+164, -7)
-- **Annotations.jsx** (+1073, -916)
+- **Annotations.jsx** (+1073, -919)
 - **AllRoutes.jsx** (+137, -0)
 
 ## Visualizations
@@ -24,7 +24,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".jsx" : 3616
+".jsx" : 3619
 ".js" : 171
 ```
 
@@ -35,8 +35,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "11h" : 14
 "12h" : 15
-"13h" : 29
+"13h" : 31
 ```
 
 
-> **Last Updated:** 09/07/2025, 13:46:15
+> **Last Updated:** 09/07/2025, 13:51:15

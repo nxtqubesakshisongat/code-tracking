@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 559                                          |
-| **Lines Removed** (➖) | 24                                        |
-| **Net Change** (↕)    | 535                |
-| **Active Time** (⌚)   | 32 minutes |
+| **Lines Added** (➕)   | 866                                          |
+| **Lines Removed** (➖) | 45                                        |
+| **Net Change** (↕)    | 821                |
+| **Active Time** (⌚)   | 43 minutes |
 
 
 ## Modified Files
 - **Annotations.jsx** (+52, -8)
 - **AnnotationSidebar.jsx** (+143, -2)
-- **CreateAnnotation.jsx** (+364, -14)
+- **CreateAnnotation.jsx** (+671, -35)
 
 ## Visualizations
 
@@ -22,7 +22,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".jsx" : 583
+".jsx" : 911
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -32,8 +32,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "10h" : 1
 "11h" : 9
-"12h" : 13
+"12h" : 25
 ```
 
 
-> **Last Updated:** 10/07/2025, 12:06:43
+> **Last Updated:** 10/07/2025, 12:16:43

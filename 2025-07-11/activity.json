@@ -2,9 +2,9 @@
   "date": "2025-07-11",
   "projects": {
     "Argos": {
-      "totalLinesAdded": 3870,
-      "totalLinesRemoved": 473,
-      "totalActiveTime": 121,
+      "totalLinesAdded": 4076,
+      "totalLinesRemoved": 475,
+      "totalActiveTime": 122,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Annotations/AnnotationSidebar.jsx": [
           {
@@ -1472,6 +1472,36 @@
             },
             "duration": 1,
             "language": "jsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/js/dataProcessor.js": [
+          {
+            "timestamp": "2025-07-11T10:51:40.746Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/js/dataProcessor.js",
+            "fileType": ".js",
+            "linesAdded": 206,
+            "linesRemoved": 0,
+            "projectName": "Argos",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-11T10:51:42.061Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/js/dataProcessor.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Argos",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ]
       },

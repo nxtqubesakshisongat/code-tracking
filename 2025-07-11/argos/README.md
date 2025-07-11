@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2864                                          |
-| **Lines Removed** (➖) | 48                                        |
-| **Net Change** (↕)    | 2816                |
-| **Active Time** (⌚)   | 66 minutes |
+| **Lines Added** (➕)   | 2956                                          |
+| **Lines Removed** (➖) | 138                                        |
+| **Net Change** (↕)    | 2818                |
+| **Active Time** (⌚)   | 75 minutes |
 
 
 ## Modified Files
 - **AnnotationSidebar.jsx** (+139, -3)
 - **Annotations.jsx** (+69, -1)
 - **CreateAnnotation.jsx** (+494, -37)
-- **HandleAddWaypointOnclick.js** (+340, -5)
+- **HandleAddWaypointOnclick.js** (+432, -95)
 - **Map.jsx** (+1822, -2)
 
 ## Visualizations
@@ -25,7 +25,7 @@
 pie showData
 title Lines changed by file type
 ".jsx" : 2567
-".js" : 345
+".js" : 527
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -36,8 +36,8 @@ title Coding activity by hour (count of changes)
 "10h" : 3
 "11h" : 51
 "12h" : 10
-"13h" : 1
+"13h" : 7
 ```
 
 
-> **Last Updated:** 11/07/2025, 13:00:34
+> **Last Updated:** 11/07/2025, 13:05:34

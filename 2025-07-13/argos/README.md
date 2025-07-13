@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3716                                          |
-| **Lines Removed** (➖) | 657                                        |
-| **Net Change** (↕)    | 3059                |
-| **Active Time** (⌚)   | 163 minutes |
+| **Lines Added** (➕)   | 3770                                          |
+| **Lines Removed** (➖) | 706                                        |
+| **Net Change** (↕)    | 3064                |
+| **Active Time** (⌚)   | 177 minutes |
 
 
 ## Modified Files
-- **Map.jsx** (+2442, -552)
+- **Map.jsx** (+2446, -553)
 - **circularFence.js** (+316, -0)
-- **CreateFenceForm.jsx** (+958, -105)
+- **CreateFenceForm.jsx** (+1008, -153)
 
 ## Visualizations
 
@@ -22,7 +22,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".jsx" : 4057
+".jsx" : 4160
 ".js" : 316
 ```
 
@@ -37,8 +37,8 @@ title Coding activity by hour (count of changes)
 "14h" : 2
 "15h" : 10
 "16h" : 16
-"17h" : 18
+"17h" : 24
 ```
 
 
-> **Last Updated:** 13/07/2025, 17:20:41
+> **Last Updated:** 13/07/2025, 17:25:41

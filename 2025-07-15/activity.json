@@ -2,7 +2,7 @@
   "date": "2025-07-15",
   "projects": {
     "Argos": {
-      "totalLinesAdded": 3256,
+      "totalLinesAdded": 3291,
       "totalLinesRemoved": 7,
       "totalActiveTime": 27,
       "files": {
@@ -386,6 +386,20 @@
             "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Annotations/GoToLocation.jsx",
             "fileType": ".jsx",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Argos",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-07-15T08:15:22.976Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Annotations/GoToLocation.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 35,
             "linesRemoved": 0,
             "projectName": "Argos",
             "content": {

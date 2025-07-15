@@ -2,9 +2,9 @@
   "date": "2025-07-15",
   "projects": {
     "Argos": {
-      "totalLinesAdded": 3012,
-      "totalLinesRemoved": 4,
-      "totalActiveTime": 24,
+      "totalLinesAdded": 3255,
+      "totalLinesRemoved": 7,
+      "totalActiveTime": 27,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/Map.jsx": [
           {
@@ -315,6 +315,64 @@
             "fileType": ".jsx",
             "linesAdded": 0,
             "linesRemoved": 2,
+            "projectName": "Argos",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Annotations/GoToLocation.jsx": [
+          {
+            "timestamp": "2025-07-15T06:34:52.406Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Annotations/GoToLocation.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 243,
+            "linesRemoved": 0,
+            "projectName": "Argos",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-07-15T06:34:53.428Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Annotations/GoToLocation.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Argos",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-07-15T06:34:55.809Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Annotations/GoToLocation.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Argos",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-07-15T06:35:04.586Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Annotations/GoToLocation.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "Argos",
             "content": {
               "added": [],

@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3125                                          |
+| **Lines Added** (➕)   | 3479                                          |
 | **Lines Removed** (➖) | 1264                                        |
-| **Net Change** (↕)    | 1861                |
-| **Active Time** (⌚)   | 35 minutes |
+| **Net Change** (↕)    | 2215                |
+| **Active Time** (⌚)   | 36 minutes |
 
 
 ## Modified Files
@@ -21,6 +21,7 @@
 - **useDroneTracking.js** (+79, -0)
 - **useLocationServices.js** (+37, -0)
 - **drawMission.js** (+466, -0)
+- **useMissionDisplay.js** (+354, -0)
 
 ## Visualizations
 
@@ -30,7 +31,7 @@
 pie showData
 title Lines changed by file type
 ".jsx" : 2994
-".js" : 1395
+".js" : 1749
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -39,7 +40,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "17h" : 31
+"18h" : 2
 ```
 
 
-> **Last Updated:** 19/07/2025, 18:02:34
+> **Last Updated:** 19/07/2025, 18:17:34

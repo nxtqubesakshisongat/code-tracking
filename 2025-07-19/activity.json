@@ -2,7 +2,7 @@
   "date": "2025-07-19",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 6939,
+      "totalLinesAdded": 6942,
       "totalLinesRemoved": 3023,
       "totalActiveTime": 71,
       "files": {
@@ -205,6 +205,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-19T13:39:59.316Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/hooks/useCesiumViewer.js",
+            "fileType": ".js",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ],

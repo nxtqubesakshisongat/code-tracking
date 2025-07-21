@@ -4,16 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1007                                          |
-| **Lines Removed** (➖) | 2                                        |
-| **Net Change** (↕)    | 1005                |
-| **Active Time** (⌚)   | 14 minutes |
+| **Lines Added** (➕)   | 1094                                          |
+| **Lines Removed** (➖) | 4                                        |
+| **Net Change** (↕)    | 1090                |
+| **Active Time** (⌚)   | 15 minutes |
 
 
 ## Modified Files
 - **Map.jsx** (+435, -1)
 - **Map.jsx** (+303, -1)
 - **useMissionDisplay.js** (+269, -0)
+- **useCesiumViewer.js** (+87, -2)
 
 ## Visualizations
 
@@ -23,7 +24,7 @@
 pie showData
 title Lines changed by file type
 ".jsx" : 740
-".js" : 269
+".js" : 358
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -32,8 +33,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "10h" : 10
-"11h" : 2
+"11h" : 4
 ```
 
 
-> **Last Updated:** 21/07/2025, 11:08:09
+> **Last Updated:** 21/07/2025, 11:13:09

@@ -5,8 +5,8 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 4394                                          |
-| **Lines Removed** (➖) | 878                                        |
-| **Net Change** (↕)    | 3516                |
+| **Lines Removed** (➖) | 955                                        |
+| **Net Change** (↕)    | 3439                |
 | **Active Time** (⌚)   | 58 minutes |
 
 
@@ -17,7 +17,7 @@
 - **useCesiumViewer.js** (+87, -2)
 - **DroneControl.jsx** (+1006, -1)
 - **LaunchControl.jsx** (+638, -0)
-- **useMissionDisplay.js** (+440, -2)
+- **useMissionDisplay.js** (+440, -79)
 - **ManageMission.jsx** (+217, -4)
 
 ## Visualizations
@@ -28,7 +28,7 @@
 pie showData
 title Lines changed by file type
 ".jsx" : 4472
-".js" : 800
+".js" : 877
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -38,8 +38,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "10h" : 10
 "11h" : 19
-"12h" : 12
+"12h" : 13
 ```
 
 
-> **Last Updated:** 21/07/2025, 12:18:09
+> **Last Updated:** 21/07/2025, 12:23:09

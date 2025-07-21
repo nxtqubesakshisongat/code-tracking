@@ -4,14 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 435                                          |
-| **Lines Removed** (➖) | 1                                        |
-| **Net Change** (↕)    | 434                |
-| **Active Time** (⌚)   | 9 minutes |
+| **Lines Added** (➕)   | 738                                          |
+| **Lines Removed** (➖) | 2                                        |
+| **Net Change** (↕)    | 736                |
+| **Active Time** (⌚)   | 13 minutes |
 
 
 ## Modified Files
 - **Map.jsx** (+435, -1)
+- **Map.jsx** (+303, -1)
 
 ## Visualizations
 
@@ -20,7 +21,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".jsx" : 436
+".jsx" : 740
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,8 +29,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"10h" : 6
+"10h" : 10
 ```
 
 
-> **Last Updated:** 21/07/2025, 10:53:09
+> **Last Updated:** 21/07/2025, 10:58:09

@@ -2,9 +2,9 @@
   "date": "2025-07-21",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 6379,
-      "totalLinesRemoved": 1182,
-      "totalActiveTime": 156,
+      "totalLinesAdded": 6590,
+      "totalLinesRemoved": 2616,
+      "totalActiveTime": 157,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/MapV1/Map.jsx": [
           {
@@ -1212,6 +1212,20 @@
             },
             "duration": 0,
             "language": "jsx"
+          },
+          {
+            "timestamp": "2025-07-21T11:35:44.185Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/Map.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 1434,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
           }
         ],
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/hooks/useMissionDisplay.js": [
@@ -1788,6 +1802,22 @@
             },
             "duration": 1,
             "language": "js"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/MissionEmergencyButtons.jsx": [
+          {
+            "timestamp": "2025-07-21T11:36:24.850Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/MissionEmergencyButtons.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 211,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
           }
         ]
       },

@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 8080                                          |
+| **Lines Added** (➕)   | 8095                                          |
 | **Lines Removed** (➖) | 974                                        |
-| **Net Change** (↕)    | 7106                |
+| **Net Change** (↕)    | 7121                |
 | **Active Time** (⌚)   | 171 minutes |
 
 
 ## Modified Files
 - **useMissionDisplay.js** (+735, -184)
-- **Map.jsx** (+926, -471)
+- **Map.jsx** (+941, -471)
 - **InMission copy.js** (+1, -0)
 - **addLocation.js** (+1, -0)
 - **calculateDistance2D.js** (+1, -0)
@@ -61,7 +61,7 @@
 pie showData
 title Lines changed by file type
 ".js" : 5610
-".jsx" : 3436
+".jsx" : 3451
 ".json" : 8
 ```
 
@@ -76,8 +76,8 @@ title Coding activity by hour (count of changes)
 "14h" : 43
 "15h" : 6
 "16h" : 17
-"17h" : 13
+"17h" : 14
 ```
 
 
-> **Last Updated:** 23/07/2025, 17:47:20
+> **Last Updated:** 23/07/2025, 17:52:20

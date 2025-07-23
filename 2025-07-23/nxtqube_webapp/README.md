@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 6755                                          |
+| **Lines Added** (➕)   | 6881                                          |
 | **Lines Removed** (➖) | 910                                        |
-| **Net Change** (↕)    | 5845                |
-| **Active Time** (⌚)   | 146 minutes |
+| **Net Change** (↕)    | 5971                |
+| **Active Time** (⌚)   | 151 minutes |
 
 
 ## Modified Files
@@ -44,6 +44,8 @@
 - **DroneControl.jsx** (+1005, -0)
 - **locationService.js** (+93, -0)
 - **useLocationServices.js** (+37, -0)
+- **useDroneTracking.js** (+79, -0)
+- **useMapInteractions.js** (+47, -0)
 
 ## Visualizations
 
@@ -52,7 +54,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 5268
+".js" : 5394
 ".jsx" : 2389
 ".json" : 8
 ```
@@ -67,8 +69,8 @@ title Coding activity by hour (count of changes)
 "13h" : 7
 "14h" : 43
 "15h" : 6
-"16h" : 12
+"16h" : 14
 ```
 
 
-> **Last Updated:** 23/07/2025, 16:33:36
+> **Last Updated:** 23/07/2025, 16:38:36

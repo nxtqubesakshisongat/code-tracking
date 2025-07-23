@@ -2,9 +2,9 @@
   "date": "2025-07-23",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 6755,
+      "totalLinesAdded": 6881,
       "totalLinesRemoved": 910,
-      "totalActiveTime": 146,
+      "totalActiveTime": 151,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/Js/useMissionDisplay.js": [
           {
@@ -1546,6 +1546,38 @@
             "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/utils/useLocationServices.js",
             "fileType": ".js",
             "linesAdded": 37,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/utils/useDroneTracking.js": [
+          {
+            "timestamp": "2025-07-23T11:05:00.160Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/utils/useDroneTracking.js",
+            "fileType": ".js",
+            "linesAdded": 79,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/components/annotations/useMapInteractions.js": [
+          {
+            "timestamp": "2025-07-23T11:06:46.570Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/components/annotations/useMapInteractions.js",
+            "fileType": ".js",
+            "linesAdded": 47,
             "linesRemoved": 0,
             "projectName": "nxtqube_webapp",
             "content": {

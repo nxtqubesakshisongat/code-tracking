@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3814                                          |
+| **Lines Added** (➕)   | 3822                                          |
 | **Lines Removed** (➖) | 712                                        |
-| **Net Change** (↕)    | 3102                |
-| **Active Time** (⌚)   | 100 minutes |
+| **Net Change** (↕)    | 3110                |
+| **Active Time** (⌚)   | 107 minutes |
 
 
 ## Modified Files
@@ -17,8 +17,8 @@
 - **addLocation.js** (+1, -0)
 - **calculateDistance2D.js** (+1, -0)
 - **getUser.js** (+1, -0)
-- **waypointUtils.js** (+70, -0)
-- **missionUtils.js** (+42, -0)
+- **waypointUtils.js** (+74, -0)
+- **missionUtils.js** (+46, -0)
 - **recenterUtils.js** (+33, -0)
 - **geofenceUtils.js** (+38, -0)
 - **droneUtils.js** (+27, -0)
@@ -42,7 +42,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 3160
+".js" : 3168
 ".jsx" : 1366
 ```
 
@@ -54,8 +54,8 @@ title Coding activity by hour (count of changes)
 "11h" : 31
 "12h" : 7
 "13h" : 7
-"14h" : 34
+"14h" : 36
 ```
 
 
-> **Last Updated:** 23/07/2025, 14:29:35
+> **Last Updated:** 23/07/2025, 14:34:35

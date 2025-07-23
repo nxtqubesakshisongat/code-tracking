@@ -4,14 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 735                                          |
-| **Lines Removed** (➖) | 184                                        |
-| **Net Change** (↕)    | 551                |
-| **Active Time** (⌚)   | 59 minutes |
+| **Lines Added** (➕)   | 1189                                          |
+| **Lines Removed** (➖) | 637                                        |
+| **Net Change** (↕)    | 552                |
+| **Active Time** (⌚)   | 60 minutes |
 
 
 ## Modified Files
 - **useMissionDisplay.js** (+735, -184)
+- **Map.jsx** (+454, -453)
 
 ## Visualizations
 
@@ -21,6 +22,7 @@
 pie showData
 title Lines changed by file type
 ".js" : 919
+".jsx" : 907
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -30,7 +32,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "11h" : 31
 "12h" : 7
+"13h" : 2
 ```
 
 
-> **Last Updated:** 23/07/2025, 13:01:55
+> **Last Updated:** 23/07/2025, 13:16:55

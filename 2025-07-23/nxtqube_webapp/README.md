@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2041                                          |
-| **Lines Removed** (➖) | 664                                        |
-| **Net Change** (↕)    | 1377                |
-| **Active Time** (⌚)   | 81 minutes |
+| **Lines Added** (➕)   | 3812                                          |
+| **Lines Removed** (➖) | 712                                        |
+| **Net Change** (↕)    | 3100                |
+| **Active Time** (⌚)   | 99 minutes |
 
 
 ## Modified Files
 - **useMissionDisplay.js** (+735, -184)
-- **Map.jsx** (+907, -453)
+- **Map.jsx** (+913, -453)
 - **InMission copy.js** (+1, -0)
 - **addLocation.js** (+1, -0)
 - **calculateDistance2D.js** (+1, -0)
@@ -25,7 +25,15 @@
 - **apiUtils.js** (+24, -0)
 - **useMapInteractions.js** (+47, -0)
 - **drawMission.js** (+35, -27)
-- **useDroneTracking.js** (+79, -0)
+- **useDroneTracking.js** (+79, -1)
+- **useFenceManagement.js** (+263, -4)
+- **commandApi.js** (+14, -12)
+- **HandleAddWaypointOnclick.js** (+293, -0)
+- **drawMission.js** (+466, -0)
+- **droneLocation.js** (+150, -20)
+- **circularFence.js** (+317, -0)
+- **polygonFence.js** (+177, -11)
+- **showFences.js** (+85, -0)
 
 ## Visualizations
 
@@ -34,8 +42,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 1345
-".jsx" : 1360
+".js" : 3158
+".jsx" : 1366
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -46,8 +54,8 @@ title Coding activity by hour (count of changes)
 "11h" : 31
 "12h" : 7
 "13h" : 7
-"14h" : 16
+"14h" : 32
 ```
 
 
-> **Last Updated:** 23/07/2025, 14:12:30
+> **Last Updated:** 23/07/2025, 14:17:30

@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 8073                                          |
-| **Lines Removed** (➖) | 935                                        |
-| **Net Change** (↕)    | 7138                |
-| **Active Time** (⌚)   | 168 minutes |
+| **Lines Added** (➕)   | 8080                                          |
+| **Lines Removed** (➖) | 974                                        |
+| **Net Change** (↕)    | 7106                |
+| **Active Time** (⌚)   | 171 minutes |
 
 
 ## Modified Files
 - **useMissionDisplay.js** (+735, -184)
-- **Map.jsx** (+919, -465)
+- **Map.jsx** (+926, -471)
 - **InMission copy.js** (+1, -0)
 - **addLocation.js** (+1, -0)
 - **calculateDistance2D.js** (+1, -0)
@@ -49,7 +49,7 @@
 - **LaunchControl.jsx** (+638, -0)
 - **useCesiumViewer.js** (+108, -0)
 - **useCesiumViewer.js** (+108, -0)
-- **ManageMission.jsx** (+235, -2)
+- **ManageMission.jsx** (+235, -35)
 - **Mission.jsx** (+89, -23)
 - **TabContext.jsx** (+14, -0)
 
@@ -61,7 +61,7 @@
 pie showData
 title Lines changed by file type
 ".js" : 5610
-".jsx" : 3390
+".jsx" : 3436
 ".json" : 8
 ```
 
@@ -76,8 +76,8 @@ title Coding activity by hour (count of changes)
 "14h" : 43
 "15h" : 6
 "16h" : 17
-"17h" : 10
+"17h" : 13
 ```
 
 
-> **Last Updated:** 23/07/2025, 17:42:20
+> **Last Updated:** 23/07/2025, 17:47:20

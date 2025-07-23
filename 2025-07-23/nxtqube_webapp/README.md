@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 3837                                          |
-| **Lines Removed** (➖) | 734                                        |
-| **Net Change** (↕)    | 3103                |
-| **Active Time** (⌚)   | 128 minutes |
+| **Lines Removed** (➖) | 840                                        |
+| **Net Change** (↕)    | 2997                |
+| **Active Time** (⌚)   | 130 minutes |
 
 
 ## Modified Files
@@ -31,7 +31,7 @@
 - **HandleAddWaypointOnclick.js** (+293, -0)
 - **drawMission.js** (+474, -8)
 - **droneLocation.js** (+150, -20)
-- **circularFence.js** (+317, -0)
+- **circularFence.js** (+317, -106)
 - **polygonFence.js** (+177, -11)
 - **showFences.js** (+85, -0)
 
@@ -42,7 +42,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 3187
+".js" : 3293
 ".jsx" : 1384
 ```
 
@@ -55,8 +55,8 @@ title Coding activity by hour (count of changes)
 "12h" : 7
 "13h" : 7
 "14h" : 43
-"15h" : 3
+"15h" : 6
 ```
 
 
-> **Last Updated:** 23/07/2025, 15:38:36
+> **Last Updated:** 23/07/2025, 15:58:36

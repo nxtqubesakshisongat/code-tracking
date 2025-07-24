@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2707                                          |
+| **Lines Added** (➕)   | 2749                                          |
 | **Lines Removed** (➖) | 1419                                        |
-| **Net Change** (↕)    | 1288                |
-| **Active Time** (⌚)   | 33 minutes |
+| **Net Change** (↕)    | 1330                |
+| **Active Time** (⌚)   | 35 minutes |
 
 
 ## Modified Files
@@ -16,7 +16,7 @@
 - **MissionEmergencyButtons.jsx** (+211, -0)
 - **EmergencySwitches.jsx** (+205, -0)
 - **DeleteMission.jsx** (+83, -0)
-- **removeEntities.js** (+39, -15)
+- **removeEntities.js** (+81, -15)
 
 ## Visualizations
 
@@ -26,7 +26,7 @@
 pie showData
 title Lines changed by file type
 ".jsx" : 4072
-".js" : 54
+".js" : 96
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -36,8 +36,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "12h" : 7
 "17h" : 8
-"18h" : 6
+"18h" : 8
 ```
 
 
-> **Last Updated:** 24/07/2025, 18:10:48
+> **Last Updated:** 24/07/2025, 18:15:48

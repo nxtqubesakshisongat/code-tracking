@@ -2,9 +2,9 @@
   "date": "2025-07-24",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 975,
+      "totalLinesAdded": 1180,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 7,
+      "totalActiveTime": 8,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/Map.jsx": [
           {
@@ -58,6 +58,22 @@
             "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map copy/MissionEmergencyButtons.jsx",
             "fileType": ".jsx",
             "linesAdded": 211,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/MissionControl/components/EmergencySwitches.jsx": [
+          {
+            "timestamp": "2025-07-24T07:11:26.946Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/MissionControl/components/EmergencySwitches.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 205,
             "linesRemoved": 0,
             "projectName": "nxtqube_webapp",
             "content": {

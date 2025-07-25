@@ -2,9 +2,9 @@
   "date": "2025-07-25",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 2815,
+      "totalLinesAdded": 3716,
       "totalLinesRemoved": 60,
-      "totalActiveTime": 56,
+      "totalActiveTime": 59,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/Map.jsx": [
           {
@@ -697,6 +697,54 @@
               "removed": []
             },
             "duration": 0,
+            "language": "js"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map copy/components/HandleAddWaypointOnclick.js": [
+          {
+            "timestamp": "2025-07-25T08:56:37.781Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map copy/components/HandleAddWaypointOnclick.js",
+            "fileType": ".js",
+            "linesAdded": 293,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map copy/Js/useMissionDisplay.js": [
+          {
+            "timestamp": "2025-07-25T08:56:37.779Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map copy/Js/useMissionDisplay.js",
+            "fileType": ".js",
+            "linesAdded": 551,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/config/constants.js": [
+          {
+            "timestamp": "2025-07-25T08:56:37.778Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/config/constants.js",
+            "fileType": ".js",
+            "linesAdded": 57,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "js"
           }
         ]

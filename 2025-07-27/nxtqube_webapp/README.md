@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2967                                          |
+| **Lines Added** (➕)   | 3025                                          |
 | **Lines Removed** (➖) | 792                                        |
-| **Net Change** (↕)    | 2175                |
-| **Active Time** (⌚)   | 119 minutes |
+| **Net Change** (↕)    | 2233                |
+| **Active Time** (⌚)   | 124 minutes |
 
 
 ## Modified Files
@@ -15,7 +15,7 @@
 - **Map.jsx** (+502, -4)
 - **useMapInteractions.js** (+47, -0)
 - **drawMission.js** (+1160, -728)
-- **useMissionDisplay.js** (+552, -0)
+- **useMissionDisplay.js** (+610, -0)
 - **recenter.js** (+81, -0)
 - **useCesiumViewer.js** (+133, -1)
 - **locationService.js** (+104, -0)
@@ -28,7 +28,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 3253
+".js" : 3311
 ".jsx" : 506
 ```
 
@@ -44,8 +44,8 @@ title Coding activity by hour (count of changes)
 "15h" : 5
 "16h" : 12
 "17h" : 6
-"18h" : 1
+"18h" : 3
 ```
 
 
-> **Last Updated:** 27/07/2025, 18:03:11
+> **Last Updated:** 27/07/2025, 18:08:11

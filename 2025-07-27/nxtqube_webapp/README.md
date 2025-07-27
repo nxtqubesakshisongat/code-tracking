@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2902                                          |
+| **Lines Added** (➕)   | 2960                                          |
 | **Lines Removed** (➖) | 792                                        |
-| **Net Change** (↕)    | 2110                |
-| **Active Time** (⌚)   | 118 minutes |
+| **Net Change** (↕)    | 2168                |
+| **Active Time** (⌚)   | 119 minutes |
 
 
 ## Modified Files
@@ -19,6 +19,7 @@
 - **recenter.js** (+81, -0)
 - **useCesiumViewer.js** (+133, -1)
 - **locationService.js** (+104, -0)
+- **constants.js** (+58, -0)
 
 ## Visualizations
 
@@ -27,7 +28,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 3188
+".js" : 3246
 ".jsx" : 506
 ```
 
@@ -42,8 +43,8 @@ title Coding activity by hour (count of changes)
 "13h" : 11
 "15h" : 5
 "16h" : 12
-"17h" : 2
+"17h" : 4
 ```
 
 
-> **Last Updated:** 27/07/2025, 17:17:25
+> **Last Updated:** 27/07/2025, 17:27:25

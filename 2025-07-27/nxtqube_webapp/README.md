@@ -4,15 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 771                                          |
+| **Lines Added** (➕)   | 818                                          |
 | **Lines Removed** (➖) | 2                                        |
-| **Net Change** (↕)    | 769                |
+| **Net Change** (↕)    | 816                |
 | **Active Time** (⌚)   | 5 minutes |
 
 
 ## Modified Files
 - **HandleAddWaypointOnclick.js** (+287, -0)
 - **Map.jsx** (+484, -2)
+- **useMapInteractions.js** (+47, -0)
 
 ## Visualizations
 
@@ -21,7 +22,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 287
+".js" : 334
 ".jsx" : 486
 ```
 
@@ -31,8 +32,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "10h" : 1
-"11h" : 4
+"11h" : 5
 ```
 
 
-> **Last Updated:** 27/07/2025, 11:07:52
+> **Last Updated:** 27/07/2025, 11:22:52

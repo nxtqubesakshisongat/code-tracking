@@ -2,7 +2,7 @@
   "date": "2025-07-27",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 2555,
+      "totalLinesAdded": 2636,
       "totalLinesRemoved": 504,
       "totalActiveTime": 100,
       "files": {
@@ -965,6 +965,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/utils/recenter.js": [
+          {
+            "timestamp": "2025-07-27T07:44:53.595Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/utils/recenter.js",
+            "fileType": ".js",
+            "linesAdded": 81,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ]

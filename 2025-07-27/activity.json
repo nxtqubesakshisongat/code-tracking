@@ -3,7 +3,7 @@
   "projects": {
     "nxtqube_webapp": {
       "totalLinesAdded": 2876,
-      "totalLinesRemoved": 659,
+      "totalLinesRemoved": 749,
       "totalActiveTime": 106,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/components/mission/HandleAddWaypointOnclick.js": [
@@ -999,6 +999,20 @@
             "fileType": ".js",
             "linesAdded": 0,
             "linesRemoved": 150,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-27T10:46:09.392Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/components/mission/drawMission.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 90,
             "projectName": "nxtqube_webapp",
             "content": {
               "added": [],

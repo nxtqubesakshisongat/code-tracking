@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 8818                                          |
-| **Lines Removed** (➖) | 721                                        |
-| **Net Change** (↕)    | 8097                |
-| **Active Time** (⌚)   | 53 minutes |
+| **Lines Added** (➕)   | 8959                                          |
+| **Lines Removed** (➖) | 1036                                        |
+| **Net Change** (↕)    | 7923                |
+| **Active Time** (⌚)   | 58 minutes |
 
 
 ## Modified Files
@@ -32,9 +32,10 @@
 - **notificationHandler.jsx** (+243, -0)
 - **droneCommandHandler.jsx** (+320, -0)
 - **ExistingFenceForm.jsx** (+578, -0)
-- **MissionControl.jsx** (+903, -0)
+- **MissionControl.jsx** (+903, -315)
 - **WaypointAction.jsx** (+254, -0)
 - **DeleteMission.jsx** (+115, -0)
+- **missionUtils.js** (+141, -0)
 
 ## Visualizations
 
@@ -43,8 +44,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 150
-".jsx" : 9389
+".js" : 291
+".jsx" : 9704
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -53,8 +54,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "10h" : 4
-"11h" : 37
+"11h" : 40
 ```
 
 
-> **Last Updated:** 28/07/2025, 11:48:11
+> **Last Updated:** 28/07/2025, 11:53:11

@@ -5,16 +5,16 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 10445                                          |
-| **Lines Removed** (➖) | 1280                                        |
-| **Net Change** (↕)    | 9165                |
-| **Active Time** (⌚)   | 184 minutes |
+| **Lines Removed** (➖) | 1403                                        |
+| **Net Change** (↕)    | 9042                |
+| **Active Time** (⌚)   | 187 minutes |
 
 
 ## Modified Files
 - **useCesiumViewer.js** (+147, -3)
 - **Map.jsx** (+499, -1)
 - **Create.jsx** (+394, -63)
-- **createMissionHome.jsx** (+780, -172)
+- **createMissionHome.jsx** (+780, -295)
 - **createMissionHome.jsx** (+331, -0)
 - **createPathMission.jsx** (+193, -74)
 - **ManageMission.jsx** (+200, -0)
@@ -48,7 +48,7 @@
 pie showData
 title Lines changed by file type
 ".js" : 732
-".jsx" : 10993
+".jsx" : 11116
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -62,8 +62,8 @@ title Coding activity by hour (count of changes)
 "13h" : 22
 "14h" : 5
 "15h" : 17
-"16h" : 1
+"16h" : 4
 ```
 
 
-> **Last Updated:** 28/07/2025, 16:04:09
+> **Last Updated:** 28/07/2025, 16:25:23

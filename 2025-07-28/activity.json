@@ -3,8 +3,8 @@
   "projects": {
     "nxtqube_webapp": {
       "totalLinesAdded": 10562,
-      "totalLinesRemoved": 1414,
-      "totalActiveTime": 206,
+      "totalLinesRemoved": 1418,
+      "totalActiveTime": 209,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/components/cesium/useCesiumViewer.js": [
           {
@@ -2071,6 +2071,48 @@
               "removed": []
             },
             "duration": 3,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-07-28T11:31:48.171Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/MissionInfo.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-07-28T11:31:59.780Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/MissionInfo.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-07-28T11:32:03.079Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/MissionInfo.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "jsx"
           }
         ],

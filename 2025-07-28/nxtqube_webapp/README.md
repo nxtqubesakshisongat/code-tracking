@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 9407                                          |
-| **Lines Removed** (➖) | 1036                                        |
-| **Net Change** (↕)    | 8371                |
-| **Active Time** (⌚)   | 59 minutes |
+| **Lines Added** (➕)   | 9431                                          |
+| **Lines Removed** (➖) | 1103                                        |
+| **Net Change** (↕)    | 8328                |
+| **Active Time** (⌚)   | 62 minutes |
 
 
 ## Modified Files
 - **useCesiumViewer.js** (+147, -3)
 - **Map.jsx** (+498, -1)
 - **Create.jsx** (+394, -63)
-- **createMissionHome.jsx** (+331, -17)
+- **createMissionHome.jsx** (+331, -84)
 - **createMissionHome.jsx** (+331, -0)
 - **createPathMission.jsx** (+95, -0)
 - **ManageMission.jsx** (+200, -0)
@@ -33,7 +33,7 @@
 - **droneCommandHandler.jsx** (+320, -0)
 - **ExistingFenceForm.jsx** (+578, -0)
 - **MissionControl.jsx** (+903, -315)
-- **WaypointAction.jsx** (+254, -0)
+- **WaypointAction.jsx** (+278, -0)
 - **DeleteMission.jsx** (+115, -0)
 - **missionUtils.js** (+141, -0)
 - **MissionInfo.jsx** (+448, -0)
@@ -46,7 +46,7 @@
 pie showData
 title Lines changed by file type
 ".js" : 291
-".jsx" : 10152
+".jsx" : 10243
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -56,8 +56,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "10h" : 4
 "11h" : 40
-"12h" : 2
+"12h" : 4
 ```
 
 
-> **Last Updated:** 28/07/2025, 12:03:11
+> **Last Updated:** 28/07/2025, 12:08:11

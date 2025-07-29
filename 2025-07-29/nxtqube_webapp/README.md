@@ -4,14 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 65                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 65                |
-| **Active Time** (⌚)   | 1 minute |
+| **Lines Added** (➕)   | 759                                          |
+| **Lines Removed** (➖) | 22                                        |
+| **Net Change** (↕)    | 737                |
+| **Active Time** (⌚)   | 8 minutes |
 
 
 ## Modified Files
 - **constants.js** (+65, -0)
+- **useMissionDisplay.js** (+592, -22)
+- **waypointUtils.js** (+102, -0)
 
 ## Visualizations
 
@@ -20,7 +22,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 65
+".js" : 781
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,8 +30,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"10h" : 2
+"10h" : 8
 ```
 
 
-> **Last Updated:** 29/07/2025, 10:43:34
+> **Last Updated:** 29/07/2025, 10:53:34

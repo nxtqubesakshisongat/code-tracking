@@ -2,9 +2,9 @@
   "date": "2025-07-29",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 3052,
-      "totalLinesRemoved": 103,
-      "totalActiveTime": 140,
+      "totalLinesAdded": 3053,
+      "totalLinesRemoved": 105,
+      "totalActiveTime": 143,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/config/constants.js": [
           {
@@ -1183,6 +1183,48 @@
               "removed": []
             },
             "duration": 3,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-07-29T10:25:39.514Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/WaypointAction.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-07-29T10:25:48.971Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/WaypointAction.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-07-29T10:27:22.394Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/WaypointAction.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "jsx"
           }
         ]

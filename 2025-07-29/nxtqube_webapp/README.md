@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 871                                          |
+| **Lines Added** (➕)   | 1194                                          |
 | **Lines Removed** (➖) | 70                                        |
-| **Net Change** (↕)    | 801                |
+| **Net Change** (↕)    | 1124                |
 | **Active Time** (⌚)   | 35 minutes |
 
 
@@ -14,6 +14,7 @@
 - **constants.js** (+65, -0)
 - **useMissionDisplay.js** (+677, -70)
 - **waypointUtils.js** (+129, -0)
+- **App.jsx** (+323, -0)
 
 ## Visualizations
 
@@ -23,6 +24,7 @@
 pie showData
 title Lines changed by file type
 ".js" : 941
+".jsx" : 323
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -31,8 +33,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "10h" : 10
-"11h" : 7
+"11h" : 8
 ```
 
 
-> **Last Updated:** 29/07/2025, 11:18:34
+> **Last Updated:** 29/07/2025, 11:38:43

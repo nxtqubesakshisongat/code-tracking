@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2751                                          |
-| **Lines Removed** (➖) | 101                                        |
-| **Net Change** (↕)    | 2650                |
-| **Active Time** (⌚)   | 130 minutes |
+| **Lines Added** (➕)   | 2755                                          |
+| **Lines Removed** (➖) | 103                                        |
+| **Net Change** (↕)    | 2652                |
+| **Active Time** (⌚)   | 135 minutes |
 
 
 ## Modified Files
@@ -17,7 +17,7 @@
 - **App.jsx** (+323, -0)
 - **MissionInfo.jsx** (+525, -20)
 - **missionUtils.js** (+439, -6)
-- **MissionControl.jsx** (+519, -5)
+- **MissionControl.jsx** (+523, -7)
 - **MissionSlider.jsx** (+74, -0)
 
 ## Visualizations
@@ -28,7 +28,7 @@
 pie showData
 title Lines changed by file type
 ".js" : 1386
-".jsx" : 1466
+".jsx" : 1472
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -41,8 +41,8 @@ title Coding activity by hour (count of changes)
 "12h" : 10
 "13h" : 14
 "14h" : 29
-"15h" : 5
+"15h" : 8
 ```
 
 
-> **Last Updated:** 29/07/2025, 15:26:43
+> **Last Updated:** 29/07/2025, 15:31:43

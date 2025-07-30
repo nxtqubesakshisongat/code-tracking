@@ -2,9 +2,9 @@
   "date": "2025-07-30",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 3470,
+      "totalLinesAdded": 3472,
       "totalLinesRemoved": 1132,
-      "totalActiveTime": 130,
+      "totalActiveTime": 134,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/components/cesium/SearchBox.jsx": [
           {
@@ -1305,6 +1305,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-30T11:13:47.984Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/components/mission/drawMission.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "js"
           }
         ],

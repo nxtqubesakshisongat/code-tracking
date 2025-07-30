@@ -2,9 +2,9 @@
   "date": "2025-07-30",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 1339,
+      "totalLinesAdded": 1396,
       "totalLinesRemoved": 470,
-      "totalActiveTime": 31,
+      "totalActiveTime": 36,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/components/cesium/SearchBox.jsx": [
           {
@@ -389,6 +389,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-30T09:21:49.414Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/components/mission/deleteLastWaypoint.js",
+            "fileType": ".js",
+            "linesAdded": 54,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-07-30T09:23:54.197Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/components/mission/deleteLastWaypoint.js",
+            "fileType": ".js",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "js"
           }
         ]

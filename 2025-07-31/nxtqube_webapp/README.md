@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1391                                          |
-| **Lines Removed** (➖) | 20                                        |
-| **Net Change** (↕)    | 1371                |
-| **Active Time** (⌚)   | 20 minutes |
+| **Lines Added** (➕)   | 1430                                          |
+| **Lines Removed** (➖) | 21                                        |
+| **Net Change** (↕)    | 1409                |
+| **Active Time** (⌚)   | 32 minutes |
 
 
 ## Modified Files
@@ -15,9 +15,10 @@
 - **settings.json** (+9, -0)
 - **MissionControl.jsx** (+582, -1)
 - **missionTimeDataSlice.js** (+23, -0)
-- **HandleAddWaypointOnclick.js** (+272, -0)
+- **HandleAddWaypointOnclick.js** (+273, -1)
 - **calculateTime.js** (+187, -11)
-- **TotalTime.jsx** (+244, -8)
+- **TotalTime.jsx** (+250, -8)
+- **fetchHomeLocation.jsx** (+32, -0)
 
 ## Visualizations
 
@@ -26,9 +27,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".jsx" : 909
+".jsx" : 947
 ".json" : 9
-".js" : 493
+".js" : 495
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -37,8 +38,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "10h" : 2
-"11h" : 20
+"11h" : 25
 ```
 
 
-> **Last Updated:** 31/07/2025, 11:45:26
+> **Last Updated:** 31/07/2025, 11:50:26

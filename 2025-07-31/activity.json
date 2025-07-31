@@ -2,7 +2,7 @@
   "date": "2025-07-31",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 665,
+      "totalLinesAdded": 688,
       "totalLinesRemoved": 1,
       "totalActiveTime": 2,
       "files": {
@@ -80,6 +80,22 @@
             },
             "duration": 1,
             "language": "jsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/redux/missionTimeDataSlice.js": [
+          {
+            "timestamp": "2025-07-31T05:47:13.239Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/redux/missionTimeDataSlice.js",
+            "fileType": ".js",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
           }
         ]
       },

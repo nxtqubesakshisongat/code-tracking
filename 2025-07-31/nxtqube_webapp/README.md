@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 2010                                          |
-| **Lines Removed** (➖) | 30                                        |
-| **Net Change** (↕)    | 1980                |
-| **Active Time** (⌚)   | 44 minutes |
+| **Lines Removed** (➖) | 33                                        |
+| **Net Change** (↕)    | 1977                |
+| **Active Time** (⌚)   | 45 minutes |
 
 
 ## Modified Files
@@ -15,7 +15,7 @@
 - **settings.json** (+9, -0)
 - **MissionControl.jsx** (+583, -1)
 - **missionTimeDataSlice.js** (+23, -0)
-- **HandleAddWaypointOnclick.js** (+273, -1)
+- **HandleAddWaypointOnclick.js** (+273, -4)
 - **calculateTime.js** (+187, -16)
 - **TotalTime.jsx** (+250, -12)
 - **fetchHomeLocation.jsx** (+32, -0)
@@ -31,7 +31,7 @@ pie showData
 title Lines changed by file type
 ".jsx" : 1483
 ".json" : 9
-".js" : 548
+".js" : 551
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -41,8 +41,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "10h" : 2
 "11h" : 31
-"12h" : 1
+"12h" : 3
 ```
 
 
-> **Last Updated:** 31/07/2025, 12:05:26
+> **Last Updated:** 31/07/2025, 12:10:26

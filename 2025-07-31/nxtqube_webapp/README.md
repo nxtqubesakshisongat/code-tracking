@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1138                                          |
-| **Lines Removed** (➖) | 3                                        |
+| **Lines Added** (➕)   | 1147                                          |
+| **Lines Removed** (➖) | 12                                        |
 | **Net Change** (↕)    | 1135                |
-| **Active Time** (⌚)   | 11 minutes |
+| **Active Time** (⌚)   | 13 minutes |
 
 
 ## Modified Files
@@ -16,7 +16,7 @@
 - **MissionControl.jsx** (+582, -1)
 - **missionTimeDataSlice.js** (+23, -0)
 - **HandleAddWaypointOnclick.js** (+272, -0)
-- **calculateTime.js** (+178, -2)
+- **calculateTime.js** (+187, -11)
 
 ## Visualizations
 
@@ -27,7 +27,7 @@ pie showData
 title Lines changed by file type
 ".jsx" : 657
 ".json" : 9
-".js" : 475
+".js" : 493
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -36,8 +36,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "10h" : 2
-"11h" : 13
+"11h" : 16
 ```
 
 
-> **Last Updated:** 31/07/2025, 11:35:26
+> **Last Updated:** 31/07/2025, 11:40:26

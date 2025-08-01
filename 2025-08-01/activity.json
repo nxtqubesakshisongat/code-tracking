@@ -2,9 +2,9 @@
   "date": "2025-08-01",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 2316,
+      "totalLinesAdded": 2451,
       "totalLinesRemoved": 57,
-      "totalActiveTime": 56,
+      "totalActiveTime": 57,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/createPathMission.jsx": [
           {
@@ -521,6 +521,36 @@
               "removed": []
             },
             "duration": 3,
+            "language": "jsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/context/TabContext.jsx": [
+          {
+            "timestamp": "2025-08-01T11:58:50.199Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/context/TabContext.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-08-01T11:58:51.161Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/context/TabContext.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 121,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "jsx"
           }
         ]

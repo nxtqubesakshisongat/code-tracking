@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 8001                                          |
-| **Lines Removed** (➖) | 1731                                        |
-| **Net Change** (↕)    | 6270                |
-| **Active Time** (⌚)   | 207 minutes |
+| **Lines Added** (➕)   | 8600                                          |
+| **Lines Removed** (➖) | 1746                                        |
+| **Net Change** (↕)    | 6854                |
+| **Active Time** (⌚)   | 215 minutes |
 
 
 ## Modified Files
@@ -34,6 +34,8 @@
 - **hookUtils.js** (+238, -0)
 - **index.js** (+4, -0)
 - **DockVideo.jsx** (+893, -5)
+- **MissionInfo.jsx** (+533, -11)
+- **video.controller.js** (+66, -4)
 
 ## Visualizations
 
@@ -42,8 +44,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".jsx" : 6957
-".js" : 2775
+".jsx" : 7501
+".js" : 2845
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -58,8 +60,9 @@ title Coding activity by hour (count of changes)
 "14h" : 8
 "15h" : 19
 "16h" : 59
-"17h" : 17
+"17h" : 19
+"18h" : 3
 ```
 
 
-> **Last Updated:** 04/08/2025, 17:57:58
+> **Last Updated:** 04/08/2025, 18:02:58

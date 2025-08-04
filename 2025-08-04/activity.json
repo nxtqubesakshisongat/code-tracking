@@ -2,9 +2,9 @@
   "date": "2025-08-04",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 2099,
-      "totalLinesRemoved": 99,
-      "totalActiveTime": 41,
+      "totalLinesAdded": 2144,
+      "totalLinesRemoved": 260,
+      "totalActiveTime": 46,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/ExistingMission.jsx": [
           {
@@ -466,6 +466,62 @@
             "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/components/mission/useMissionDisplay.js",
             "fileType": ".js",
             "linesAdded": 53,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T05:17:24.047Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/components/mission/useMissionDisplay.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 160,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T05:17:27.417Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/components/mission/useMissionDisplay.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T05:19:54.195Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/components/mission/useMissionDisplay.js",
+            "fileType": ".js",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-04T05:20:51.357Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/components/mission/useMissionDisplay.js",
+            "fileType": ".js",
+            "linesAdded": 13,
             "linesRemoved": 0,
             "projectName": "nxtqube_webapp",
             "content": {

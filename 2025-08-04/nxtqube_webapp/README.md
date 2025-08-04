@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 8624                                          |
-| **Lines Removed** (➖) | 1757                                        |
+| **Lines Added** (➕)   | 8783                                          |
+| **Lines Removed** (➖) | 1916                                        |
 | **Net Change** (↕)    | 6867                |
-| **Active Time** (⌚)   | 226 minutes |
+| **Active Time** (⌚)   | 232 minutes |
 
 
 ## Modified Files
@@ -20,10 +20,10 @@
 - **HandleAddWaypointOnclick.js** (+405, -55)
 - **useMapInteractions.js** (+66, -0)
 - **drawMission.js** (+449, -69)
-- **Existing.jsx** (+278, -0)
-- **ExistingMission.jsx** (+643, -253)
-- **ManageMission.jsx** (+319, -41)
-- **LaunchControl.jsx** (+640, -35)
+- **Existing.jsx** (+281, -3)
+- **ExistingMission.jsx** (+755, -365)
+- **ManageMission.jsx** (+328, -50)
+- **LaunchControl.jsx** (+673, -68)
 - **MissionUpload.jsx** (+108, -35)
 - **CommonModals.jsx** (+301, -300)
 - **SearchComponents.jsx** (+122, -121)
@@ -33,8 +33,8 @@
 - **apiUtils.js** (+191, -0)
 - **hookUtils.js** (+238, -0)
 - **index.js** (+4, -0)
-- **DockVideo.jsx** (+893, -5)
-- **MissionInfo.jsx** (+533, -11)
+- **DockVideo.jsx** (+894, -6)
+- **MissionInfo.jsx** (+534, -12)
 - **video.controller.js** (+66, -4)
 
 ## Visualizations
@@ -44,7 +44,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".jsx" : 7536
+".jsx" : 7854
 ".js" : 2845
 ```
 
@@ -61,8 +61,8 @@ title Coding activity by hour (count of changes)
 "15h" : 19
 "16h" : 59
 "17h" : 19
-"18h" : 12
+"18h" : 24
 ```
 
 
-> **Last Updated:** 04/08/2025, 18:32:59
+> **Last Updated:** 04/08/2025, 18:42:59

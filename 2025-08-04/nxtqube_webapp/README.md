@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 7078                                          |
-| **Lines Removed** (➖) | 1679                                        |
-| **Net Change** (↕)    | 5399                |
-| **Active Time** (⌚)   | 193 minutes |
+| **Lines Added** (➕)   | 8001                                          |
+| **Lines Removed** (➖) | 1731                                        |
+| **Net Change** (↕)    | 6270                |
+| **Active Time** (⌚)   | 207 minutes |
 
 
 ## Modified Files
@@ -21,9 +21,9 @@
 - **useMapInteractions.js** (+66, -0)
 - **drawMission.js** (+449, -69)
 - **Existing.jsx** (+278, -0)
-- **ExistingMission.jsx** (+641, -252)
-- **ManageMission.jsx** (+269, -0)
-- **LaunchControl.jsx** (+638, -19)
+- **ExistingMission.jsx** (+642, -253)
+- **ManageMission.jsx** (+296, -30)
+- **LaunchControl.jsx** (+640, -35)
 - **MissionUpload.jsx** (+108, -35)
 - **CommonModals.jsx** (+301, -300)
 - **SearchComponents.jsx** (+122, -121)
@@ -33,6 +33,7 @@
 - **apiUtils.js** (+191, -0)
 - **hookUtils.js** (+238, -0)
 - **index.js** (+4, -0)
+- **DockVideo.jsx** (+893, -5)
 
 ## Visualizations
 
@@ -41,7 +42,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".jsx" : 5982
+".jsx" : 6957
 ".js" : 2775
 ```
 
@@ -57,8 +58,8 @@ title Coding activity by hour (count of changes)
 "14h" : 8
 "15h" : 19
 "16h" : 59
-"17h" : 4
+"17h" : 17
 ```
 
 
-> **Last Updated:** 04/08/2025, 17:52:58
+> **Last Updated:** 04/08/2025, 17:57:58

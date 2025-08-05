@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 7291                                          |
-| **Lines Removed** (➖) | 1379                                        |
-| **Net Change** (↕)    | 5912                |
-| **Active Time** (⌚)   | 81 minutes |
+| **Lines Added** (➕)   | 7306                                          |
+| **Lines Removed** (➖) | 1511                                        |
+| **Net Change** (↕)    | 5795                |
+| **Active Time** (⌚)   | 87 minutes |
 
 
 ## Modified Files
@@ -28,7 +28,7 @@
 - **GeofenceHeader.jsx** (+79, -0)
 - **GeofenceFormContainer.jsx** (+116, -0)
 - **CreateFenceForm.jsx** (+924, -556)
-- **ExistingFenceForm.jsx** (+737, -310)
+- **ExistingFenceForm.jsx** (+752, -442)
 - **LoginPage.jsx** (+446, -141)
 - **App.jsx** (+450, -84)
 
@@ -40,7 +40,7 @@
 pie showData
 title Lines changed by file type
 ".js" : 1768
-".jsx" : 6902
+".jsx" : 7049
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -54,8 +54,8 @@ title Coding activity by hour (count of changes)
 "13h" : 2
 "14h" : 2
 "16h" : 26
-"17h" : 5
+"17h" : 7
 ```
 
 
-> **Last Updated:** 05/08/2025, 17:23:02
+> **Last Updated:** 05/08/2025, 17:28:02

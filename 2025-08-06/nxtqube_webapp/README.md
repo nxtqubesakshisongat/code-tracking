@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 10332                                          |
-| **Lines Removed** (➖) | 753                                        |
-| **Net Change** (↕)    | 9579                |
-| **Active Time** (⌚)   | 190 minutes |
+| **Lines Added** (➕)   | 10774                                          |
+| **Lines Removed** (➖) | 793                                        |
+| **Net Change** (↕)    | 9981                |
+| **Active Time** (⌚)   | 196 minutes |
 
 
 ## Modified Files
@@ -23,6 +23,8 @@
 - **settings.json** (+63, -1)
 - **locationService.js** (+218, -26)
 - **useLocationServices.js** (+40, -2)
+- **circularFence.js** (+257, -40)
+- **polygonFence.js** (+185, -0)
 
 ## Visualizations
 
@@ -32,7 +34,7 @@
 pie showData
 title Lines changed by file type
 ".jsx" : 7017
-".js" : 3876
+".js" : 4358
 ".json" : 192
 ```
 
@@ -47,8 +49,8 @@ title Coding activity by hour (count of changes)
 "15h" : 33
 "16h" : 28
 "17h" : 49
-"18h" : 4
+"18h" : 10
 ```
 
 
-> **Last Updated:** 06/08/2025, 18:42:13
+> **Last Updated:** 06/08/2025, 18:57:13

@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 8358                                          |
+| **Lines Added** (➕)   | 8392                                          |
 | **Lines Removed** (➖) | 232                                        |
-| **Net Change** (↕)    | 8126                |
-| **Active Time** (⌚)   | 148 minutes |
+| **Net Change** (↕)    | 8160                |
+| **Active Time** (⌚)   | 152 minutes |
 
 
 ## Modified Files
@@ -16,7 +16,7 @@
 - **checkgeofenc.js** (+236, -0)
 - **fenceData.controller.js** (+360, -0)
 - **settings.json** (+124, -4)
-- **Map.jsx** (+1784, -88)
+- **Map.jsx** (+1818, -88)
 - **geofence.jsx** (+319, -3)
 - **CreateFenceForm.jsx** (+2752, -0)
 - **useFenceManagement.js** (+1366, -108)
@@ -31,7 +31,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".jsx" : 6042
+".jsx" : 6076
 ".js" : 2356
 ".json" : 192
 ```
@@ -46,8 +46,8 @@ title Coding activity by hour (count of changes)
 "13h" : 13
 "15h" : 33
 "16h" : 28
-"17h" : 24
+"17h" : 29
 ```
 
 
-> **Last Updated:** 06/08/2025, 17:27:23
+> **Last Updated:** 06/08/2025, 17:32:23

@@ -2,7 +2,7 @@
   "date": "2025-08-07",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 1538,
+      "totalLinesAdded": 2454,
       "totalLinesRemoved": 13,
       "totalActiveTime": 24,
       "files": {
@@ -278,6 +278,22 @@
             },
             "duration": 2,
             "language": "js"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Geofence/CreateFenceForm.jsx": [
+          {
+            "timestamp": "2025-08-07T07:26:51.994Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Geofence/CreateFenceForm.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 916,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
           }
         ]
       },

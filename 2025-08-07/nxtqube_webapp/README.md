@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 6102                                          |
-| **Lines Removed** (➖) | 3589                                        |
+| **Lines Added** (➕)   | 6666                                          |
+| **Lines Removed** (➖) | 4153                                        |
 | **Net Change** (↕)    | 2513                |
-| **Active Time** (⌚)   | 87 minutes |
+| **Active Time** (⌚)   | 96 minutes |
 
 
 ## Modified Files
 - **drawMission.js** (+380, -0)
 - **removeEntities.js** (+89, -0)
 - **Map.jsx** (+2423, -1824)
-- **useFenceManagement.js** (+2183, -1713)
+- **useFenceManagement.js** (+2747, -2277)
 - **CreateFenceForm.jsx** (+965, -50)
 - **settings.json** (+62, -2)
 
@@ -25,7 +25,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 4365
+".js" : 5493
 ".jsx" : 5262
 ".json" : 64
 ```
@@ -42,8 +42,8 @@ title Coding activity by hour (count of changes)
 "14h" : 7
 "15h" : 9
 "16h" : 14
-"17h" : 17
+"17h" : 24
 ```
 
 
-> **Last Updated:** 07/08/2025, 17:29:29
+> **Last Updated:** 07/08/2025, 17:34:29

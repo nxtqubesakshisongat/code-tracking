@@ -2,9 +2,9 @@
   "date": "2025-08-08",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 3682,
+      "totalLinesAdded": 4105,
       "totalLinesRemoved": 1114,
-      "totalActiveTime": 37,
+      "totalActiveTime": 38,
       "files": {
         "/Users/sakshi/Downloads/index (1).html": [
           {
@@ -515,6 +515,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-08-08T11:14:29.804Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/components/geofence/useFenceManagement.js",
+            "fileType": ".js",
+            "linesAdded": 423,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "js"
           }
         ]

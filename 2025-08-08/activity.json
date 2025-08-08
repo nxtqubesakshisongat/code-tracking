@@ -1,0 +1,75 @@
+{
+  "date": "2025-08-08",
+  "projects": {
+    "nxtqube_webapp": {
+      "totalLinesAdded": 885,
+      "totalLinesRemoved": 442,
+      "totalActiveTime": 2,
+      "files": {
+        "/Users/sakshi/Downloads/index (1).html": [
+          {
+            "timestamp": "2025-08-08T06:33:55.625Z",
+            "fileName": "/Users/sakshi/Downloads/index (1).html",
+            "fileType": ".html",
+            "linesAdded": 443,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-08-08T06:33:56.643Z",
+            "fileName": "/Users/sakshi/Downloads/index (1).html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 442,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-08-08T06:33:58.196Z",
+            "fileName": "/Users/sakshi/Downloads/index (1).html",
+            "fileType": ".html",
+            "linesAdded": 442,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ]
+      },
+      "languageStats": {
+        "html": 2
+      },
+      "changeFrequency": {
+        "12": 2
+      },
+      "topFiles": [
+        "/Users/sakshi/Downloads/index (1).html"
+      ],
+      "averageChangeSize": 442.3333333333333
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    12
+  ],
+  "mostUsedLanguages": [
+    "html"
+  ]
+}

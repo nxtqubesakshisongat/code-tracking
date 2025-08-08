@@ -3,8 +3,8 @@
   "projects": {
     "nxtqube_webapp": {
       "totalLinesAdded": 4191,
-      "totalLinesRemoved": 1119,
-      "totalActiveTime": 39,
+      "totalLinesRemoved": 1120,
+      "totalActiveTime": 43,
       "files": {
         "/Users/sakshi/Downloads/index (1).html": [
           {
@@ -573,6 +573,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-08-08T11:37:54.061Z",
+            "fileName": "/Users/sakshi/Library/Application Support/Cursor/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "json"
           }
         ]

@@ -3,7 +3,7 @@
   "projects": {
     "nxtqube_webapp": {
       "totalLinesAdded": 3729,
-      "totalLinesRemoved": 1221,
+      "totalLinesRemoved": 1222,
       "totalActiveTime": 84,
       "files": {
         "/Users/sakshi/Downloads/index (1).html": [
@@ -637,6 +637,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-08-09T12:27:11.619Z",
+            "fileName": "/Users/sakshi/Downloads/Advanced.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "html"
           }
         ]

@@ -2,9 +2,9 @@
   "date": "2025-08-09",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 6543,
-      "totalLinesRemoved": 1487,
-      "totalActiveTime": 136,
+      "totalLinesAdded": 6649,
+      "totalLinesRemoved": 1491,
+      "totalActiveTime": 149,
       "files": {
         "/Users/sakshi/Downloads/index (1).html": [
           {
@@ -1127,6 +1127,90 @@
               "removed": []
             },
             "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-08-09T14:15:56.728Z",
+            "fileName": "/Users/sakshi/Downloads/Advanced.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-08-09T14:19:42.810Z",
+            "fileName": "/Users/sakshi/Downloads/Advanced.html",
+            "fileType": ".html",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-08-09T14:20:01.772Z",
+            "fileName": "/Users/sakshi/Downloads/Advanced.html",
+            "fileType": ".html",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-08-09T14:20:03.747Z",
+            "fileName": "/Users/sakshi/Downloads/Advanced.html",
+            "fileType": ".html",
+            "linesAdded": 71,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-08-09T14:20:31.083Z",
+            "fileName": "/Users/sakshi/Downloads/Advanced.html",
+            "fileType": ".html",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-08-09T14:20:32.652Z",
+            "fileName": "/Users/sakshi/Downloads/Advanced.html",
+            "fileType": ".html",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "html"
           }
         ],

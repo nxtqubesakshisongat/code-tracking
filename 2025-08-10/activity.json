@@ -3,8 +3,8 @@
   "projects": {
     "nxtqube_webapp": {
       "totalLinesAdded": 3794,
-      "totalLinesRemoved": 1510,
-      "totalActiveTime": 134,
+      "totalLinesRemoved": 1516,
+      "totalActiveTime": 140,
       "files": {
         "/Users/sakshi/Downloads/Advanced.html": [
           {
@@ -923,6 +923,34 @@
             "fileType": ".html",
             "linesAdded": 0,
             "linesRemoved": 25,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-08-10T07:05:32.605Z",
+            "fileName": "/Users/sakshi/Downloads/Advanced.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-08-10T07:05:35.747Z",
+            "fileName": "/Users/sakshi/Downloads/Advanced.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 2,
             "projectName": "nxtqube_webapp",
             "content": {
               "added": [],

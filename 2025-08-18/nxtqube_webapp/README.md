@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5225                                          |
-| **Lines Removed** (➖) | 44                                        |
-| **Net Change** (↕)    | 5181                |
-| **Active Time** (⌚)   | 50 minutes |
+| **Lines Added** (➕)   | 6158                                          |
+| **Lines Removed** (➖) | 74                                        |
+| **Net Change** (↕)    | 6084                |
+| **Active Time** (⌚)   | 65 minutes |
 
 
 ## Modified Files
-- **Map.jsx** (+704, -23)
+- **Map.jsx** (+704, -53)
 - **useMapInteractions.js** (+66, -0)
 - **CreateAnnotation.jsx** (+412, -0)
 - **HandleAddWaypointOnclick.js** (+410, -6)
@@ -20,7 +20,8 @@
 - **Mission.jsx** (+116, -0)
 - **useFenceManagement.js** (+2325, -0)
 - **MissionInfo.jsx** (+546, -4)
-- **ExistingFenceForm.jsx** (+498, -0)
+- **ExistingFenceForm.jsx** (+544, -0)
+- **CreateFenceForm.jsx** (+887, -0)
 
 ## Visualizations
 
@@ -29,7 +30,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".jsx" : 2399
+".jsx" : 3362
 ".js" : 2807
 ".json" : 63
 ```
@@ -46,7 +47,8 @@ title Coding activity by hour (count of changes)
 "14h" : 1
 "16h" : 2
 "17h" : 2
+"18h" : 4
 ```
 
 
-> **Last Updated:** 18/08/2025, 17:45:01
+> **Last Updated:** 18/08/2025, 18:25:01

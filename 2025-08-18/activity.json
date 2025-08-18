@@ -2,7 +2,7 @@
   "date": "2025-08-18",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 667,
+      "totalLinesAdded": 733,
       "totalLinesRemoved": 2,
       "totalActiveTime": 1,
       "files": {
@@ -34,6 +34,22 @@
             },
             "duration": 1,
             "language": "jsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/components/annotations/useMapInteractions.js": [
+          {
+            "timestamp": "2025-08-18T05:58:32.607Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/components/annotations/useMapInteractions.js",
+            "fileType": ".js",
+            "linesAdded": 66,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
           }
         ]
       },

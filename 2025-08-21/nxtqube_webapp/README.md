@@ -5,13 +5,13 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 955                                          |
-| **Lines Removed** (➖) | 25                                        |
-| **Net Change** (↕)    | 930                |
-| **Active Time** (⌚)   | 19 minutes |
+| **Lines Removed** (➖) | 28                                        |
+| **Net Change** (↕)    | 927                |
+| **Active Time** (⌚)   | 23 minutes |
 
 
 ## Modified Files
-- **recenterMapToHome.js** (+47, -25)
+- **recenterMapToHome.js** (+47, -28)
 - **Map.jsx** (+683, -0)
 - **recenter.js** (+225, -0)
 
@@ -22,7 +22,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 297
+".js" : 300
 ".jsx" : 683
 ```
 
@@ -31,8 +31,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"15h" : 14
+"15h" : 16
 ```
 
 
-> **Last Updated:** 21/08/2025, 15:14:15
+> **Last Updated:** 21/08/2025, 15:21:22

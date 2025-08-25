@@ -2,7 +2,7 @@
   "date": "2025-08-25",
   "projects": {
     " ArgosGrid": {
-      "totalLinesAdded": 2414,
+      "totalLinesAdded": 2551,
       "totalLinesRemoved": 1,
       "totalActiveTime": 3,
       "files": {
@@ -61,6 +61,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "/Users/sakshi/Downloads/ ArgosGrid/frontend/src/components/AllRoutes.jsx": [
+          {
+            "timestamp": "2025-08-25T12:18:36.100Z",
+            "fileName": "/Users/sakshi/Downloads/ ArgosGrid/frontend/src/components/AllRoutes.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 137,
+            "linesRemoved": 0,
+            "projectName": " ArgosGrid",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "jsx"
           }
         ]

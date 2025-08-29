@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1595                                          |
-| **Lines Removed** (➖) | 2                                        |
-| **Net Change** (↕)    | 1593                |
-| **Active Time** (⌚)   | 8 minutes |
+| **Lines Added** (➕)   | 1596                                          |
+| **Lines Removed** (➖) | 6                                        |
+| **Net Change** (↕)    | 1590                |
+| **Active Time** (⌚)   | 15 minutes |
 
 
 ## Modified Files
 - **drawGrid.js** (+730, -1)
-- **Mission.jsx** (+154, -1)
+- **Mission.jsx** (+155, -5)
 - **Map.jsx** (+711, -0)
 
 ## Visualizations
@@ -23,7 +23,7 @@
 pie showData
 title Lines changed by file type
 ".js" : 731
-".jsx" : 866
+".jsx" : 871
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -32,8 +32,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "10h" : 3
-"11h" : 7
+"11h" : 10
 ```
 
 
-> **Last Updated:** 29/08/2025, 11:25:43
+> **Last Updated:** 29/08/2025, 11:35:55

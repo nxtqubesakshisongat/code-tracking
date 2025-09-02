@@ -2,9 +2,9 @@
   "date": "2025-09-02",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 2067,
-      "totalLinesRemoved": 1529,
-      "totalActiveTime": 48,
+      "totalLinesAdded": 2246,
+      "totalLinesRemoved": 1680,
+      "totalActiveTime": 51,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/components/mission/drawGrid.js": [
           {
@@ -615,6 +615,48 @@
             "fileType": ".js",
             "linesAdded": 0,
             "linesRemoved": 2,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-02T12:55:25.620Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/components/mission/drawGrid.js",
+            "fileType": ".js",
+            "linesAdded": 179,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-02T12:56:36.520Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/components/mission/drawGrid.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 147,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-02T12:56:38.800Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/components/mission/drawGrid.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 4,
             "projectName": "nxtqube_webapp",
             "content": {
               "added": [],

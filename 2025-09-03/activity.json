@@ -595,7 +595,7 @@
       "averageChangeSize": 481
     },
     "accountill-master": {
-      "totalLinesAdded": 3,
+      "totalLinesAdded": 10,
       "totalLinesRemoved": 0,
       "totalActiveTime": 1,
       "files": {
@@ -626,6 +626,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "unknown"
+          }
+        ],
+        "/Users/sakshi/Downloads/accountill-master/server/.env": [
+          {
+            "timestamp": "2025-09-03T18:02:57.883Z",
+            "fileName": "/Users/sakshi/Downloads/accountill-master/server/.env",
+            "fileType": "unknown",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "accountill-master",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "unknown"
           }
         ]

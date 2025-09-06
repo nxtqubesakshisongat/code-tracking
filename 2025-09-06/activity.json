@@ -2,9 +2,9 @@
   "date": "2025-09-06",
   "projects": {
     "cashCalculator": {
-      "totalLinesAdded": 65,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 11,
+      "totalLinesAdded": 218,
+      "totalLinesRemoved": 76,
+      "totalActiveTime": 13,
       "files": {
         "/Users/sakshi/Desktop/cashCalculator/package.json": [
           {
@@ -78,6 +78,50 @@
             },
             "duration": 0,
             "language": "html"
+          }
+        ],
+        "/Users/sakshi/Desktop/cashCalculator/style.css": [
+          {
+            "timestamp": "2025-09-06T18:27:57.164Z",
+            "fileName": "/Users/sakshi/Desktop/cashCalculator/style.css",
+            "fileType": ".css",
+            "linesAdded": 77,
+            "linesRemoved": 0,
+            "projectName": "cashCalculator",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-09-06T18:27:58.178Z",
+            "fileName": "/Users/sakshi/Desktop/cashCalculator/style.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 76,
+            "projectName": "cashCalculator",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-09-06T18:27:59.525Z",
+            "fileName": "/Users/sakshi/Desktop/cashCalculator/style.css",
+            "fileType": ".css",
+            "linesAdded": 76,
+            "linesRemoved": 0,
+            "projectName": "cashCalculator",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
           }
         ]
       },

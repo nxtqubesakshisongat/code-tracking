@@ -1,0 +1,47 @@
+{
+  "date": "2025-09-06",
+  "projects": {
+    "cashCalculator": {
+      "totalLinesAdded": 19,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/sakshi/Desktop/cashCalculator/package.json": [
+          {
+            "timestamp": "2025-09-06T18:06:42.552Z",
+            "fileName": "/Users/sakshi/Desktop/cashCalculator/package.json",
+            "fileType": ".json",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "cashCalculator",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "23": 0
+      },
+      "topFiles": [
+        "/Users/sakshi/Desktop/cashCalculator/package.json"
+      ],
+      "averageChangeSize": 19
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    23
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}

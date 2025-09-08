@@ -3,8 +3,8 @@
   "projects": {
     "cashCalculator": {
       "totalLinesAdded": 2540,
-      "totalLinesRemoved": 407,
-      "totalActiveTime": 139,
+      "totalLinesRemoved": 408,
+      "totalActiveTime": 141,
       "files": {
         "/Users/sakshi/Desktop/cashCalculator/components/CashTab.js": [
           {
@@ -1293,6 +1293,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-08T17:12:57.585Z",
+            "fileName": "/Users/sakshi/Desktop/cashCalculator/components/CashTab.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cashCalculator",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "js"
           }
         ]

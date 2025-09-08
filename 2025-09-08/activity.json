@@ -2,9 +2,9 @@
   "date": "2025-09-08",
   "projects": {
     "cashCalculator": {
-      "totalLinesAdded": 2674,
-      "totalLinesRemoved": 433,
-      "totalActiveTime": 169,
+      "totalLinesAdded": 2689,
+      "totalLinesRemoved": 453,
+      "totalActiveTime": 172,
       "files": {
         "/Users/sakshi/Desktop/cashCalculator/components/CashTab.js": [
           {
@@ -1545,6 +1545,34 @@
               "removed": []
             },
             "duration": 5,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-08T18:03:56.072Z",
+            "fileName": "/Users/sakshi/Desktop/cashCalculator/components/CashTab.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 20,
+            "projectName": "cashCalculator",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-08T18:04:54.706Z",
+            "fileName": "/Users/sakshi/Desktop/cashCalculator/components/CashTab.js",
+            "fileType": ".js",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "cashCalculator",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "js"
           }
         ]

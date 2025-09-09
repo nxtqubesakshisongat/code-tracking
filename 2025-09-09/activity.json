@@ -919,6 +919,53 @@
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/createGridMission.jsx"
       ],
       "averageChangeSize": 772
+    },
+    "cashCalculator": {
+      "totalLinesAdded": 800,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 3,
+      "files": {
+        "/Users/sakshi/Desktop/cashCalculator/components/CashTab.js": [
+          {
+            "timestamp": "2025-09-09T11:47:54.169Z",
+            "fileName": "/Users/sakshi/Desktop/cashCalculator/components/CashTab.js",
+            "fileType": ".js",
+            "linesAdded": 800,
+            "linesRemoved": 0,
+            "projectName": "cashCalculator",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-09T11:50:01.317Z",
+            "fileName": "/Users/sakshi/Desktop/cashCalculator/components/CashTab.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cashCalculator",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 3
+      },
+      "changeFrequency": {
+        "17": 3
+      },
+      "topFiles": [
+        "/Users/sakshi/Desktop/cashCalculator/components/CashTab.js"
+      ],
+      "averageChangeSize": 401
     }
   },
   "totalActiveTime": 0,

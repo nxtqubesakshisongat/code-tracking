@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 302                                          |
+| **Lines Added** (➕)   | 494                                          |
 | **Lines Removed** (➖) | 31                                        |
-| **Net Change** (↕)    | 271                |
-| **Active Time** (⌚)   | 17 minutes |
+| **Net Change** (↕)    | 463                |
+| **Active Time** (⌚)   | 21 minutes |
 
 
 ## Modified Files
@@ -21,6 +21,8 @@
 - **.env** (+7, -0)
 - **authController.js** (+32, -0)
 - **api.js** (+66, -0)
+- **NavBar.js** (+50, -0)
+- **TabNavigation.js** (+142, -0)
 
 ## Visualizations
 
@@ -30,7 +32,7 @@
 pie showData
 title Lines changed by file type
 ".json" : 26
-".js" : 286
+".js" : 478
 ".sql" : 14
 "unknown" : 7
 ```
@@ -43,7 +45,8 @@ title Coding activity by hour (count of changes)
 "11h" : 2
 "12h" : 11
 "13h" : 2
+"14h" : 3
 ```
 
 
-> **Last Updated:** 10/09/2025, 14:00:13
+> **Last Updated:** 10/09/2025, 14:10:13

@@ -51,9 +51,9 @@
       "averageChangeSize": 106
     },
     "cashCalC": {
-      "totalLinesAdded": 49,
+      "totalLinesAdded": 104,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalActiveTime": 2,
       "files": {
         "/Users/sakshi/Desktop/cashCalC/backend/package.json": [
           {
@@ -77,6 +77,38 @@
             "fileName": "/Users/sakshi/Desktop/cashCalC/backend/src/server.js",
             "fileType": ".js",
             "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "cashCalC",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/sakshi/Desktop/cashCalC/backend/src/models/init.sql": [
+          {
+            "timestamp": "2025-09-10T06:46:44.271Z",
+            "fileName": "/Users/sakshi/Desktop/cashCalC/backend/src/models/init.sql",
+            "fileType": ".sql",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "cashCalC",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sql"
+          }
+        ],
+        "/Users/sakshi/Desktop/cashCalC/backend/src/routes/calculations.js": [
+          {
+            "timestamp": "2025-09-10T06:46:54.441Z",
+            "fileName": "/Users/sakshi/Desktop/cashCalC/backend/src/routes/calculations.js",
+            "fileType": ".js",
+            "linesAdded": 41,
             "linesRemoved": 0,
             "projectName": "cashCalC",
             "content": {

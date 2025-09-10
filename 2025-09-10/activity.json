@@ -51,9 +51,9 @@
       "averageChangeSize": 106
     },
     "cashCalC": {
-      "totalLinesAdded": 707,
+      "totalLinesAdded": 1465,
       "totalLinesRemoved": 60,
-      "totalActiveTime": 72,
+      "totalActiveTime": 73,
       "files": {
         "/Users/sakshi/Desktop/cashCalC/backend/package.json": [
           {
@@ -766,6 +766,36 @@
               "removed": []
             },
             "duration": 3,
+            "language": "js"
+          }
+        ],
+        "/Users/sakshi/Desktop/cashCalC/frontend/src/screens/CashScreen.js": [
+          {
+            "timestamp": "2025-09-10T10:03:09.852Z",
+            "fileName": "/Users/sakshi/Desktop/cashCalC/frontend/src/screens/CashScreen.js",
+            "fileType": ".js",
+            "linesAdded": 753,
+            "linesRemoved": 0,
+            "projectName": "cashCalC",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-10T10:03:15.684Z",
+            "fileName": "/Users/sakshi/Desktop/cashCalC/frontend/src/screens/CashScreen.js",
+            "fileType": ".js",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "cashCalC",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "js"
           }
         ]

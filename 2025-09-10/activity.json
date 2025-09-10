@@ -51,9 +51,9 @@
       "averageChangeSize": 106
     },
     "cashCalC": {
-      "totalLinesAdded": 690,
-      "totalLinesRemoved": 41,
-      "totalActiveTime": 44,
+      "totalLinesAdded": 695,
+      "totalLinesRemoved": 45,
+      "totalActiveTime": 51,
       "files": {
         "/Users/sakshi/Desktop/cashCalC/backend/package.json": [
           {
@@ -387,6 +387,34 @@
             },
             "duration": 2,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-09-10T08:58:33.706Z",
+            "fileName": "/Users/sakshi/Desktop/cashCalC/frontend/App.js",
+            "fileType": ".js",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cashCalC",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-10T08:59:01.296Z",
+            "fileName": "/Users/sakshi/Desktop/cashCalC/frontend/App.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cashCalC",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ],
         "/Users/sakshi/Desktop/cashCalC/frontend/src/components/navigation/SideDrawer.js": [
@@ -486,6 +514,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-10T09:00:12.884Z",
+            "fileName": "/Users/sakshi/Desktop/cashCalC/frontend/src/components/navigation/SideDrawer.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cashCalC",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "js"
           }
         ]

@@ -51,9 +51,9 @@
       "averageChangeSize": 106
     },
     "cashCalC": {
-      "totalLinesAdded": 1882,
+      "totalLinesAdded": 2020,
       "totalLinesRemoved": 60,
-      "totalActiveTime": 84,
+      "totalActiveTime": 85,
       "files": {
         "/Users/sakshi/Desktop/cashCalC/backend/package.json": [
           {
@@ -241,6 +241,20 @@
             "fileName": "/Users/sakshi/Desktop/cashCalC/backend/src/controllers/transactionController.js",
             "fileType": ".js",
             "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "cashCalC",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-10T10:32:21.931Z",
+            "fileName": "/Users/sakshi/Desktop/cashCalC/backend/src/controllers/transactionController.js",
+            "fileType": ".js",
+            "linesAdded": 80,
             "linesRemoved": 0,
             "projectName": "cashCalC",
             "content": {
@@ -852,6 +866,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-10T10:32:05.578Z",
+            "fileName": "/Users/sakshi/Desktop/cashCalC/frontend/src/screens/CashScreen.js",
+            "fileType": ".js",
+            "linesAdded": 58,
+            "linesRemoved": 0,
+            "projectName": "cashCalC",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ],

@@ -1,0 +1,47 @@
+{
+  "date": "2025-09-10",
+  "projects": {
+    "cashCalculator": {
+      "totalLinesAdded": 106,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/sakshi/Desktop/cashCalculator/components/TabNavigation.js": [
+          {
+            "timestamp": "2025-09-10T05:40:13.693Z",
+            "fileName": "/Users/sakshi/Desktop/cashCalculator/components/TabNavigation.js",
+            "fileType": ".js",
+            "linesAdded": 106,
+            "linesRemoved": 0,
+            "projectName": "cashCalculator",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 0
+      },
+      "changeFrequency": {
+        "11": 0
+      },
+      "topFiles": [
+        "/Users/sakshi/Desktop/cashCalculator/components/TabNavigation.js"
+      ],
+      "averageChangeSize": 106
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    11
+  ],
+  "mostUsedLanguages": [
+    "js"
+  ]
+}

@@ -1112,9 +1112,9 @@
       "averageChangeSize": 24.5
     },
     "nxtqube_webapp": {
-      "totalLinesAdded": 1659,
-      "totalLinesRemoved": 9,
-      "totalActiveTime": 9,
+      "totalLinesAdded": 2859,
+      "totalLinesRemoved": 23,
+      "totalActiveTime": 12,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/Map.jsx": [
           {
@@ -1314,6 +1314,50 @@
             },
             "duration": 1,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-09-10T13:30:50.652Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/components/mission/drawGrid.js",
+            "fileType": ".js",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-10T13:32:30.581Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/components/mission/drawGrid.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 14,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/createGridMission.jsx": [
+          {
+            "timestamp": "2025-09-10T13:30:59.579Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/createGridMission.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1172,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
           }
         ]
       },

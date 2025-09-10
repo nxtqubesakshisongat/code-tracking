@@ -51,9 +51,9 @@
       "averageChangeSize": 106
     },
     "cashCalC": {
-      "totalLinesAdded": 2031,
+      "totalLinesAdded": 2032,
       "totalLinesRemoved": 72,
-      "totalActiveTime": 97,
+      "totalActiveTime": 100,
       "files": {
         "/Users/sakshi/Desktop/cashCalC/backend/package.json": [
           {
@@ -1036,6 +1036,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-10T10:50:19.748Z",
+            "fileName": "/Users/sakshi/Desktop/cashCalC/frontend/src/screens/LogsScreen.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cashCalC",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "js"
           }
         ],

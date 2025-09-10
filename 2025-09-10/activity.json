@@ -51,9 +51,9 @@
       "averageChangeSize": 106
     },
     "cashCalC": {
-      "totalLinesAdded": 494,
-      "totalLinesRemoved": 31,
-      "totalActiveTime": 21,
+      "totalLinesAdded": 554,
+      "totalLinesRemoved": 40,
+      "totalActiveTime": 29,
       "files": {
         "/Users/sakshi/Desktop/cashCalC/backend/package.json": [
           {
@@ -328,6 +328,64 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-10T08:42:17.571Z",
+            "fileName": "/Users/sakshi/Desktop/cashCalC/frontend/src/components/navigation/TabNavigation.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "cashCalC",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-10T08:42:20.209Z",
+            "fileName": "/Users/sakshi/Desktop/cashCalC/frontend/src/components/navigation/TabNavigation.js",
+            "fileType": ".js",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "cashCalC",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/sakshi/Desktop/cashCalC/frontend/App.js": [
+          {
+            "timestamp": "2025-09-10T08:40:21.697Z",
+            "fileName": "/Users/sakshi/Desktop/cashCalC/frontend/App.js",
+            "fileType": ".js",
+            "linesAdded": 51,
+            "linesRemoved": 0,
+            "projectName": "cashCalC",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-10T08:43:36.145Z",
+            "fileName": "/Users/sakshi/Desktop/cashCalC/frontend/App.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "cashCalC",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "js"
           }
         ]

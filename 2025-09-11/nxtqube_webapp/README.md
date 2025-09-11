@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2432                                          |
-| **Lines Removed** (➖) | 512                                        |
-| **Net Change** (↕)    | 1920                |
-| **Active Time** (⌚)   | 40 minutes |
+| **Lines Added** (➕)   | 2452                                          |
+| **Lines Removed** (➖) | 519                                        |
+| **Net Change** (↕)    | 1933                |
+| **Active Time** (⌚)   | 49 minutes |
 
 
 ## Modified Files
@@ -16,7 +16,8 @@
 - **camera_specs.js** (+47, -2)
 - **drone.model.js** (+186, -88)
 - **camera_specs.model.js** (+45, -0)
-- **drone.cameraSpecs.controller.js** (+64, -0)
+- **drone.cameraSpecs.controller.js** (+71, -7)
+- **drone.cameraSpecs.route.js** (+13, -0)
 
 ## Visualizations
 
@@ -25,7 +26,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 2163
+".js" : 2190
 ".jsx" : 781
 ```
 
@@ -37,8 +38,8 @@ title Coding activity by hour (count of changes)
 "14h" : 10
 "15h" : 14
 "16h" : 2
-"17h" : 2
+"17h" : 10
 ```
 
 
-> **Last Updated:** 11/09/2025, 17:56:51
+> **Last Updated:** 11/09/2025, 18:01:51

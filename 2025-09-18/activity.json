@@ -2,7 +2,7 @@
   "date": "2025-09-18",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 5491,
+      "totalLinesAdded": 6079,
       "totalLinesRemoved": 474,
       "totalActiveTime": 73,
       "files": {
@@ -1006,6 +1006,38 @@
             "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Drone/DroneInfo.jsx",
             "fileType": ".jsx",
             "linesAdded": 136,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/app.js": [
+          {
+            "timestamp": "2025-09-18T09:21:57.264Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/app.js",
+            "fileType": ".js",
+            "linesAdded": 189,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/App.jsx": [
+          {
+            "timestamp": "2025-09-18T09:21:57.265Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/App.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 399,
             "linesRemoved": 0,
             "projectName": "nxtqube_webapp",
             "content": {

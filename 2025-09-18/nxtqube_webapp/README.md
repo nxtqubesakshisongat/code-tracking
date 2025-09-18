@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 8631                                          |
+| **Lines Added** (➕)   | 8965                                          |
 | **Lines Removed** (➖) | 747                                        |
-| **Net Change** (↕)    | 7884                |
-| **Active Time** (⌚)   | 239 minutes |
+| **Net Change** (↕)    | 8218                |
+| **Active Time** (⌚)   | 244 minutes |
 
 
 ## Modified Files
@@ -34,6 +34,7 @@
 - **pathMission.controller.js** (+380, -41)
 - **mission.route.js** (+16, -0)
 - **SaveMissionModal.jsx** (+176, -63)
+- **ManageMission.jsx** (+334, -0)
 
 ## Visualizations
 
@@ -43,7 +44,7 @@
 pie showData
 title Lines changed by file type
 ".js" : 2807
-".jsx" : 6537
+".jsx" : 6871
 ".development" : 34
 ```
 
@@ -59,8 +60,8 @@ title Coding activity by hour (count of changes)
 "15h" : 10
 "16h" : 45
 "17h" : 19
-"18h" : 50
+"18h" : 51
 ```
 
 
-> **Last Updated:** 18/09/2025, 18:48:39
+> **Last Updated:** 18/09/2025, 18:53:39

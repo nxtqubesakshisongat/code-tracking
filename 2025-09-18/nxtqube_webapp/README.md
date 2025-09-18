@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 7899                                          |
+| **Lines Added** (➕)   | 8047                                          |
 | **Lines Removed** (➖) | 628                                        |
-| **Net Change** (↕)    | 7271                |
-| **Active Time** (⌚)   | 149 minutes |
+| **Net Change** (↕)    | 7419                |
+| **Active Time** (⌚)   | 151 minutes |
 
 
 ## Modified Files
 - **drawGrid.js** (+998, -4)
 - **Map.jsx** (+937, -37)
 - **parentMissions.modal.js** (+94, -52)
-- **gridMission.modal.js** (+43, -42)
+- **gridMission.modal.js** (+130, -42)
 - **mission.modal.js** (+64, -4)
 - **mission.controller.js** (+319, -23)
 - **createMissionHome.jsx** (+639, -1)
@@ -30,6 +30,7 @@
 - **App.jsx** (+399, -0)
 - **Mission.jsx** (+293, -0)
 - **createGridMission.jsx** (+1524, -151)
+- **pathMission.modal.js** (+61, -0)
 
 ## Visualizations
 
@@ -38,7 +39,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 2201
+".js" : 2349
 ".jsx" : 6292
 ".development" : 34
 ```
@@ -54,7 +55,8 @@ title Coding activity by hour (count of changes)
 "14h" : 8
 "15h" : 10
 "16h" : 45
+"17h" : 3
 ```
 
 
-> **Last Updated:** 18/09/2025, 16:58:07
+> **Last Updated:** 18/09/2025, 17:03:07

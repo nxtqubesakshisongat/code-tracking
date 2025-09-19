@@ -5,15 +5,15 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 4331                                          |
-| **Lines Removed** (➖) | 216                                        |
-| **Net Change** (↕)    | 4115                |
+| **Lines Removed** (➖) | 239                                        |
+| **Net Change** (↕)    | 4092                |
 | **Active Time** (⌚)   | 88 minutes |
 
 
 ## Modified Files
 - **pathMission.controller.js** (+449, -72)
 - **ExistingMission.jsx** (+442, -0)
-- **Map.jsx** (+967, -50)
+- **Map.jsx** (+967, -73)
 - **useMissionDisplay.js** (+863, -27)
 - **createGridMission.jsx** (+1544, -67)
 - **constants.js** (+66, -0)
@@ -26,7 +26,7 @@
 pie showData
 title Lines changed by file type
 ".js" : 1477
-".jsx" : 3070
+".jsx" : 3093
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -42,7 +42,8 @@ title Coding activity by hour (count of changes)
 "15h" : 8
 "16h" : 8
 "17h" : 20
+"18h" : 1
 ```
 
 
-> **Last Updated:** 19/09/2025, 17:54:58
+> **Last Updated:** 19/09/2025, 18:41:06

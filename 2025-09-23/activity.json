@@ -2,9 +2,9 @@
   "date": "2025-09-23",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 11648,
+      "totalLinesAdded": 11649,
       "totalLinesRemoved": 3144,
-      "totalActiveTime": 146,
+      "totalActiveTime": 150,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/createGridMission.jsx": [
           {
@@ -1211,6 +1211,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-23T11:07:07.919Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/components/mission/drawGrid.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "js"
           }
         ],

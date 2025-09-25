@@ -2,9 +2,9 @@
   "date": "2025-09-25",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 5331,
-      "totalLinesRemoved": 1575,
-      "totalActiveTime": 66,
+      "totalLinesAdded": 8212,
+      "totalLinesRemoved": 3535,
+      "totalActiveTime": 70,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/createGridMission.jsx": [
           {
@@ -664,6 +664,48 @@
             },
             "duration": 0,
             "language": "jsx"
+          },
+          {
+            "timestamp": "2025-09-25T10:40:21.576Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/createGridMission.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 464,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-09-25T10:41:01.292Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/createGridMission.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 919,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-09-25T10:42:35.425Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/createGridMission.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 1960,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "jsx"
           }
         ],
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Sidenav/Sidenav.jsx": [
@@ -767,6 +809,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-09-25T10:42:40.524Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/createGridMission_cleaned.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1498,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "jsx"
           }
         ]

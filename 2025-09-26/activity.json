@@ -2,7 +2,7 @@
   "date": "2025-09-26",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 10659,
+      "totalLinesAdded": 10680,
       "totalLinesRemoved": 3214,
       "totalActiveTime": 71,
       "files": {
@@ -715,6 +715,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-26T10:39:01.176Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/components/mission/utils/gridcalculations.js",
+            "fileType": ".js",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ]

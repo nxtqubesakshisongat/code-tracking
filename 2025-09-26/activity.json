@@ -2,9 +2,9 @@
   "date": "2025-09-26",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 13570,
+      "totalLinesAdded": 14182,
       "totalLinesRemoved": 5292,
-      "totalActiveTime": 130,
+      "totalActiveTime": 132,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/utils/gridUtils/editMissionUtils.js": [
           {
@@ -1044,6 +1044,20 @@
             },
             "duration": 1,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-09-26T12:00:17.585Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/components/mission/drawGrid.js",
+            "fileType": ".js",
+            "linesAdded": 117,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ],
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/Map.jsx": [
@@ -1352,6 +1366,34 @@
             "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/components/mission/utils/gridcalculations.js",
             "fileType": ".js",
             "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-26T11:59:43.009Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/components/mission/utils/gridcalculations.js",
+            "fileType": ".js",
+            "linesAdded": 424,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-26T12:01:16.277Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/components/mission/utils/gridcalculations.js",
+            "fileType": ".js",
+            "linesAdded": 71,
             "linesRemoved": 0,
             "projectName": "nxtqube_webapp",
             "content": {

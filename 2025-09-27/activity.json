@@ -1,0 +1,75 @@
+{
+  "date": "2025-09-27",
+  "projects": {
+    "cashCalC": {
+      "totalLinesAdded": 118,
+      "totalLinesRemoved": 8,
+      "totalActiveTime": 2,
+      "files": {
+        "/Users/sakshi/Desktop/cashCalC/frontend/src/screens/LoginScreen.js": [
+          {
+            "timestamp": "2025-09-27T09:56:59.577Z",
+            "fileName": "/Users/sakshi/Desktop/cashCalC/frontend/src/screens/LoginScreen.js",
+            "fileType": ".js",
+            "linesAdded": 110,
+            "linesRemoved": 0,
+            "projectName": "cashCalC",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-27T09:57:00.595Z",
+            "fileName": "/Users/sakshi/Desktop/cashCalC/frontend/src/screens/LoginScreen.js",
+            "fileType": ".js",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "cashCalC",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-27T09:57:15.422Z",
+            "fileName": "/Users/sakshi/Desktop/cashCalC/frontend/src/screens/LoginScreen.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "cashCalC",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 2
+      },
+      "changeFrequency": {
+        "15": 2
+      },
+      "topFiles": [
+        "/Users/sakshi/Desktop/cashCalC/frontend/src/screens/LoginScreen.js"
+      ],
+      "averageChangeSize": 42
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    15
+  ],
+  "mostUsedLanguages": [
+    "js"
+  ]
+}

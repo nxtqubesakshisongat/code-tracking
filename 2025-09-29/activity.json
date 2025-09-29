@@ -2,9 +2,9 @@
   "date": "2025-09-29",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 21389,
-      "totalLinesRemoved": 17022,
-      "totalActiveTime": 90,
+      "totalLinesAdded": 22642,
+      "totalLinesRemoved": 18140,
+      "totalActiveTime": 103,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/createGridMission.jsx": [
           {
@@ -784,6 +784,90 @@
             "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/utils/gridUtils/updateGridMission.js",
             "fileType": ".js",
             "linesAdded": 313,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-29T07:26:38.336Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/utils/gridUtils/updateGridMission.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 313,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-29T07:26:39.538Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/utils/gridUtils/updateGridMission.js",
+            "fileType": ".js",
+            "linesAdded": 400,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-29T07:29:08.145Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/utils/gridUtils/updateGridMission.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 400,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-29T07:29:09.696Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/utils/gridUtils/updateGridMission.js",
+            "fileType": ".js",
+            "linesAdded": 405,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-29T07:30:19.978Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/utils/gridUtils/updateGridMission.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 405,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-09-29T07:30:21.610Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/utils/gridUtils/updateGridMission.js",
+            "fileType": ".js",
+            "linesAdded": 448,
             "linesRemoved": 0,
             "projectName": "nxtqube_webapp",
             "content": {

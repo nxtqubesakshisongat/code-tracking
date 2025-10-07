@@ -2,7 +2,7 @@
   "date": "2025-10-07",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 3029,
+      "totalLinesAdded": 3047,
       "totalLinesRemoved": 1608,
       "totalActiveTime": 48,
       "files": {
@@ -653,6 +653,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-10-07T11:58:36.730Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/RouteSettingsPanel.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "jsx"
           }
         ]

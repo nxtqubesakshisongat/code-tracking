@@ -1,0 +1,61 @@
+{
+  "date": "2025-10-09",
+  "projects": {
+    "nxtqube_webapp": {
+      "totalLinesAdded": 1,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 2,
+      "files": {
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/create3DMission.jsx": [
+          {
+            "timestamp": "2025-10-09T03:25:32.326Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/create3DMission.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-10-09T03:26:36.967Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/create3DMission.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "jsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "jsx": 2
+      },
+      "changeFrequency": {
+        "8": 2
+      },
+      "topFiles": [
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/create3DMission.jsx"
+      ],
+      "averageChangeSize": 1
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    8
+  ],
+  "mostUsedLanguages": [
+    "jsx"
+  ]
+}

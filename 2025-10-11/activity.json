@@ -3,8 +3,8 @@
   "projects": {
     "accounting-master": {
       "totalLinesAdded": 14,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 5,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 7,
       "files": {
         "/Users/sakshi/Downloads/accounting-master/server/.env": [
           {
@@ -77,6 +77,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-10-11T09:47:45.988Z",
+            "fileName": "/Users/sakshi/Downloads/accounting-master/client/.env",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "accounting-master",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "unknown"
           }
         ]

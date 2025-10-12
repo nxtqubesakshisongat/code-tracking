@@ -1,0 +1,47 @@
+{
+  "date": "2025-10-12",
+  "projects": {
+    "accounting-master": {
+      "totalLinesAdded": 4,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/sakshi/Downloads/accounting-master/client/.env": [
+          {
+            "timestamp": "2025-10-12T12:29:11.285Z",
+            "fileName": "/Users/sakshi/Downloads/accounting-master/client/.env",
+            "fileType": "unknown",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "accounting-master",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          }
+        ]
+      },
+      "languageStats": {
+        "unknown": 0
+      },
+      "changeFrequency": {
+        "17": 0
+      },
+      "topFiles": [
+        "/Users/sakshi/Downloads/accounting-master/client/.env"
+      ],
+      "averageChangeSize": 4
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    17
+  ],
+  "mostUsedLanguages": [
+    "unknown"
+  ]
+}

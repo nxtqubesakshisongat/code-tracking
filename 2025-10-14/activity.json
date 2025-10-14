@@ -611,9 +611,9 @@
       "averageChangeSize": 426
     },
     "accounting-master": {
-      "totalLinesAdded": 615,
+      "totalLinesAdded": 775,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 2,
+      "totalActiveTime": 6,
       "files": {
         "/Users/sakshi/Downloads/accounting-master/client/src/components/Footer/Footer.js": [
           {
@@ -802,6 +802,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/sakshi/Downloads/accounting-master/server/documents/email.js": [
+          {
+            "timestamp": "2025-10-14T09:48:17.539Z",
+            "fileName": "/Users/sakshi/Downloads/accounting-master/server/documents/email.js",
+            "fileType": ".js",
+            "linesAdded": 160,
+            "linesRemoved": 0,
+            "projectName": "accounting-master",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "js"
           }
         ]

@@ -611,9 +611,9 @@
       "averageChangeSize": 426
     },
     "accounting-master": {
-      "totalLinesAdded": 28,
+      "totalLinesAdded": 615,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalActiveTime": 2,
       "files": {
         "/Users/sakshi/Downloads/accounting-master/client/src/components/Footer/Footer.js": [
           {
@@ -635,6 +635,166 @@
             "fileName": "/Users/sakshi/Downloads/accounting-master/client/src/components/Footer/Footer.js",
             "fileType": ".js",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "accounting-master",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/sakshi/Downloads/accounting-master/client/src/App.js": [
+          {
+            "timestamp": "2025-10-14T09:43:40.564Z",
+            "fileName": "/Users/sakshi/Downloads/accounting-master/client/src/App.js",
+            "fileType": ".js",
+            "linesAdded": 54,
+            "linesRemoved": 0,
+            "projectName": "accounting-master",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ],
+        "/Users/sakshi/Downloads/accounting-master/client/src/index.js": [
+          {
+            "timestamp": "2025-10-14T09:43:40.568Z",
+            "fileName": "/Users/sakshi/Downloads/accounting-master/client/src/index.js",
+            "fileType": ".js",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "accounting-master",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ],
+        "/Users/sakshi/Downloads/accounting-master/client/build/static/js/main.1c151edd.chunk.js": [
+          {
+            "timestamp": "2025-10-14T09:43:40.571Z",
+            "fileName": "/Users/sakshi/Downloads/accounting-master/client/build/static/js/main.1c151edd.chunk.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "accounting-master",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ],
+        "/Users/sakshi/Downloads/accounting-master/client/build/static/js/main.1c151edd.chunk.js.map": [
+          {
+            "timestamp": "2025-10-14T09:43:40.573Z",
+            "fileName": "/Users/sakshi/Downloads/accounting-master/client/build/static/js/main.1c151edd.chunk.js.map",
+            "fileType": ".map",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "accounting-master",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "map"
+          }
+        ],
+        "/Users/sakshi/Downloads/accounting-master/server/package.json": [
+          {
+            "timestamp": "2025-10-14T09:43:40.575Z",
+            "fileName": "/Users/sakshi/Downloads/accounting-master/server/package.json",
+            "fileType": ".json",
+            "linesAdded": 29,
+            "linesRemoved": 0,
+            "projectName": "accounting-master",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "/Users/sakshi/Downloads/accounting-master/server/index.js": [
+          {
+            "timestamp": "2025-10-14T09:43:40.577Z",
+            "fileName": "/Users/sakshi/Downloads/accounting-master/server/index.js",
+            "fileType": ".js",
+            "linesAdded": 116,
+            "linesRemoved": 0,
+            "projectName": "accounting-master",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ],
+        "/Users/sakshi/Downloads/accounting-master/server/controllers/invoices.js": [
+          {
+            "timestamp": "2025-10-14T09:43:40.581Z",
+            "fileName": "/Users/sakshi/Downloads/accounting-master/server/controllers/invoices.js",
+            "fileType": ".js",
+            "linesAdded": 101,
+            "linesRemoved": 0,
+            "projectName": "accounting-master",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ],
+        "/Users/sakshi/Downloads/accounting-master/client/src/store.js": [
+          {
+            "timestamp": "2025-10-14T09:43:40.567Z",
+            "fileName": "/Users/sakshi/Downloads/accounting-master/client/src/store.js",
+            "fileType": ".js",
+            "linesAdded": 36,
+            "linesRemoved": 0,
+            "projectName": "accounting-master",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ],
+        "/Users/sakshi/Downloads/accounting-master/server/documents/invoice.js": [
+          {
+            "timestamp": "2025-10-14T09:43:40.583Z",
+            "fileName": "/Users/sakshi/Downloads/accounting-master/server/documents/invoice.js",
+            "fileType": ".js",
+            "linesAdded": 203,
+            "linesRemoved": 0,
+            "projectName": "accounting-master",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ],
+        "/Users/sakshi/Downloads/accounting-master/client/src/components/Home/Home.js": [
+          {
+            "timestamp": "2025-10-14T09:44:18.366Z",
+            "fileName": "/Users/sakshi/Downloads/accounting-master/client/src/components/Home/Home.js",
+            "fileType": ".js",
+            "linesAdded": 24,
             "linesRemoved": 0,
             "projectName": "accounting-master",
             "content": {

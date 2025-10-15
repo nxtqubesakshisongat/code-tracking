@@ -2,9 +2,9 @@
   "date": "2025-10-15",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 1386,
+      "totalLinesAdded": 1432,
       "totalLinesRemoved": 845,
-      "totalActiveTime": 40,
+      "totalActiveTime": 44,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/components/mission/draw3D.js": [
           {
@@ -467,6 +467,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-10-15T07:44:15.677Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/components/mission/draw3D.js",
+            "fileType": ".js",
+            "linesAdded": 46,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "js"
           }
         ]

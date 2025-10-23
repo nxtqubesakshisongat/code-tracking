@@ -1,0 +1,145 @@
+{
+  "date": "2025-10-23",
+  "projects": {
+    "javacript": {
+      "totalLinesAdded": 20,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 9,
+      "files": {
+        "/Users/sakshi/Desktop/sakshi/javacript/index.html": [
+          {
+            "timestamp": "2025-10-23T17:02:51.379Z",
+            "fileName": "/Users/sakshi/Desktop/sakshi/javacript/index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "javacript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-10-23T17:02:54.152Z",
+            "fileName": "/Users/sakshi/Desktop/sakshi/javacript/index.html",
+            "fileType": ".html",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "javacript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-10-23T17:03:17.586Z",
+            "fileName": "/Users/sakshi/Desktop/sakshi/javacript/index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "javacript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-10-23T17:03:19.765Z",
+            "fileName": "/Users/sakshi/Desktop/sakshi/javacript/index.html",
+            "fileType": ".html",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "javacript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-10-23T17:03:31.631Z",
+            "fileName": "/Users/sakshi/Desktop/sakshi/javacript/index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "javacript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-10-23T17:03:48.044Z",
+            "fileName": "/Users/sakshi/Desktop/sakshi/javacript/index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "javacript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-10-23T17:03:53.847Z",
+            "fileName": "/Users/sakshi/Desktop/sakshi/javacript/index.html",
+            "fileType": ".html",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "javacript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-10-23T17:06:40.234Z",
+            "fileName": "/Users/sakshi/Desktop/sakshi/javacript/index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "javacript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "html"
+          }
+        ]
+      },
+      "languageStats": {
+        "html": 9
+      },
+      "changeFrequency": {
+        "22": 9
+      },
+      "topFiles": [
+        "/Users/sakshi/Desktop/sakshi/javacript/index.html"
+      ],
+      "averageChangeSize": 2.5
+    }
+  },
+  "totalActiveTime": 9,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    22
+  ],
+  "mostUsedLanguages": [
+    "html"
+  ]
+}

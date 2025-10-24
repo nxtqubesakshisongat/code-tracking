@@ -2,9 +2,9 @@
   "date": "2025-10-25",
   "projects": {
     "javacript": {
-      "totalLinesAdded": 16,
+      "totalLinesAdded": 20,
       "totalLinesRemoved": 5,
-      "totalActiveTime": 19,
+      "totalActiveTime": 24,
       "files": {
         "/Users/sakshi/Desktop/sakshi/javacript/index.html": [
           {
@@ -233,6 +233,62 @@
           },
           {
             "timestamp": "2025-10-24T19:33:48.116Z",
+            "fileName": "/Users/sakshi/Desktop/sakshi/javacript/index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "javacript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-10-24T19:35:37.188Z",
+            "fileName": "/Users/sakshi/Desktop/sakshi/javacript/index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "javacript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-10-24T19:35:53.558Z",
+            "fileName": "/Users/sakshi/Desktop/sakshi/javacript/index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "javacript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-10-24T19:36:25.197Z",
+            "fileName": "/Users/sakshi/Desktop/sakshi/javacript/index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "javacript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-10-24T19:36:26.590Z",
             "fileName": "/Users/sakshi/Desktop/sakshi/javacript/index.html",
             "fileType": ".html",
             "linesAdded": 1,

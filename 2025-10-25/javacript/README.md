@@ -4,16 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 225                                          |
-| **Lines Removed** (➖) | 117                                        |
-| **Net Change** (↕)    | 108                |
-| **Active Time** (⌚)   | 100 minutes |
+| **Lines Added** (➕)   | 231                                          |
+| **Lines Removed** (➖) | 118                                        |
+| **Net Change** (↕)    | 113                |
+| **Active Time** (⌚)   | 109 minutes |
 
 
 ## Modified Files
 - **index.html** (+86, -43)
 - **index.html** (+50, -38)
-- **ArrayReverse.js** (+89, -36)
+- **ArrayReverse.js** (+92, -36)
+- **MaxMinArray.js** (+3, -1)
 
 ## Visualizations
 
@@ -23,7 +24,7 @@
 pie showData
 title Lines changed by file type
 ".html" : 217
-".js" : 125
+".js" : 132
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -35,8 +36,8 @@ title Coding activity by hour (count of changes)
 "01h" : 21
 "11h" : 5
 "12h" : 50
-"19h" : 2
+"19h" : 9
 ```
 
 
-> **Last Updated:** 25/10/2025, 19:41:44
+> **Last Updated:** 25/10/2025, 19:46:44

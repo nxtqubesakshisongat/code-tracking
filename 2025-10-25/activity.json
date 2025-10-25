@@ -3,8 +3,8 @@
   "projects": {
     "javacript": {
       "totalLinesAdded": 222,
-      "totalLinesRemoved": 96,
-      "totalActiveTime": 93,
+      "totalLinesRemoved": 117,
+      "totalActiveTime": 99,
       "files": {
         "/Users/sakshi/Desktop/sakshi/javacript/index.html": [
           {
@@ -1171,6 +1171,34 @@
               "removed": []
             },
             "duration": 4,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-10-25T06:53:17.532Z",
+            "fileName": "/Users/sakshi/Desktop/sakshi/javacript/DSA/ArrayReverse.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 18,
+            "projectName": "javacript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-10-25T06:53:19.468Z",
+            "fileName": "/Users/sakshi/Desktop/sakshi/javacript/DSA/ArrayReverse.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "javacript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "js"
           }
         ]

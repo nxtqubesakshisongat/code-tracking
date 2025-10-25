@@ -1425,6 +1425,70 @@
         "/Users/sakshi/Desktop/sakshi/javacript/index.html"
       ],
       "averageChangeSize": 1.6
+    },
+    "cashCalC": {
+      "totalLinesAdded": 145,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 4,
+      "files": {
+        "/Users/sakshi/Desktop/cashCalC/frontend/src/services/api.js": [
+          {
+            "timestamp": "2025-10-25T14:45:20.628Z",
+            "fileName": "/Users/sakshi/Desktop/cashCalC/frontend/src/services/api.js",
+            "fileType": ".js",
+            "linesAdded": 63,
+            "linesRemoved": 0,
+            "projectName": "cashCalC",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-10-25T14:48:19.030Z",
+            "fileName": "/Users/sakshi/Desktop/cashCalC/frontend/src/services/api.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "cashCalC",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
+          }
+        ],
+        "/Users/sakshi/Desktop/cashCalC/backend/server.js": [
+          {
+            "timestamp": "2025-10-25T14:45:23.472Z",
+            "fileName": "/Users/sakshi/Desktop/cashCalC/backend/server.js",
+            "fileType": ".js",
+            "linesAdded": 80,
+            "linesRemoved": 0,
+            "projectName": "cashCalC",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 4
+      },
+      "changeFrequency": {
+        "20": 4
+      },
+      "topFiles": [
+        "/Users/sakshi/Desktop/cashCalC/frontend/src/services/api.js",
+        "/Users/sakshi/Desktop/cashCalC/backend/server.js"
+      ],
+      "averageChangeSize": 48.333333333333336
     }
   },
   "totalActiveTime": 5,

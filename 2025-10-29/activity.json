@@ -445,6 +445,53 @@
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/components/mission/draw3D.js"
       ],
       "averageChangeSize": 163
+    },
+    "javacript": {
+      "totalLinesAdded": 22,
+      "totalLinesRemoved": 4,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/sakshi/Desktop/sakshi/javacript/DSA/MaxMinArray.js": [
+          {
+            "timestamp": "2025-10-29T12:40:01.558Z",
+            "fileName": "/Users/sakshi/Desktop/sakshi/javacript/DSA/MaxMinArray.js",
+            "fileType": ".js",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "javacript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-10-29T12:40:02.577Z",
+            "fileName": "/Users/sakshi/Desktop/sakshi/javacript/DSA/MaxMinArray.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "javacript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 1
+      },
+      "changeFrequency": {
+        "18": 1
+      },
+      "topFiles": [
+        "/Users/sakshi/Desktop/sakshi/javacript/DSA/MaxMinArray.js"
+      ],
+      "averageChangeSize": 13
     }
   },
   "totalActiveTime": 4,

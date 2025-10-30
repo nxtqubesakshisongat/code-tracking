@@ -2,9 +2,9 @@
   "date": "2025-10-30",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 13616,
-      "totalLinesRemoved": 56,
-      "totalActiveTime": 14,
+      "totalLinesAdded": 13813,
+      "totalLinesRemoved": 58,
+      "totalActiveTime": 21,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/package-lock.json": [
           {
@@ -196,6 +196,66 @@
             },
             "duration": 5,
             "language": "js"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/socket.js": [
+          {
+            "timestamp": "2025-10-30T07:54:28.263Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/socket.js",
+            "fileType": ".js",
+            "linesAdded": 81,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-10-30T07:54:45.850Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/socket.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-10-30T07:54:48.993Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/socket.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/bin/www": [
+          {
+            "timestamp": "2025-10-30T07:57:02.662Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/bin/www",
+            "fileType": "unknown",
+            "linesAdded": 116,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "unknown"
           }
         ]
       },

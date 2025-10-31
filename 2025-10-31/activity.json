@@ -195,9 +195,9 @@
       "averageChangeSize": 169
     },
     "javacript": {
-      "totalLinesAdded": 29,
-      "totalLinesRemoved": 5,
-      "totalActiveTime": 11,
+      "totalLinesAdded": 33,
+      "totalLinesRemoved": 8,
+      "totalActiveTime": 17,
       "files": {
         "/Users/sakshi/Desktop/sakshi/javacript/DSA/MaxMinArray.js": [
           {
@@ -338,6 +338,76 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-10-31T13:36:13.259Z",
+            "fileName": "/Users/sakshi/Desktop/sakshi/javacript/DSA/MaxMinArray.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "javacript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-10-31T13:37:00.731Z",
+            "fileName": "/Users/sakshi/Desktop/sakshi/javacript/DSA/MaxMinArray.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "javacript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-10-31T13:37:03.806Z",
+            "fileName": "/Users/sakshi/Desktop/sakshi/javacript/DSA/MaxMinArray.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "javacript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-10-31T13:37:04.984Z",
+            "fileName": "/Users/sakshi/Desktop/sakshi/javacript/DSA/MaxMinArray.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "javacript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-10-31T13:38:45.393Z",
+            "fileName": "/Users/sakshi/Desktop/sakshi/javacript/DSA/MaxMinArray.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "javacript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "js"
           }
         ]

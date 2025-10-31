@@ -193,6 +193,96 @@
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/routes/routes.js"
       ],
       "averageChangeSize": 169
+    },
+    "javacript": {
+      "totalLinesAdded": 26,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 4,
+      "files": {
+        "/Users/sakshi/Desktop/sakshi/javacript/DSA/MaxMinArray.js": [
+          {
+            "timestamp": "2025-10-31T13:29:23.121Z",
+            "fileName": "/Users/sakshi/Desktop/sakshi/javacript/DSA/MaxMinArray.js",
+            "fileType": ".js",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "javacript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-10-31T13:29:24.139Z",
+            "fileName": "/Users/sakshi/Desktop/sakshi/javacript/DSA/MaxMinArray.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "javacript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-10-31T13:29:36.884Z",
+            "fileName": "/Users/sakshi/Desktop/sakshi/javacript/DSA/MaxMinArray.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "javacript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-10-31T13:30:06.418Z",
+            "fileName": "/Users/sakshi/Desktop/sakshi/javacript/DSA/MaxMinArray.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "javacript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-10-31T13:30:12.508Z",
+            "fileName": "/Users/sakshi/Desktop/sakshi/javacript/DSA/MaxMinArray.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "javacript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 4
+      },
+      "changeFrequency": {
+        "18": 2,
+        "19": 2
+      },
+      "topFiles": [
+        "/Users/sakshi/Desktop/sakshi/javacript/DSA/MaxMinArray.js"
+      ],
+      "averageChangeSize": 5.2
     }
   },
   "totalActiveTime": 2,

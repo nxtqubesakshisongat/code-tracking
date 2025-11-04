@@ -1,0 +1,47 @@
+{
+  "date": "2025-11-04",
+  "projects": {
+    "nxtqube_webapp": {
+      "totalLinesAdded": 367,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/controllers/geofence/fenceData.controller.js": [
+          {
+            "timestamp": "2025-11-04T06:08:58.511Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/controllers/geofence/fenceData.controller.js",
+            "fileType": ".js",
+            "linesAdded": 367,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 0
+      },
+      "changeFrequency": {
+        "11": 0
+      },
+      "topFiles": [
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/controllers/geofence/fenceData.controller.js"
+      ],
+      "averageChangeSize": 367
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    11
+  ],
+  "mostUsedLanguages": [
+    "js"
+  ]
+}

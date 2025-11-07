@@ -3,7 +3,7 @@
   "projects": {
     "nxtqube_webapp": {
       "totalLinesAdded": 4585,
-      "totalLinesRemoved": 7,
+      "totalLinesRemoved": 18,
       "totalActiveTime": 24,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Geofence/CreateFenceForm.jsx": [
@@ -137,6 +137,20 @@
               "removed": []
             },
             "duration": 5,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-11-07T09:21:27.483Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/components/geofence/useFenceManagement.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 11,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ],

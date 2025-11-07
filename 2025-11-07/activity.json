@@ -2,7 +2,7 @@
   "date": "2025-11-07",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 4543,
+      "totalLinesAdded": 4585,
       "totalLinesRemoved": 7,
       "totalActiveTime": 24,
       "files": {
@@ -256,6 +256,22 @@
             },
             "duration": 1,
             "language": "jsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Geofence/DroneFenceFormat.js": [
+          {
+            "timestamp": "2025-11-07T07:50:16.660Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Geofence/DroneFenceFormat.js",
+            "fileType": ".js",
+            "linesAdded": 42,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
           }
         ]
       },

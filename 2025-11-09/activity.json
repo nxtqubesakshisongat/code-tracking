@@ -2,9 +2,9 @@
   "date": "2025-11-09",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 952,
-      "totalLinesRemoved": 85,
-      "totalActiveTime": 18,
+      "totalLinesAdded": 1035,
+      "totalLinesRemoved": 109,
+      "totalActiveTime": 24,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/ExistingMission/utils/missionUtils.js": [
           {
@@ -213,6 +213,64 @@
             "fileType": ".js",
             "linesAdded": 0,
             "linesRemoved": 29,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-11-09T09:49:37.436Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/routes/geofence/fenceData.route.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/routes/mission/mission.route.js": [
+          {
+            "timestamp": "2025-11-09T09:50:23.631Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/routes/mission/mission.route.js",
+            "fileType": ".js",
+            "linesAdded": 83,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-11-09T09:50:24.644Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/routes/mission/mission.route.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-11-09T09:51:05.835Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/routes/mission/mission.route.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 8,
             "projectName": "nxtqube_webapp",
             "content": {
               "added": [],

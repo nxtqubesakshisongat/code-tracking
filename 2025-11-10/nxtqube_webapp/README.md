@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5539                                          |
+| **Lines Added** (➕)   | 6886                                          |
 | **Lines Removed** (➖) | 307                                        |
-| **Net Change** (↕)    | 5232                |
-| **Active Time** (⌚)   | 66 minutes |
+| **Net Change** (↕)    | 6579                |
+| **Active Time** (⌚)   | 75 minutes |
 
 
 ## Modified Files
@@ -25,6 +25,8 @@
 - **.env.development** (+41, -0)
 - **useFenceManagement.js** (+2339, -0)
 - **CreateFenceForm.jsx** (+985, -0)
+- **showFences.js** (+84, -0)
+- **Map.jsx** (+1263, -0)
 
 ## Visualizations
 
@@ -34,8 +36,8 @@
 pie showData
 title Lines changed by file type
 ".development" : 45
-".js" : 3514
-".jsx" : 2287
+".js" : 3598
+".jsx" : 3550
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -51,8 +53,8 @@ title Coding activity by hour (count of changes)
 "16h" : 3
 "17h" : 21
 "18h" : 22
-"19h" : 1
+"19h" : 4
 ```
 
 
-> **Last Updated:** 10/11/2025, 19:08:27
+> **Last Updated:** 10/11/2025, 19:13:27

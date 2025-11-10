@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1316                                          |
-| **Lines Removed** (➖) | 16                                        |
-| **Net Change** (↕)    | 1300                |
-| **Active Time** (⌚)   | 17 minutes |
+| **Lines Added** (➕)   | 1702                                          |
+| **Lines Removed** (➖) | 25                                        |
+| **Net Change** (↕)    | 1677                |
+| **Active Time** (⌚)   | 25 minutes |
 
 
 ## Modified Files
@@ -17,7 +17,9 @@
 - **LaunchControl.jsx** (+613, -4)
 - **DroneDefaultsByUser.controller.js** (+151, -1)
 - **drone.command.validator.js** (+33, -0)
-- **droneCommand.route.js** (+25, -0)
+- **droneCommand.route.js** (+25, -9)
+- **SelectedDronePreview.jsx** (+195, -0)
+- **apiUtils.js** (+191, -0)
 
 ## Visualizations
 
@@ -27,8 +29,8 @@
 pie showData
 title Lines changed by file type
 ".development" : 2
-".js" : 267
-".jsx" : 1063
+".js" : 467
+".jsx" : 1258
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -42,8 +44,8 @@ title Coding activity by hour (count of changes)
 "14h" : 2
 "15h" : 3
 "16h" : 3
-"17h" : 4
+"17h" : 7
 ```
 
 
-> **Last Updated:** 10/11/2025, 17:23:27
+> **Last Updated:** 10/11/2025, 17:28:27

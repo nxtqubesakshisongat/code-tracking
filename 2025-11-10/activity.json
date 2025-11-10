@@ -2,8 +2,8 @@
   "date": "2025-11-10",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 1702,
-      "totalLinesRemoved": 54,
+      "totalLinesAdded": 2108,
+      "totalLinesRemoved": 61,
       "totalActiveTime": 29,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/.env.development": [
@@ -105,6 +105,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-11-10T12:18:22.273Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/controllers/droneCommand.controller.js",
+            "fileType": ".js",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ],
@@ -278,6 +292,20 @@
             },
             "duration": 0,
             "language": "jsx"
+          },
+          {
+            "timestamp": "2025-11-10T12:18:22.268Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/ExistingMission/LaunchControl.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
           }
         ],
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/controllers/setting/DroneDefaultsByUser.controller.js": [
@@ -368,6 +396,20 @@
             },
             "duration": 2,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-11-10T12:18:22.270Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/routes/droneCommand.route.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
           }
         ],
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Drone/SelectedDronePreview.jsx": [
@@ -399,6 +441,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/controllers/geofence/fenceData.controller.js": [
+          {
+            "timestamp": "2025-11-10T12:18:22.271Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/controllers/geofence/fenceData.controller.js",
+            "fileType": ".js",
+            "linesAdded": 390,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ]

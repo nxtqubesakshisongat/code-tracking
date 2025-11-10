@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2202                                          |
-| **Lines Removed** (➖) | 277                                        |
-| **Net Change** (↕)    | 1925                |
-| **Active Time** (⌚)   | 47 minutes |
+| **Lines Added** (➕)   | 2206                                          |
+| **Lines Removed** (➖) | 278                                        |
+| **Net Change** (↕)    | 1928                |
+| **Active Time** (⌚)   | 49 minutes |
 
 
 ## Modified Files
@@ -20,8 +20,8 @@
 - **droneCommand.route.js** (+29, -13)
 - **SelectedDronePreview.jsx** (+195, -0)
 - **apiUtils.js** (+191, -0)
-- **fenceData.controller.js** (+425, -199)
-- **fenceData.route.js** (+10, -0)
+- **fenceData.controller.js** (+429, -199)
+- **fenceData.route.js** (+10, -1)
 - **.env.development** (+41, -0)
 
 ## Visualizations
@@ -32,7 +32,7 @@
 pie showData
 title Lines changed by file type
 ".development" : 45
-".js" : 1170
+".js" : 1175
 ".jsx" : 1264
 ```
 
@@ -48,8 +48,8 @@ title Coding activity by hour (count of changes)
 "15h" : 3
 "16h" : 3
 "17h" : 21
-"18h" : 4
+"18h" : 6
 ```
 
 
-> **Last Updated:** 10/11/2025, 18:03:27
+> **Last Updated:** 10/11/2025, 18:13:27

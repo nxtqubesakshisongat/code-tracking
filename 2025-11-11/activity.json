@@ -80,7 +80,7 @@
       "averageChangeSize": 10.75
     },
     "Argos": {
-      "totalLinesAdded": 4848,
+      "totalLinesAdded": 4853,
       "totalLinesRemoved": 12,
       "totalActiveTime": 10,
       "files": {
@@ -270,6 +270,20 @@
             "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/components/geofence/useFenceManagement.js",
             "fileType": ".js",
             "linesAdded": 2272,
+            "linesRemoved": 0,
+            "projectName": "Argos",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-11-11T11:02:35.928Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/components/geofence/useFenceManagement.js",
+            "fileType": ".js",
+            "linesAdded": 5,
             "linesRemoved": 0,
             "projectName": "Argos",
             "content": {

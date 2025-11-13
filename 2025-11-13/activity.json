@@ -2,9 +2,9 @@
   "date": "2025-11-13",
   "projects": {
     "Argos": {
-      "totalLinesAdded": 2947,
-      "totalLinesRemoved": 3,
-      "totalActiveTime": 6,
+      "totalLinesAdded": 2969,
+      "totalLinesRemoved": 7,
+      "totalActiveTime": 8,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/pages/Mission.jsx": [
           {
@@ -217,6 +217,50 @@
               "removed": []
             },
             "duration": 0,
+            "language": "jsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/CommandHandler/Components/sequenceMessageHandler.jsx": [
+          {
+            "timestamp": "2025-11-13T10:42:47.937Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/CommandHandler/Components/sequenceMessageHandler.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "Argos",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-11-13T10:42:53.864Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/CommandHandler/Components/sequenceMessageHandler.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "Argos",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-11-13T10:42:56.256Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/CommandHandler/Components/sequenceMessageHandler.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "Argos",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "jsx"
           }
         ]

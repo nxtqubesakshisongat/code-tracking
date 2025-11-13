@@ -2,7 +2,7 @@
   "date": "2025-11-13",
   "projects": {
     "Argos": {
-      "totalLinesAdded": 3454,
+      "totalLinesAdded": 3474,
       "totalLinesRemoved": 118,
       "totalActiveTime": 23,
       "files": {
@@ -363,6 +363,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-11-13T12:45:00.240Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/routes/setting/DroneDefaultsByUser.route.js",
+            "fileType": ".js",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "Argos",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ],

@@ -2,9 +2,9 @@
   "date": "2025-11-14",
   "projects": {
     "Argos": {
-      "totalLinesAdded": 622,
+      "totalLinesAdded": 756,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 2,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/ExistingMission/LaunchControl.jsx": [
           {
@@ -35,6 +35,22 @@
               "removed": []
             },
             "duration": 0,
+            "language": "js"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/controllers/setting/DroneDefaultsByUser.controller.js": [
+          {
+            "timestamp": "2025-11-14T05:32:19.686Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/controllers/setting/DroneDefaultsByUser.controller.js",
+            "fileType": ".js",
+            "linesAdded": 134,
+            "linesRemoved": 0,
+            "projectName": "Argos",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "js"
           }
         ]

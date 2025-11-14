@@ -3,7 +3,7 @@
   "projects": {
     "Argos": {
       "totalLinesAdded": 1151,
-      "totalLinesRemoved": 19,
+      "totalLinesRemoved": 20,
       "totalActiveTime": 17,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/ExistingMission/LaunchControl.jsx": [
@@ -175,6 +175,20 @@
             "fileType": ".js",
             "linesAdded": 73,
             "linesRemoved": 0,
+            "projectName": "Argos",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-11-14T10:29:08.293Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/CommandHandler/MissionLogs/dataGather.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "Argos",
             "content": {
               "added": [],

@@ -2,7 +2,7 @@
   "date": "2025-11-17",
   "projects": {
     "Argos": {
-      "totalLinesAdded": 1311,
+      "totalLinesAdded": 1573,
       "totalLinesRemoved": 23,
       "totalActiveTime": 21,
       "files": {
@@ -286,6 +286,22 @@
             },
             "duration": 1,
             "language": "jsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/utils/locationService.js": [
+          {
+            "timestamp": "2025-11-17T07:57:14.570Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/utils/locationService.js",
+            "fileType": ".js",
+            "linesAdded": 262,
+            "linesRemoved": 0,
+            "projectName": "Argos",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
           }
         ]
       },

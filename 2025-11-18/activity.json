@@ -1,0 +1,75 @@
+{
+  "date": "2025-11-18",
+  "projects": {
+    "nxtqube_webapp": {
+      "totalLinesAdded": 374,
+      "totalLinesRemoved": 3,
+      "totalActiveTime": 4,
+      "files": {
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/ExistingMission/ManageMission.jsx": [
+          {
+            "timestamp": "2025-11-18T05:22:00.734Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/ExistingMission/ManageMission.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 370,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-11-18T05:23:18.542Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/ExistingMission/ManageMission.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-11-18T05:24:55.443Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/ExistingMission/ManageMission.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "jsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "jsx": 4
+      },
+      "changeFrequency": {
+        "10": 4
+      },
+      "topFiles": [
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/ExistingMission/ManageMission.jsx"
+      ],
+      "averageChangeSize": 125.66666666666667
+    }
+  },
+  "totalActiveTime": 4,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    10
+  ],
+  "mostUsedLanguages": [
+    "jsx"
+  ]
+}

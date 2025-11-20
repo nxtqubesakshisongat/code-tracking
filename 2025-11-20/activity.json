@@ -413,6 +413,53 @@
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/ExistingMission/ManageMission.jsx"
       ],
       "averageChangeSize": 186.5
+    },
+    "cashCalC": {
+      "totalLinesAdded": 72,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/sakshi/Desktop/cashCalC/frontend/App.js": [
+          {
+            "timestamp": "2025-11-20T13:03:00.725Z",
+            "fileName": "/Users/sakshi/Desktop/cashCalC/frontend/App.js",
+            "fileType": ".js",
+            "linesAdded": 50,
+            "linesRemoved": 0,
+            "projectName": "cashCalC",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-11-20T13:03:07.150Z",
+            "fileName": "/Users/sakshi/Desktop/cashCalC/frontend/App.js",
+            "fileType": ".js",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "cashCalC",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 1
+      },
+      "changeFrequency": {
+        "18": 1
+      },
+      "topFiles": [
+        "/Users/sakshi/Desktop/cashCalC/frontend/App.js"
+      ],
+      "averageChangeSize": 36
     }
   },
   "totalActiveTime": 1,

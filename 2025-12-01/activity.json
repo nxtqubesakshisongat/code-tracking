@@ -2,7 +2,7 @@
   "date": "2025-12-01",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 2251,
+      "totalLinesAdded": 2367,
       "totalLinesRemoved": 20,
       "totalActiveTime": 32,
       "files": {
@@ -366,6 +366,22 @@
             },
             "duration": 1,
             "language": "js"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/bin/www": [
+          {
+            "timestamp": "2025-12-01T12:21:50.208Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/bin/www",
+            "fileType": "unknown",
+            "linesAdded": 116,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
           }
         ]
       },

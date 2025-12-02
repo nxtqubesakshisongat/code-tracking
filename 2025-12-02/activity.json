@@ -2,7 +2,7 @@
   "date": "2025-12-02",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 794,
+      "totalLinesAdded": 869,
       "totalLinesRemoved": 2,
       "totalActiveTime": 4,
       "files": {
@@ -72,6 +72,22 @@
             "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/models/mission/mission.model.js",
             "fileType": ".js",
             "linesAdded": 55,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/utils/geocoding.js": [
+          {
+            "timestamp": "2025-12-02T09:04:30.317Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/utils/geocoding.js",
+            "fileType": ".js",
+            "linesAdded": 75,
             "linesRemoved": 0,
             "projectName": "nxtqube_webapp",
             "content": {

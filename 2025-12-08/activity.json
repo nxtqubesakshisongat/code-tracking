@@ -2,7 +2,7 @@
   "date": "2025-12-08",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 831,
+      "totalLinesAdded": 1954,
       "totalLinesRemoved": 110,
       "totalActiveTime": 11,
       "files": {
@@ -192,6 +192,22 @@
             },
             "duration": 2,
             "language": "jsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/utils/gridUtils/gridMissionUtils.js": [
+          {
+            "timestamp": "2025-12-08T07:33:36.693Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/utils/gridUtils/gridMissionUtils.js",
+            "fileType": ".js",
+            "linesAdded": 1123,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
           }
         ]
       },

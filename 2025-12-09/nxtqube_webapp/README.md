@@ -5,13 +5,15 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 8180                                          |
-| **Lines Removed** (➖) | 5497                                        |
-| **Net Change** (↕)    | 2683                |
+| **Lines Removed** (➖) | 8648                                        |
+| **Net Change** (↕)    | -468                |
 | **Active Time** (⌚)   | 32 minutes |
 
 
 ## Modified Files
-- **drawGrid.js** (+8180, -5497)
+- **drawGrid.js** (+8180, -8349)
+- **Map.jsx** (+0, -164)
+- **useMissionDisplay.js** (+0, -135)
 
 ## Visualizations
 
@@ -20,7 +22,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 13677
+".js" : 16664
+".jsx" : 164
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -32,8 +35,8 @@ title Coding activity by hour (count of changes)
 "12h" : 7
 "13h" : 4
 "14h" : 4
-"15h" : 2
+"15h" : 5
 ```
 
 
-> **Last Updated:** 09/12/2025, 15:24:41
+> **Last Updated:** 09/12/2025, 15:45:06

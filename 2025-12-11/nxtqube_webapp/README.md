@@ -4,19 +4,19 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4798                                          |
-| **Lines Removed** (➖) | 112                                        |
-| **Net Change** (↕)    | 4686                |
-| **Active Time** (⌚)   | 18 minutes |
+| **Lines Added** (➕)   | 4851                                          |
+| **Lines Removed** (➖) | 289                                        |
+| **Net Change** (↕)    | 4562                |
+| **Active Time** (⌚)   | 20 minutes |
 
 
 ## Modified Files
 - **createGridMission.jsx** (+2364, -0)
-- **useCesiumViewer.js** (+179, -60)
+- **useCesiumViewer.js** (+208, -60)
 - **constants.js** (+74, -7)
-- **use.cesium.map.jsx** (+230, -13)
-- **cesium.provider.jsx** (+388, -11)
-- **Map.jsx** (+1563, -21)
+- **use.cesium.map.jsx** (+243, -26)
+- **cesium.provider.jsx** (+399, -22)
+- **Map.jsx** (+1563, -174)
 
 ## Visualizations
 
@@ -25,8 +25,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".jsx" : 4590
-".js" : 320
+".jsx" : 4791
+".js" : 349
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -35,8 +35,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "11h" : 20
-"12h" : 1
+"12h" : 7
 ```
 
 
-> **Last Updated:** 11/12/2025, 12:00:19
+> **Last Updated:** 11/12/2025, 12:18:18

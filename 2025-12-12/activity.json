@@ -2,9 +2,9 @@
   "date": "2025-12-12",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 4191,
-      "totalLinesRemoved": 98,
-      "totalActiveTime": 30,
+      "totalLinesAdded": 4237,
+      "totalLinesRemoved": 118,
+      "totalActiveTime": 38,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/components/geofence/useFenceManagement.js": [
           {
@@ -390,6 +390,48 @@
             },
             "duration": 1,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-12-12T13:52:18.099Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/controllers/mission/launch.mission.controller.js",
+            "fileType": ".js",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-12-12T13:54:35.490Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/controllers/mission/launch.mission.controller.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 20,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-12-12T13:55:14.292Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/controllers/mission/launch.mission.controller.js",
+            "fileType": ".js",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ],
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/pages/Analytics.jsx": [
@@ -426,6 +468,34 @@
             "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/pages/Analytics.jsx",
             "fileType": ".jsx",
             "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-12-12T13:53:30.509Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/pages/Analytics.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-12-12T13:53:39.635Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/pages/Analytics.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 5,
             "linesRemoved": 0,
             "projectName": "nxtqube_webapp",
             "content": {

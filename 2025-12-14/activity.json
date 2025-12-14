@@ -1,0 +1,75 @@
+{
+  "date": "2025-12-14",
+  "projects": {
+    "nxtqube_webapp": {
+      "totalLinesAdded": 28,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 4,
+      "files": {
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/pages/Analytics.jsx": [
+          {
+            "timestamp": "2025-12-12T13:56:21.276Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/pages/Analytics.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-12-12T13:56:33.780Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/pages/Analytics.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-12-12T13:57:05.357Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/pages/Analytics.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "jsx": 4
+      },
+      "changeFrequency": {
+        "19": 4
+      },
+      "topFiles": [
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/pages/Analytics.jsx"
+      ],
+      "averageChangeSize": 9.333333333333334
+    }
+  },
+  "totalActiveTime": 4,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    19
+  ],
+  "mostUsedLanguages": [
+    "jsx"
+  ]
+}

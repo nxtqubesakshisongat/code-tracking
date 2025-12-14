@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2827                                          |
-| **Lines Removed** (➖) | 264                                        |
+| **Lines Added** (➕)   | 2842                                          |
+| **Lines Removed** (➖) | 279                                        |
 | **Net Change** (↕)    | 2563                |
-| **Active Time** (⌚)   | 454 minutes |
+| **Active Time** (⌚)   | 460 minutes |
 
 
 ## Modified Files
@@ -22,7 +22,7 @@
 - **InMission.jsx** (+67, -1)
 - **launch.mission.route.js** (+11, -0)
 - **DroneFenceFormat.js** (+45, -0)
-- **ExistingMission.jsx** (+521, -0)
+- **ExistingMission.jsx** (+536, -15)
 
 ## Visualizations
 
@@ -31,7 +31,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".jsx" : 1689
+".jsx" : 1719
 ".js" : 554
 ".log" : 848
 ```
@@ -47,9 +47,9 @@ title Coding activity by hour (count of changes)
 "14h" : 368
 "15h" : 9
 "17h" : 1
-"18h" : 3
+"18h" : 5
 "19h" : 3
 ```
 
 
-> **Last Updated:** 14/12/2025, 18:47:57
+> **Last Updated:** 14/12/2025, 18:52:57

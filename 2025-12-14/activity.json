@@ -6075,6 +6075,81 @@
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/pages/Analytics.jsx"
       ],
       "averageChangeSize": 9.333333333333334
+    },
+    "accounting-master": {
+      "totalLinesAdded": 12,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 3,
+      "files": {
+        "/Users/sakshi/Downloads/accounting-master/server/.env": [
+          {
+            "timestamp": "2025-12-14T13:36:18.035Z",
+            "fileName": "/Users/sakshi/Downloads/accounting-master/server/.env",
+            "fileType": "unknown",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "accounting-master",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-12-14T13:36:20.060Z",
+            "fileName": "/Users/sakshi/Downloads/accounting-master/server/.env",
+            "fileType": "unknown",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "accounting-master",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-12-14T13:36:49.180Z",
+            "fileName": "/Users/sakshi/Downloads/accounting-master/server/.env",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "accounting-master",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-12-14T13:36:50.638Z",
+            "fileName": "/Users/sakshi/Downloads/accounting-master/server/.env",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "accounting-master",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          }
+        ]
+      },
+      "languageStats": {
+        "unknown": 3
+      },
+      "changeFrequency": {
+        "19": 3
+      },
+      "topFiles": [
+        "/Users/sakshi/Downloads/accounting-master/server/.env"
+      ],
+      "averageChangeSize": 3.25
     }
   },
   "totalActiveTime": 4,

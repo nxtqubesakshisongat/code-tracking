@@ -2,9 +2,9 @@
   "date": "2025-12-24",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 4340,
+      "totalLinesAdded": 4444,
       "totalLinesRemoved": 643,
-      "totalActiveTime": 133,
+      "totalActiveTime": 136,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/Map.jsx": [
           {
@@ -1637,6 +1637,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-12-24T12:35:57.926Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/components/mission/useMissionDisplay.js",
+            "fileType": ".js",
+            "linesAdded": 94,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-12-24T12:37:59.242Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/components/mission/useMissionDisplay.js",
+            "fileType": ".js",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "js"
           }
         ]

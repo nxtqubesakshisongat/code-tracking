@@ -1,0 +1,117 @@
+{
+  "date": "2025-12-25",
+  "projects": {
+    "nxtqube_webapp": {
+      "totalLinesAdded": 49,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 5,
+      "files": {
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/.env.development": [
+          {
+            "timestamp": "2025-12-25T09:57:30.590Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/.env.development",
+            "fileType": ".development",
+            "linesAdded": 42,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "development"
+          },
+          {
+            "timestamp": "2025-12-25T09:57:32.653Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/.env.development",
+            "fileType": ".development",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "development"
+          },
+          {
+            "timestamp": "2025-12-25T09:57:37.856Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/.env.development",
+            "fileType": ".development",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "development"
+          },
+          {
+            "timestamp": "2025-12-25T09:57:52.124Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/.env.development",
+            "fileType": ".development",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "development"
+          },
+          {
+            "timestamp": "2025-12-25T09:58:07.701Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/.env.development",
+            "fileType": ".development",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "development"
+          },
+          {
+            "timestamp": "2025-12-25T09:58:22.443Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/.env.development",
+            "fileType": ".development",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "development"
+          }
+        ]
+      },
+      "languageStats": {
+        "development": 5
+      },
+      "changeFrequency": {
+        "15": 5
+      },
+      "topFiles": [
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/.env.development"
+      ],
+      "averageChangeSize": 8.333333333333334
+    }
+  },
+  "totalActiveTime": 5,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    15
+  ],
+  "mostUsedLanguages": [
+    "development"
+  ]
+}

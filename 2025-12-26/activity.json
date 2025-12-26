@@ -2,9 +2,9 @@
   "date": "2025-12-26",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 2211,
-      "totalLinesRemoved": 73,
-      "totalActiveTime": 34,
+      "totalLinesAdded": 2213,
+      "totalLinesRemoved": 74,
+      "totalActiveTime": 42,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/controllers/droneCommand.controller.js": [
           {
@@ -347,6 +347,34 @@
               "removed": []
             },
             "duration": 3,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-12-26T12:07:56.432Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/create3DMission.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-12-26T12:11:18.189Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/create3DMission.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "jsx"
           }
         ],

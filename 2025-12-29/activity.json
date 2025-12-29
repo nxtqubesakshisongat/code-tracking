@@ -2,9 +2,9 @@
   "date": "2025-12-29",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 1926,
-      "totalLinesRemoved": 432,
-      "totalActiveTime": 53,
+      "totalLinesAdded": 2585,
+      "totalLinesRemoved": 1104,
+      "totalActiveTime": 56,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/components/mission/draw3D.js": [
           {
@@ -546,6 +546,62 @@
             "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/components/mission/edit3D.js",
             "fileType": ".js",
             "linesAdded": 347,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-12-29T08:35:04.384Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/components/mission/edit3D.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 347,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-12-29T08:35:05.822Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/components/mission/edit3D.js",
+            "fileType": ".js",
+            "linesAdded": 325,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-12-29T08:36:04.766Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/components/mission/edit3D.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 325,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-12-29T08:36:05.833Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/components/mission/edit3D.js",
+            "fileType": ".js",
+            "linesAdded": 334,
             "linesRemoved": 0,
             "projectName": "nxtqube_webapp",
             "content": {

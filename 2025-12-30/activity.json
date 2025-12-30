@@ -2,9 +2,9 @@
   "date": "2025-12-30",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 2023,
+      "totalLinesAdded": 2174,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 4,
+      "totalActiveTime": 9,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/create3DMission.jsx": [
           {
@@ -50,6 +50,22 @@
             },
             "duration": 0,
             "language": "jsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/utils/launch.manager.js": [
+          {
+            "timestamp": "2025-12-30T09:32:44.573Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/utils/launch.manager.js",
+            "fileType": ".js",
+            "linesAdded": 151,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "js"
           }
         ]
       },

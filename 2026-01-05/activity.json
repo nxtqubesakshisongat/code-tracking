@@ -2,7 +2,7 @@
   "date": "2026-01-05",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 4768,
+      "totalLinesAdded": 12963,
       "totalLinesRemoved": 128,
       "totalActiveTime": 15,
       "files": {
@@ -252,6 +252,22 @@
             },
             "duration": 1,
             "language": "development"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/package-lock.json": [
+          {
+            "timestamp": "2026-01-05T12:52:10.359Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/package-lock.json",
+            "fileType": ".json",
+            "linesAdded": 8195,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ]
       },

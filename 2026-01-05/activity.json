@@ -2,7 +2,7 @@
   "date": "2026-01-05",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 4724,
+      "totalLinesAdded": 4768,
       "totalLinesRemoved": 128,
       "totalActiveTime": 15,
       "files": {
@@ -207,6 +207,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "development"
+          },
+          {
+            "timestamp": "2026-01-05T12:14:19.500Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/.env.development",
+            "fileType": ".development",
+            "linesAdded": 44,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "development"
           }
         ],

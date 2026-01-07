@@ -2,7 +2,7 @@
   "date": "2026-01-07",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 2453,
+      "totalLinesAdded": 2728,
       "totalLinesRemoved": 0,
       "totalActiveTime": 2,
       "files": {
@@ -51,6 +51,22 @@
               "removed": []
             },
             "duration": 2,
+            "language": "jsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/DockingStation/DockCard.jsx": [
+          {
+            "timestamp": "2026-01-07T06:13:26.625Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/DockingStation/DockCard.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 275,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "jsx"
           }
         ]

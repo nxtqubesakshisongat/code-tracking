@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4876                                          |
-| **Lines Removed** (➖) | 261                                        |
+| **Lines Added** (➕)   | 4892                                          |
+| **Lines Removed** (➖) | 277                                        |
 | **Net Change** (↕)    | 4615                |
-| **Active Time** (⌚)   | 28 minutes |
+| **Active Time** (⌚)   | 35 minutes |
 
 
 ## Modified Files
 - **Map.jsx** (+2053, -261)
 - **vite.config.js** (+34, -0)
-- **MapControls.jsx** (+479, -0)
+- **MapControls.jsx** (+495, -16)
 - **useFenceManagement.js** (+2310, -0)
 
 ## Visualizations
@@ -23,7 +23,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".jsx" : 2793
+".jsx" : 2825
 ".js" : 2344
 ```
 
@@ -35,8 +35,8 @@ title Coding activity by hour (count of changes)
 "10h" : 4
 "11h" : 15
 "12h" : 6
-"13h" : 2
+"13h" : 8
 ```
 
 
-> **Last Updated:** 08/01/2026, 13:25:43
+> **Last Updated:** 08/01/2026, 13:30:43

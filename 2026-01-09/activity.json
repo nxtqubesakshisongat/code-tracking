@@ -2,9 +2,9 @@
   "date": "2026-01-09",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 2495,
-      "totalLinesRemoved": 234,
-      "totalActiveTime": 35,
+      "totalLinesAdded": 2620,
+      "totalLinesRemoved": 238,
+      "totalActiveTime": 41,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/vite.config.js": [
           {
@@ -318,6 +318,20 @@
             },
             "duration": 1,
             "language": "jsx"
+          },
+          {
+            "timestamp": "2026-01-09T12:01:48.732Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/pages/missions/MissionsLayout.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "jsx"
           }
         ],
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/pages/missions/ExistingMissionsPage.jsx": [
@@ -378,6 +392,36 @@
             },
             "duration": 1,
             "language": "jsx"
+          },
+          {
+            "timestamp": "2026-01-09T12:04:02.726Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/Map.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "jsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/routes.ts": [
+          {
+            "timestamp": "2026-01-09T12:02:55.254Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/routes.ts",
+            "fileType": ".ts",
+            "linesAdded": 117,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
           }
         ]
       },

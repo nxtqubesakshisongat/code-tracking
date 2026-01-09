@@ -4,17 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 697                                          |
-| **Lines Removed** (➖) | 227                                        |
-| **Net Change** (↕)    | 470                |
-| **Active Time** (⌚)   | 22 minutes |
+| **Lines Added** (➕)   | 2481                                          |
+| **Lines Removed** (➖) | 232                                        |
+| **Net Change** (↕)    | 2249                |
+| **Active Time** (⌚)   | 28 minutes |
 
 
 ## Modified Files
 - **vite.config.js** (+41, -4)
 - **router.tsx** (+202, -1)
-- **MissionsLayout.jsx** (+422, -222)
+- **MissionsLayout.jsx** (+422, -227)
 - **ExistingMissionsPage.jsx** (+32, -0)
+- **Map.jsx** (+1784, -0)
 
 ## Visualizations
 
@@ -25,7 +26,7 @@ pie showData
 title Lines changed by file type
 ".js" : 45
 ".tsx" : 203
-".jsx" : 676
+".jsx" : 2465
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -36,8 +37,8 @@ title Coding activity by hour (count of changes)
 "12h" : 7
 "13h" : 2
 "16h" : 6
-"17h" : 3
+"17h" : 7
 ```
 
 
-> **Last Updated:** 09/01/2026, 17:21:10
+> **Last Updated:** 09/01/2026, 17:26:10

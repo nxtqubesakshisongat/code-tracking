@@ -3,8 +3,8 @@
   "projects": {
     "javacript": {
       "totalLinesAdded": 23,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 6,
+      "totalLinesRemoved": 4,
+      "totalActiveTime": 10,
       "files": {
         "/Users/sakshi/Desktop/sakshi/javacript/Notes/test.js": [
           {
@@ -83,6 +83,48 @@
             "fileType": ".js",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "javacript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-01-10T08:40:05.650Z",
+            "fileName": "/Users/sakshi/Desktop/sakshi/javacript/Notes/test.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "javacript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-01-10T08:42:03.997Z",
+            "fileName": "/Users/sakshi/Desktop/sakshi/javacript/Notes/test.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "javacript",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-01-10T08:42:10.129Z",
+            "fileName": "/Users/sakshi/Desktop/sakshi/javacript/Notes/test.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "javacript",
             "content": {
               "added": [],

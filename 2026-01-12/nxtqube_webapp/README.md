@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3139                                          |
+| **Lines Added** (➕)   | 4067                                          |
 | **Lines Removed** (➖) | 41                                        |
-| **Net Change** (↕)    | 3098                |
-| **Active Time** (⌚)   | 39 minutes |
+| **Net Change** (↕)    | 4026                |
+| **Active Time** (⌚)   | 48 minutes |
 
 
 ## Modified Files
@@ -18,6 +18,8 @@
 - **MissionsLayout.jsx** (+234, -10)
 - **MapControls.jsx** (+480, -0)
 - **store.js** (+117, -0)
+- **Existing.jsx** (+252, -0)
+- **ExistingMission.jsx** (+676, -0)
 
 ## Visualizations
 
@@ -26,7 +28,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".jsx" : 3063
+".jsx" : 3991
 ".js" : 117
 ```
 
@@ -38,8 +40,8 @@ title Coding activity by hour (count of changes)
 "10h" : 1
 "12h" : 11
 "13h" : 5
-"14h" : 14
+"14h" : 17
 ```
 
 
-> **Last Updated:** 12/01/2026, 14:30:45
+> **Last Updated:** 12/01/2026, 14:35:45

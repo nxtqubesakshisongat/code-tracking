@@ -2,9 +2,9 @@
   "date": "2026-01-12",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 2482,
-      "totalLinesRemoved": 6,
-      "totalActiveTime": 13,
+      "totalLinesAdded": 2495,
+      "totalLinesRemoved": 17,
+      "totalActiveTime": 24,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/pages/missions/MissionsNav.jsx": [
           {
@@ -164,6 +164,48 @@
             },
             "duration": 2,
             "language": "jsx"
+          },
+          {
+            "timestamp": "2026-01-12T08:26:44.181Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/Map.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-01-12T08:30:09.756Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/Map.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-01-12T08:30:15.326Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/Map.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
           }
         ],
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/createPathMission.jsx": [
@@ -209,6 +251,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-01-12T08:26:32.983Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/pages/missions/MissionsLayout.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-01-12T08:28:31.210Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/pages/missions/MissionsLayout.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "jsx"
           }
         ]

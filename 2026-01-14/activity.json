@@ -2,7 +2,7 @@
   "date": "2026-01-14",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 3519,
+      "totalLinesAdded": 3687,
       "totalLinesRemoved": 78,
       "totalActiveTime": 13,
       "files": {
@@ -284,6 +284,22 @@
             },
             "duration": 1,
             "language": "jsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/axiosInterceptor.js": [
+          {
+            "timestamp": "2026-01-14T10:25:03.900Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/axiosInterceptor.js",
+            "fileType": ".js",
+            "linesAdded": 168,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
           }
         ]
       },

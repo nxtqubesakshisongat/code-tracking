@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2050                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 2050                |
-| **Active Time** (⌚)   | 5 minutes |
+| **Lines Added** (➕)   | 2791                                          |
+| **Lines Removed** (➖) | 8                                        |
+| **Net Change** (↕)    | 2783                |
+| **Active Time** (⌚)   | 9 minutes |
 
 
 ## Modified Files
@@ -16,6 +16,8 @@
 - **CreateFenceForm.jsx** (+1214, -0)
 - **mission.controller.js** (+608, -0)
 - **SaveMissionModal.jsx** (+124, -0)
+- **mission.api.js** (+106, -4)
+- **createMissionHome.jsx** (+635, -4)
 
 ## Visualizations
 
@@ -24,9 +26,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 647
+".js" : 757
 ".json" : 65
-".jsx" : 1338
+".jsx" : 1977
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -35,8 +37,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "11h" : 4
-"12h" : 2
+"12h" : 7
 ```
 
 
-> **Last Updated:** 14/01/2026, 12:40:11
+> **Last Updated:** 14/01/2026, 12:56:46

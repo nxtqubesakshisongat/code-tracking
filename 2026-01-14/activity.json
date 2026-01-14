@@ -2,9 +2,9 @@
   "date": "2026-01-14",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 3687,
-      "totalLinesRemoved": 78,
-      "totalActiveTime": 13,
+      "totalLinesAdded": 4164,
+      "totalLinesRemoved": 86,
+      "totalActiveTime": 15,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/vite.config.js": [
           {
@@ -210,6 +210,20 @@
             },
             "duration": 0,
             "language": "jsx"
+          },
+          {
+            "timestamp": "2026-01-14T10:37:06.031Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/SaveMissionModal.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
           }
         ],
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/redux/features/missions/mission.api.js": [
@@ -299,6 +313,36 @@
               "removed": []
             },
             "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-01-14T10:37:00.043Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/axiosInterceptor.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/utils/missionUtils.js": [
+          {
+            "timestamp": "2026-01-14T10:37:09.048Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/utils/missionUtils.js",
+            "fileType": ".js",
+            "linesAdded": 477,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "js"
           }
         ]

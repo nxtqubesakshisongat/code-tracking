@@ -2,9 +2,9 @@
   "date": "2026-01-19",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 757,
+      "totalLinesAdded": 759,
       "totalLinesRemoved": 100,
-      "totalActiveTime": 34,
+      "totalActiveTime": 36,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/routes/geofence/fenceData.route.js": [
           {
@@ -207,6 +207,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-01-19T06:59:32.014Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/createPathMission.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "jsx"
           }
         ],

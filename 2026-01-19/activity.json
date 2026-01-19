@@ -2,9 +2,9 @@
   "date": "2026-01-19",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 610,
-      "totalLinesRemoved": 55,
-      "totalActiveTime": 7,
+      "totalLinesAdded": 620,
+      "totalLinesRemoved": 96,
+      "totalActiveTime": 11,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/routes/geofence/fenceData.route.js": [
           {
@@ -94,6 +94,34 @@
             },
             "duration": 0,
             "language": "jsx"
+          },
+          {
+            "timestamp": "2026-01-19T06:41:20.774Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/pages/missions/MissionPages.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-01-19T06:43:25.224Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/pages/missions/MissionPages.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 22,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "jsx"
           }
         ],
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/createPathMission.jsx": [
@@ -103,6 +131,20 @@
             "fileType": ".jsx",
             "linesAdded": 134,
             "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-01-19T06:43:30.724Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/createPathMission.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 19,
             "projectName": "nxtqube_webapp",
             "content": {
               "added": [],

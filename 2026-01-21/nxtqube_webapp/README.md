@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 22813                                          |
+| **Lines Added** (➕)   | 22919                                          |
 | **Lines Removed** (➖) | 329                                        |
-| **Net Change** (↕)    | 22484                |
-| **Active Time** (⌚)   | 35 minutes |
+| **Net Change** (↕)    | 22590                |
+| **Active Time** (⌚)   | 39 minutes |
 
 
 ## Modified Files
@@ -24,6 +24,8 @@
 - **settings.json** (+73, -0)
 - **package-lock.json** (+8871, -0)
 - **useVideoStreamControls.ts** (+64, -0)
+- **VideoStreamOverlay.tsx** (+56, -0)
+- **VideoStreamExample.tsx** (+50, -0)
 
 ## Visualizations
 
@@ -35,7 +37,7 @@ title Lines changed by file type
 ".jsx" : 4583
 ".js" : 1227
 ".ts" : 3322
-".tsx" : 5000
+".tsx" : 5106
 ".json" : 9010
 ```
 
@@ -49,8 +51,8 @@ title Coding activity by hour (count of changes)
 "13h" : 1
 "15h" : 2
 "17h" : 2
-"18h" : 5
+"18h" : 8
 ```
 
 
-> **Last Updated:** 21/01/2026, 18:23:38
+> **Last Updated:** 21/01/2026, 18:28:38

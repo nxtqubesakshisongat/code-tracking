@@ -2,7 +2,7 @@
   "date": "2026-01-21",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 22749,
+      "totalLinesAdded": 22813,
       "totalLinesRemoved": 329,
       "totalActiveTime": 35,
       "files": {
@@ -490,6 +490,22 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/hooks/useVideoStreamControls.ts": [
+          {
+            "timestamp": "2026-01-21T12:49:05.312Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/hooks/useVideoStreamControls.ts",
+            "fileType": ".ts",
+            "linesAdded": 64,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ]
       },

@@ -2,9 +2,9 @@
   "date": "2026-01-21",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 13805,
-      "totalLinesRemoved": 328,
-      "totalActiveTime": 30,
+      "totalLinesAdded": 22749,
+      "totalLinesRemoved": 329,
+      "totalActiveTime": 35,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/createGridMission.jsx": [
           {
@@ -443,6 +443,52 @@
               "removed": []
             },
             "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-01-21T12:40:14.633Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/sakshi/Library/Application Support/Cursor/User/settings.json": [
+          {
+            "timestamp": "2026-01-21T12:39:23.444Z",
+            "fileName": "/Users/sakshi/Library/Application Support/Cursor/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 73,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "json"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/package-lock.json": [
+          {
+            "timestamp": "2026-01-21T12:40:10.072Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/package-lock.json",
+            "fileType": ".json",
+            "linesAdded": 8871,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "json"
           }
         ]

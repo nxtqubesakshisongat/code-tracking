@@ -2,7 +2,7 @@
   "date": "2026-01-22",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 81,
+      "totalLinesAdded": 128,
       "totalLinesRemoved": 14,
       "totalActiveTime": 7,
       "files": {
@@ -96,6 +96,22 @@
             "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/MissionControl/components/VideoStreamExample.tsx",
             "fileType": ".tsx",
             "linesAdded": 54,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/MissionControl/components/VideoStreamContainer.tsx": [
+          {
+            "timestamp": "2026-01-22T08:31:34.329Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/MissionControl/components/VideoStreamContainer.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 47,
             "linesRemoved": 0,
             "projectName": "nxtqube_webapp",
             "content": {

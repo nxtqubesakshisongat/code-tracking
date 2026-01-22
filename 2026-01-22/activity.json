@@ -2,9 +2,9 @@
   "date": "2026-01-22",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 2044,
+      "totalLinesAdded": 2413,
       "totalLinesRemoved": 18,
-      "totalActiveTime": 15,
+      "totalActiveTime": 21,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/MissionControl/components/VideoStreamExample.tsx": [
           {
@@ -162,6 +162,20 @@
             },
             "duration": 2,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-01-22T12:50:45.761Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/MissionControl/components/VideoStreamContainer.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 50,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
           }
         ],
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Map/Map.tsx": [
@@ -222,6 +236,54 @@
             },
             "duration": 0,
             "language": "json"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/hooks/useVideoStreamControls.ts": [
+          {
+            "timestamp": "2026-01-22T12:49:11.425Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/hooks/useVideoStreamControls.ts",
+            "fileType": ".ts",
+            "linesAdded": 87,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/MissionControl/components/VideoStreamOverlay.tsx": [
+          {
+            "timestamp": "2026-01-22T12:50:45.766Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/MissionControl/components/VideoStreamOverlay.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 56,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/MissionControl/components/VideoControlPanel.tsx": [
+          {
+            "timestamp": "2026-01-22T12:50:45.766Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/MissionControl/components/VideoControlPanel.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 176,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
           }
         ]
       },

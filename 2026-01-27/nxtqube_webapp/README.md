@@ -4,16 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 191                                          |
+| **Lines Added** (➕)   | 348                                          |
 | **Lines Removed** (➖) | 1                                        |
-| **Net Change** (↕)    | 190                |
-| **Active Time** (⌚)   | 5 minutes |
+| **Net Change** (↕)    | 347                |
+| **Active Time** (⌚)   | 7 minutes |
 
 
 ## Modified Files
 - **site.actions.ts** (+75, -1)
 - **site.reducer.ts** (+30, -0)
 - **site.api.ts** (+86, -0)
+- **dock.reducer.ts** (+47, -0)
+- **dock.actions.ts** (+110, -0)
 
 ## Visualizations
 
@@ -22,7 +24,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 192
+".ts" : 349
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -31,7 +33,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "14h" : 8
+"15h" : 3
 ```
 
 
-> **Last Updated:** 27/01/2026, 14:34:06
+> **Last Updated:** 27/01/2026, 15:53:30

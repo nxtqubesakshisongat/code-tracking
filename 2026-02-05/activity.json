@@ -2,9 +2,9 @@
   "date": "2026-02-05",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 764,
-      "totalLinesRemoved": 8,
-      "totalActiveTime": 7,
+      "totalLinesAdded": 820,
+      "totalLinesRemoved": 94,
+      "totalActiveTime": 13,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Geofence/geogence.list.tsx": [
           {
@@ -135,6 +135,50 @@
               "removed": []
             },
             "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-05T07:37:33.417Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/controllers/geofence/geofence.controller.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 21,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-05T07:38:48.970Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/controllers/geofence/geofence.controller.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 65,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/routes/geofence/geofence.routes.ts": [
+          {
+            "timestamp": "2026-02-05T07:38:11.918Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/routes/geofence/geofence.routes.ts",
+            "fileType": ".ts",
+            "linesAdded": 56,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ]

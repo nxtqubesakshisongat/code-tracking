@@ -2,7 +2,7 @@
   "date": "2026-02-05",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 954,
+      "totalLinesAdded": 1062,
       "totalLinesRemoved": 94,
       "totalActiveTime": 13,
       "files": {
@@ -188,6 +188,22 @@
             "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/validators/geofence.validator.ts",
             "fileType": ".ts",
             "linesAdded": 134,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/redux/features/geofence/geofence.api.ts": [
+          {
+            "timestamp": "2026-02-05T08:02:30.447Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/redux/features/geofence/geofence.api.ts",
+            "fileType": ".ts",
+            "linesAdded": 108,
             "linesRemoved": 0,
             "projectName": "nxtqube_webapp",
             "content": {

@@ -1,0 +1,47 @@
+{
+  "date": "2026-02-06",
+  "projects": {
+    "nxtqube_webapp": {
+      "totalLinesAdded": 340,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/controllers/geofence/geofence.controller.ts": [
+          {
+            "timestamp": "2026-02-06T10:40:39.925Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/controllers/geofence/geofence.controller.ts",
+            "fileType": ".ts",
+            "linesAdded": 340,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 0
+      },
+      "changeFrequency": {
+        "16": 0
+      },
+      "topFiles": [
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/controllers/geofence/geofence.controller.ts"
+      ],
+      "averageChangeSize": 340
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    16
+  ],
+  "mostUsedLanguages": [
+    "ts"
+  ]
+}

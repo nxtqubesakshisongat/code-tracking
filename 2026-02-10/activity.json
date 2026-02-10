@@ -2,9 +2,9 @@
   "date": "2026-02-10",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 1338,
+      "totalLinesAdded": 1357,
       "totalLinesRemoved": 905,
-      "totalActiveTime": 28,
+      "totalActiveTime": 30,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Geofence/geogence.create.tsx": [
           {
@@ -338,6 +338,36 @@
             "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Geofence/geofence.card.tsx",
             "fileType": ".tsx",
             "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-02-10T08:03:05.107Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Geofence/geofence.card.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Geofence/geogence.list.tsx": [
+          {
+            "timestamp": "2026-02-10T08:01:27.181Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Geofence/geogence.list.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 7,
             "linesRemoved": 0,
             "projectName": "nxtqube_webapp",
             "content": {

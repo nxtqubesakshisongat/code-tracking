@@ -277,9 +277,9 @@
       "averageChangeSize": 708
     },
     "GraphQL": {
-      "totalLinesAdded": 1623,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 13,
+      "totalLinesAdded": 1631,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 23,
       "files": {
         "/Users/sakshi/Desktop/sakshi/GraphQL/server/package.json": [
           {
@@ -480,6 +480,132 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-02-13T13:12:49.512Z",
+            "fileName": "/Users/sakshi/Desktop/sakshi/GraphQL/server/index.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "GraphQL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-02-13T13:12:53.448Z",
+            "fileName": "/Users/sakshi/Desktop/sakshi/GraphQL/server/index.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "GraphQL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-02-13T13:12:59.126Z",
+            "fileName": "/Users/sakshi/Desktop/sakshi/GraphQL/server/index.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "GraphQL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-02-13T13:13:05.920Z",
+            "fileName": "/Users/sakshi/Desktop/sakshi/GraphQL/server/index.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "GraphQL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-02-13T13:13:12.269Z",
+            "fileName": "/Users/sakshi/Desktop/sakshi/GraphQL/server/index.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "GraphQL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-02-13T13:13:14.455Z",
+            "fileName": "/Users/sakshi/Desktop/sakshi/GraphQL/server/index.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "GraphQL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-02-13T13:14:08.536Z",
+            "fileName": "/Users/sakshi/Desktop/sakshi/GraphQL/server/index.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "GraphQL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-02-13T13:14:52.179Z",
+            "fileName": "/Users/sakshi/Desktop/sakshi/GraphQL/server/index.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "GraphQL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-02-13T13:16:11.831Z",
+            "fileName": "/Users/sakshi/Desktop/sakshi/GraphQL/server/index.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "GraphQL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "js"
           }
         ]

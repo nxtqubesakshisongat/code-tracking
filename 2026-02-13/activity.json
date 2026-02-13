@@ -275,6 +275,88 @@
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/ExistingMission/ExistingMission.tsx"
       ],
       "averageChangeSize": 708
+    },
+    "GraphQL": {
+      "totalLinesAdded": 1611,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "/Users/sakshi/Desktop/sakshi/GraphQL/server/package.json": [
+          {
+            "timestamp": "2026-02-13T13:05:31.887Z",
+            "fileName": "/Users/sakshi/Desktop/sakshi/GraphQL/server/package.json",
+            "fileType": ".json",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "GraphQL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "/Users/sakshi/Desktop/sakshi/GraphQL/server/package-lock.json": [
+          {
+            "timestamp": "2026-02-13T13:05:31.892Z",
+            "fileName": "/Users/sakshi/Desktop/sakshi/GraphQL/server/package-lock.json",
+            "fileType": ".json",
+            "linesAdded": 1588,
+            "linesRemoved": 0,
+            "projectName": "GraphQL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "/Users/sakshi/Desktop/sakshi/GraphQL/server/index.js": [
+          {
+            "timestamp": "2026-02-13T13:06:13.938Z",
+            "fileName": "/Users/sakshi/Desktop/sakshi/GraphQL/server/index.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "GraphQL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-02-13T13:06:57.509Z",
+            "fileName": "/Users/sakshi/Desktop/sakshi/GraphQL/server/index.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "GraphQL",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0,
+        "js": 2
+      },
+      "changeFrequency": {
+        "18": 2
+      },
+      "topFiles": [
+        "/Users/sakshi/Desktop/sakshi/GraphQL/server/index.js",
+        "/Users/sakshi/Desktop/sakshi/GraphQL/server/package.json",
+        "/Users/sakshi/Desktop/sakshi/GraphQL/server/package-lock.json"
+      ],
+      "averageChangeSize": 402.75
     }
   },
   "totalActiveTime": 0,

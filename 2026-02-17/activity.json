@@ -2,7 +2,7 @@
   "date": "2026-02-17",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 374,
+      "totalLinesAdded": 486,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -42,6 +42,22 @@
             "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/MissionControlNew.tsx",
             "fileType": ".tsx",
             "linesAdded": 333,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/WaypointActionNew.tsx": [
+          {
+            "timestamp": "2026-02-17T08:41:17.786Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/WaypointActionNew.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 112,
             "linesRemoved": 0,
             "projectName": "nxtqube_webapp",
             "content": {

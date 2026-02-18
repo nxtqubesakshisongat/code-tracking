@@ -2,7 +2,7 @@
   "date": "2026-02-18",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 46,
+      "totalLinesAdded": 407,
       "totalLinesRemoved": 0,
       "totalActiveTime": 5,
       "files": {
@@ -48,6 +48,22 @@
             },
             "duration": 3,
             "language": "tsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/validators/mission.validator.ts": [
+          {
+            "timestamp": "2026-02-18T04:26:02.428Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/validators/mission.validator.ts",
+            "fileType": ".ts",
+            "linesAdded": 361,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ]
       },

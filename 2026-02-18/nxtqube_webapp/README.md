@@ -4,21 +4,21 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4714                                          |
-| **Lines Removed** (➖) | 650                                        |
-| **Net Change** (↕)    | 4064                |
-| **Active Time** (⌚)   | 158 minutes |
+| **Lines Added** (➕)   | 4750                                          |
+| **Lines Removed** (➖) | 676                                        |
+| **Net Change** (↕)    | 4074                |
+| **Active Time** (⌚)   | 168 minutes |
 
 
 ## Modified Files
 - **createPathMission.tsx** (+421, -29)
 - **mission.validator.ts** (+723, -1)
 - **mission.model.ts** (+0, -1)
-- **MissionInfo.tsx** (+1551, -415)
+- **MissionInfo.tsx** (+1586, -438)
 - **DeleteMission.tsx** (+56, -0)
 - **WaypointActionNew.tsx** (+520, -56)
 - **missionUtils.ts** (+480, -0)
-- **MissionControlNew.tsx** (+634, -148)
+- **MissionControlNew.tsx** (+635, -151)
 - **waypointContext.tsx** (+214, -0)
 - **DockCardItem.tsx** (+115, -0)
 
@@ -29,7 +29,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 4159
+".tsx" : 4221
 ".ts" : 1205
 ```
 
@@ -45,8 +45,8 @@ title Coding activity by hour (count of changes)
 "13h" : 11
 "14h" : 24
 "15h" : 29
-"16h" : 20
+"16h" : 26
 ```
 
 
-> **Last Updated:** 18/02/2026, 16:36:10
+> **Last Updated:** 18/02/2026, 16:41:10

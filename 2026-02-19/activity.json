@@ -2,9 +2,9 @@
   "date": "2026-02-19",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 5316,
-      "totalLinesRemoved": 24,
-      "totalActiveTime": 59,
+      "totalLinesAdded": 5318,
+      "totalLinesRemoved": 49,
+      "totalActiveTime": 61,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/MissionInfo.tsx": [
           {
@@ -553,6 +553,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-02-19T12:12:03.600Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/ExistingMission/Existing.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 25,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-02-19T12:13:23.530Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/ExistingMission/Existing.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ],

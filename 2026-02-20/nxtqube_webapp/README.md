@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 4818                                          |
-| **Lines Removed** (➖) | 976                                        |
-| **Net Change** (↕)    | 3842                |
-| **Active Time** (⌚)   | 98 minutes |
+| **Lines Removed** (➖) | 1046                                        |
+| **Net Change** (↕)    | 3772                |
+| **Active Time** (⌚)   | 103 minutes |
 
 
 ## Modified Files
@@ -20,7 +20,7 @@
 - **mission.controller.ts** (+622, -430)
 - **mission.validator.ts** (+371, -0)
 - **MissionUpload.tsx** (+73, -2)
-- **LaunchControl.tsx** (+952, -258)
+- **LaunchControl.tsx** (+952, -328)
 - **DroneList.tsx** (+468, -0)
 - **cesium.context.tsx** (+190, -86)
 - **mission-sequence-builder.ts** (+429, -24)
@@ -32,7 +32,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 3399
+".tsx" : 3469
 ".ts" : 2395
 ```
 
@@ -46,8 +46,8 @@ title Coding activity by hour (count of changes)
 "12h" : 16
 "15h" : 3
 "16h" : 4
-"17h" : 33
+"17h" : 35
 ```
 
 
-> **Last Updated:** 20/02/2026, 17:55:53
+> **Last Updated:** 20/02/2026, 18:02:07

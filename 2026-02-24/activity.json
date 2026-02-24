@@ -2,7 +2,7 @@
   "date": "2026-02-24",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 1225,
+      "totalLinesAdded": 1856,
       "totalLinesRemoved": 29,
       "totalActiveTime": 1,
       "files": {
@@ -168,6 +168,22 @@
             },
             "duration": 0,
             "language": "ts"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/ExistingMission/LaunchControl.tsx": [
+          {
+            "timestamp": "2026-02-24T11:51:47.729Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/ExistingMission/LaunchControl.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 631,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ]
       },

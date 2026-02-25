@@ -63,7 +63,7 @@
       "averageChangeSize": 243
     },
     "argos_orchestrator": {
-      "totalLinesAdded": 73,
+      "totalLinesAdded": 96,
       "totalLinesRemoved": 0,
       "totalActiveTime": 2,
       "files": {
@@ -108,6 +108,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "yaml"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/argos_orchestrator/config/user/mqttgateway.yaml": [
+          {
+            "timestamp": "2026-02-25T09:24:29.106Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/argos_orchestrator/config/user/mqttgateway.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "argos_orchestrator",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "yaml"
           }
         ]

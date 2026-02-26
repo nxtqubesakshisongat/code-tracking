@@ -3,7 +3,7 @@
   "projects": {
     "nxtqube_webapp": {
       "totalLinesAdded": 6837,
-      "totalLinesRemoved": 116,
+      "totalLinesRemoved": 120,
       "totalActiveTime": 17,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/cesium/cesium.context.tsx": [
@@ -319,6 +319,20 @@
             "fileType": ".ts",
             "linesAdded": 592,
             "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-02-26T10:04:37.418Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/hooks/useGridMission.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 4,
             "projectName": "nxtqube_webapp",
             "content": {
               "added": [],

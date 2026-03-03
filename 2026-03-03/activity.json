@@ -2,9 +2,9 @@
   "date": "2026-03-03",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 1741,
-      "totalLinesRemoved": 3,
-      "totalActiveTime": 5,
+      "totalLinesAdded": 2120,
+      "totalLinesRemoved": 7,
+      "totalActiveTime": 7,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/createPathMission.tsx": [
           {
@@ -128,6 +128,50 @@
           {
             "timestamp": "2026-03-03T08:12:10.771Z",
             "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/ExistingMission/LaunchControl.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/ExistingMission/ManageMission.tsx": [
+          {
+            "timestamp": "2026-03-03T08:25:16.420Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/ExistingMission/ManageMission.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 379,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-03-03T08:25:17.577Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/ExistingMission/ManageMission.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-03-03T08:25:25.077Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/ExistingMission/ManageMission.tsx",
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 1,

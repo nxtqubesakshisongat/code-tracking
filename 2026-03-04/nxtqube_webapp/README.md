@@ -4,16 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 961                                          |
-| **Lines Removed** (➖) | 43                                        |
-| **Net Change** (↕)    | 918                |
-| **Active Time** (⌚)   | 45 minutes |
+| **Lines Added** (➕)   | 1478                                          |
+| **Lines Removed** (➖) | 84                                        |
+| **Net Change** (↕)    | 1394                |
+| **Active Time** (⌚)   | 55 minutes |
 
 
 ## Modified Files
 - **useGridMission.ts** (+787, -40)
 - **ConfirmModal.tsx** (+54, -2)
-- **MissionSlider.tsx** (+120, -1)
+- **MissionSlider.tsx** (+133, -1)
+- **missionUtils.ts** (+504, -41)
 
 ## Visualizations
 
@@ -22,8 +23,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 827
-".tsx" : 177
+".ts" : 1372
+".tsx" : 190
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -33,8 +34,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "12h" : 17
 "13h" : 20
-"15h" : 1
+"15h" : 9
 ```
 
 
-> **Last Updated:** 04/03/2026, 15:02:56
+> **Last Updated:** 04/03/2026, 15:07:56

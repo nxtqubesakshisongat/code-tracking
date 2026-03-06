@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2626                                          |
-| **Lines Removed** (➖) | 377                                        |
-| **Net Change** (↕)    | 2249                |
-| **Active Time** (⌚)   | 71 minutes |
+| **Lines Added** (➕)   | 2642                                          |
+| **Lines Removed** (➖) | 474                                        |
+| **Net Change** (↕)    | 2168                |
+| **Active Time** (⌚)   | 76 minutes |
 
 
 ## Modified Files
@@ -17,7 +17,7 @@
 - **ExistingMission.tsx** (+559, -17)
 - **hookUtils.ts** (+273, -212)
 - **index.ts** (+4, -0)
-- **missionUtils.ts** (+315, -119)
+- **missionUtils.ts** (+331, -216)
 - **mission.controller.ts** (+192, -2)
 - **geocoding.ts** (+44, -22)
 
@@ -29,7 +29,7 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 1798
-".ts" : 1205
+".ts" : 1318
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -38,7 +38,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "10h" : 55
+"11h" : 5
 ```
 
 
-> **Last Updated:** 06/03/2026, 10:48:10
+> **Last Updated:** 06/03/2026, 11:09:52

@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3903                                          |
-| **Lines Removed** (➖) | 643                                        |
-| **Net Change** (↕)    | 3260                |
-| **Active Time** (⌚)   | 165 minutes |
+| **Lines Added** (➕)   | 4304                                          |
+| **Lines Removed** (➖) | 708                                        |
+| **Net Change** (↕)    | 3596                |
+| **Active Time** (⌚)   | 180 minutes |
 
 
 ## Modified Files
@@ -22,6 +22,7 @@
 - **geocoding.ts** (+44, -22)
 - **Existing.tsx** (+531, -17)
 - **LaunchControl.tsx** (+632, -47)
+- **ManageMission.tsx** (+401, -65)
 
 ## Visualizations
 
@@ -30,7 +31,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 3185
+".tsx" : 3651
 ".ts" : 1361
 ```
 
@@ -45,8 +46,8 @@ title Coding activity by hour (count of changes)
 "13h" : 1
 "14h" : 2
 "15h" : 18
-"16h" : 26
+"16h" : 41
 ```
 
 
-> **Last Updated:** 06/03/2026, 16:29:42
+> **Last Updated:** 06/03/2026, 16:49:56

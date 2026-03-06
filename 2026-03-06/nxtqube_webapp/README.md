@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2390                                          |
-| **Lines Removed** (➖) | 287                                        |
-| **Net Change** (↕)    | 2103                |
-| **Active Time** (⌚)   | 50 minutes |
+| **Lines Added** (➕)   | 2626                                          |
+| **Lines Removed** (➖) | 341                                        |
+| **Net Change** (↕)    | 2285                |
+| **Active Time** (⌚)   | 67 minutes |
 
 
 ## Modified Files
@@ -17,7 +17,9 @@
 - **ExistingMission.tsx** (+559, -17)
 - **hookUtils.ts** (+273, -212)
 - **index.ts** (+4, -0)
-- **missionUtils.ts** (+315, -53)
+- **missionUtils.ts** (+315, -83)
+- **mission.controller.ts** (+192, -2)
+- **geocoding.ts** (+44, -22)
 
 ## Visualizations
 
@@ -27,7 +29,7 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 1798
-".ts" : 879
+".ts" : 1169
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -35,8 +37,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"10h" : 38
+"10h" : 52
 ```
 
 
-> **Last Updated:** 06/03/2026, 10:38:10
+> **Last Updated:** 06/03/2026, 10:43:10

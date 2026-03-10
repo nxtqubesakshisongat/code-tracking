@@ -883,6 +883,39 @@
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/ExistingMission/LaunchControl.tsx"
       ],
       "averageChangeSize": 262
+    },
+    "argos_orchestrator": {
+      "totalLinesAdded": 23,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/sakshi/Desktop/nxtqube/argos_orchestrator/config/user/mqttgateway.yaml": [
+          {
+            "timestamp": "2026-03-10T07:11:33.958Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/argos_orchestrator/config/user/mqttgateway.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "argos_orchestrator",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "yaml"
+          }
+        ]
+      },
+      "languageStats": {
+        "yaml": 0
+      },
+      "changeFrequency": {
+        "12": 0
+      },
+      "topFiles": [
+        "/Users/sakshi/Desktop/nxtqube/argos_orchestrator/config/user/mqttgateway.yaml"
+      ],
+      "averageChangeSize": 23
     }
   },
   "totalActiveTime": 1,

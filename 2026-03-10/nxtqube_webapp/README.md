@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 6971                                          |
-| **Lines Removed** (➖) | 305                                        |
-| **Net Change** (↕)    | 6666                |
-| **Active Time** (⌚)   | 122 minutes |
+| **Lines Added** (➕)   | 8464                                          |
+| **Lines Removed** (➖) | 313                                        |
+| **Net Change** (↕)    | 8151                |
+| **Active Time** (⌚)   | 138 minutes |
 
 
 ## Modified Files
@@ -23,7 +23,16 @@
 - **MissionsNav.tsx** (+169, -1)
 - **MissionsLayout.tsx** (+83, -0)
 - **CreateMissionSelector.tsx** (+181, -1)
-- **geogence.create.tsx** (+1873, -0)
+- **geogence.create.tsx** (+1873, -8)
+- **Existing.tsx** (+524, -0)
+- **MapView.tsx** (+171, -0)
+- **cesium.provider.tsx** (+485, -0)
+- **interaction.ts** (+41, -0)
+- **click.ts** (+13, -0)
+- **drag.ts** (+25, -0)
+- **missionDataSlice.ts** (+92, -0)
+- **missionFormSlice.ts** (+90, -0)
+- **missionStateSlice.ts** (+52, -0)
 
 ## Visualizations
 
@@ -32,8 +41,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 6739
-".ts" : 537
+".tsx" : 7927
+".ts" : 850
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -45,8 +54,8 @@ title Coding activity by hour (count of changes)
 "11h" : 23
 "14h" : 11
 "15h" : 34
-"16h" : 1
+"16h" : 11
 ```
 
 
-> **Last Updated:** 10/03/2026, 16:03:31
+> **Last Updated:** 10/03/2026, 16:43:31

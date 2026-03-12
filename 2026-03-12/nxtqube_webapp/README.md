@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1338                                          |
+| **Lines Added** (➕)   | 1394                                          |
 | **Lines Removed** (➖) | 228                                        |
-| **Net Change** (↕)    | 1110                |
-| **Active Time** (⌚)   | 39 minutes |
+| **Net Change** (↕)    | 1166                |
+| **Active Time** (⌚)   | 44 minutes |
 
 
 ## Modified Files
@@ -16,7 +16,8 @@
 - **useMissions.ts** (+61, -0)
 - **mission.controller.ts** (+190, -3)
 - **mission.action.ts** (+169, -0)
-- **MissionsNav.tsx** (+191, -22)
+- **MissionsNav.tsx** (+197, -22)
+- **MissionSelector.tsx** (+50, -0)
 
 ## Visualizations
 
@@ -26,7 +27,7 @@
 pie showData
 title Lines changed by file type
 ".ts" : 1353
-".tsx" : 213
+".tsx" : 269
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -37,8 +38,8 @@ title Coding activity by hour (count of changes)
 "13h" : 2
 "14h" : 10
 "15h" : 3
-"16h" : 15
+"16h" : 18
 ```
 
 
-> **Last Updated:** 12/03/2026, 16:37:01
+> **Last Updated:** 12/03/2026, 16:42:01

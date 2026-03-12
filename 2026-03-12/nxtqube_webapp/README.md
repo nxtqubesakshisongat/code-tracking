@@ -4,16 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 788                                          |
-| **Lines Removed** (➖) | 170                                        |
-| **Net Change** (↕)    | 618                |
-| **Active Time** (⌚)   | 14 minutes |
+| **Lines Added** (➕)   | 978                                          |
+| **Lines Removed** (➖) | 173                                        |
+| **Net Change** (↕)    | 805                |
+| **Active Time** (⌚)   | 15 minutes |
 
 
 ## Modified Files
 - **mission.route.ts** (+47, -10)
 - **mission.validator.ts** (+680, -160)
 - **useMissions.ts** (+61, -0)
+- **mission.controller.ts** (+190, -3)
 
 ## Visualizations
 
@@ -22,7 +23,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 958
+".ts" : 1151
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -31,8 +32,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "13h" : 2
-"14h" : 8
+"14h" : 10
 ```
 
 
-> **Last Updated:** 12/03/2026, 14:25:19
+> **Last Updated:** 12/03/2026, 14:35:19

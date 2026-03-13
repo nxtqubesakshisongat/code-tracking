@@ -3,7 +3,7 @@
   "projects": {
     "nxtqube_webapp": {
       "totalLinesAdded": 3598,
-      "totalLinesRemoved": 97,
+      "totalLinesRemoved": 366,
       "totalActiveTime": 31,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/hooks/useGridMission.ts": [
@@ -323,6 +323,20 @@
             "fileType": ".tsx",
             "linesAdded": 1877,
             "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-03-13T09:45:04.293Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Geofence/geogence.create.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 269,
             "projectName": "nxtqube_webapp",
             "content": {
               "added": [],

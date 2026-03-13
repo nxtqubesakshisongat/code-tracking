@@ -2,7 +2,7 @@
   "date": "2026-03-13",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 1699,
+      "totalLinesAdded": 1700,
       "totalLinesRemoved": 84,
       "totalActiveTime": 10,
       "files": {
@@ -131,6 +131,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-03-13T07:56:01.776Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/hooks/useGridMission.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ]

@@ -4,16 +4,19 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2855                                          |
-| **Lines Removed** (➖) | 9                                        |
-| **Net Change** (↕)    | 2846                |
-| **Active Time** (⌚)   | 23 minutes |
+| **Lines Added** (➕)   | 3794                                          |
+| **Lines Removed** (➖) | 18                                        |
+| **Net Change** (↕)    | 3776                |
+| **Active Time** (⌚)   | 38 minutes |
 
 
 ## Modified Files
-- **geogence.create.tsx** (+1713, -5)
+- **geogence.create.tsx** (+1729, -5)
 - **createPathMission.tsx** (+857, -1)
 - **geofence.card.tsx** (+285, -3)
+- **geogence.list.tsx** (+264, -0)
+- **use.geofence.map.ts** (+168, -8)
+- **use.polygon.geofence.ts** (+491, -1)
 
 ## Visualizations
 
@@ -22,7 +25,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2864
+".tsx" : 3144
+".ts" : 668
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -30,8 +34,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"23h" : 18
+"23h" : 30
 ```
 
 
-> **Last Updated:** 14/03/2026, 23:53:36
+> **Last Updated:** 14/03/2026, 23:58:36

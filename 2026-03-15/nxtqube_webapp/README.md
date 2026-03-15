@@ -4,19 +4,26 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2874                                          |
-| **Lines Removed** (➖) | 2155                                        |
-| **Net Change** (↕)    | 719                |
-| **Active Time** (⌚)   | 130 minutes |
+| **Lines Added** (➕)   | 3709                                          |
+| **Lines Removed** (➖) | 2160                                        |
+| **Net Change** (↕)    | 1549                |
+| **Active Time** (⌚)   | 144 minutes |
 
 
 ## Modified Files
 - **geogence.create.tsx** (+116, -141)
 - **use.geofence.map.ts** (+17, -0)
 - **createPathMission.tsx** (+38, -38)
-- **createGridMission.tsx** (+2352, -1967)
-- **missionDataHandler.ts** (+160, -0)
+- **createGridMission.tsx** (+2352, -1972)
+- **missionDataHandler.ts** (+161, -0)
 - **gridMissionUtils.ts** (+191, -9)
+- **MissionActions.tsx** (+34, -0)
+- **MissionControls.tsx** (+466, -0)
+- **MissionHeader.tsx** (+76, -0)
+- **MissionStats.tsx** (+91, -0)
+- **eventHandlers.ts** (+121, -0)
+- **index.ts** (+7, -0)
+- **styles.ts** (+39, -0)
 
 ## Visualizations
 
@@ -25,8 +32,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 4652
-".ts" : 377
+".tsx" : 5324
+".ts" : 545
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -40,9 +47,9 @@ title Coding activity by hour (count of changes)
 "11h" : 7
 "12h" : 10
 "13h" : 7
-"14h" : 8
+"14h" : 23
 "23h" : 1
 ```
 
 
-> **Last Updated:** 15/03/2026, 14:40:27
+> **Last Updated:** 15/03/2026, 14:50:27

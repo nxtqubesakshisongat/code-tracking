@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 13106                                          |
-| **Lines Removed** (➖) | 2385                                        |
-| **Net Change** (↕)    | 10721                |
-| **Active Time** (⌚)   | 131 minutes |
+| **Lines Added** (➕)   | 13614                                          |
+| **Lines Removed** (➖) | 2393                                        |
+| **Net Change** (↕)    | 11221                |
+| **Active Time** (⌚)   | 142 minutes |
 
 
 ## Modified Files
@@ -52,6 +52,8 @@
 - **router.tsx** (+230, -0)
 - **vite.config.js** (+39, -0)
 - **vitest.config.ts** (+23, -0)
+- **command.controller.ts** (+304, -4)
+- **mission.controller.ts** (+204, -4)
 
 ## Visualizations
 
@@ -60,7 +62,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 4013
+".ts" : 4529
 ".json" : 218
 ".tsx" : 11221
 ".js" : 39
@@ -74,8 +76,8 @@ title Coding activity by hour (count of changes)
 "11h" : 96
 "12h" : 26
 "14h" : 4
-"15h" : 1
+"15h" : 12
 ```
 
 
-> **Last Updated:** 16/03/2026, 15:27:00
+> **Last Updated:** 16/03/2026, 15:37:00

@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5658                                          |
-| **Lines Removed** (➖) | 2333                                        |
-| **Net Change** (↕)    | 3325                |
-| **Active Time** (⌚)   | 57 minutes |
+| **Lines Added** (➕)   | 7628                                          |
+| **Lines Removed** (➖) | 2342                                        |
+| **Net Change** (↕)    | 5286                |
+| **Active Time** (⌚)   | 84 minutes |
 
 
 ## Modified Files
@@ -23,6 +23,16 @@
 - **mission.validator.ts** (+651, -146)
 - **StreamContext.tsx** (+409, -16)
 - **geofence.validator.ts** (+139, -3)
+- **MissionActions.tsx** (+35, -1)
+- **MissionControls.tsx** (+467, -1)
+- **MissionHeader.tsx** (+77, -1)
+- **MissionStats.tsx** (+91, -0)
+- **useGridMission.ts** (+801, -1)
+- **ConfirmModal.tsx** (+53, -1)
+- **MissionSlider.tsx** (+133, -1)
+- **eventHandlers.ts** (+122, -1)
+- **gridMissionUtils.ts** (+183, -1)
+- **index.ts** (+8, -1)
 
 ## Visualizations
 
@@ -31,9 +41,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 2547
+".ts" : 3665
 ".json" : 218
-".tsx" : 5226
+".tsx" : 6087
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -41,8 +51,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"11h" : 55
+"11h" : 83
 ```
 
 
-> **Last Updated:** 16/03/2026, 11:52:16
+> **Last Updated:** 16/03/2026, 11:57:16

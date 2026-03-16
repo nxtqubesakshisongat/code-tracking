@@ -2,9 +2,9 @@
   "date": "2026-03-16",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 13614,
+      "totalLinesAdded": 13665,
       "totalLinesRemoved": 2411,
-      "totalActiveTime": 142,
+      "totalActiveTime": 147,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/ExistingMission/utils/missionUtils.ts": [
           {
@@ -2035,6 +2035,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/tests/unit/auth.test.ts": [
+          {
+            "timestamp": "2026-03-16T10:24:49.702Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/tests/unit/auth.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 51,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "ts"
           }
         ]

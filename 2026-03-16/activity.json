@@ -2,7 +2,7 @@
   "date": "2026-03-16",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 12757,
+      "totalLinesAdded": 12976,
       "totalLinesRemoved": 2385,
       "totalActiveTime": 128,
       "files": {
@@ -1787,6 +1787,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/router.tsx": [
+          {
+            "timestamp": "2026-03-16T08:32:37.699Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/router.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 219,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]

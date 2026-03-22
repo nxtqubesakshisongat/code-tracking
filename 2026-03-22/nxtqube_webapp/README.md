@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 6132                                          |
+| **Lines Added** (➕)   | 6490                                          |
 | **Lines Removed** (➖) | 602                                        |
-| **Net Change** (↕)    | 5530                |
-| **Active Time** (⌚)   | 173 minutes |
+| **Net Change** (↕)    | 5888                |
+| **Active Time** (⌚)   | 174 minutes |
 
 
 ## Modified Files
@@ -31,6 +31,9 @@
 - **MissionControls.tsx** (+466, -0)
 - **MissionStats.tsx** (+91, -0)
 - **useGridMission.ts** (+800, -0)
+- **missionDataHandler.ts** (+169, -0)
+- **index.ts** (+7, -0)
+- **gridMissionUtils.ts** (+182, -0)
 
 ## Visualizations
 
@@ -40,7 +43,7 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 5117
-".ts" : 1540
+".ts" : 1898
 ".json" : 77
 ```
 
@@ -55,8 +58,8 @@ title Coding activity by hour (count of changes)
 "15h" : 16
 "16h" : 16
 "17h" : 32
-"18h" : 24
+"18h" : 27
 ```
 
 
-> **Last Updated:** 22/03/2026, 18:33:19
+> **Last Updated:** 22/03/2026, 18:38:19

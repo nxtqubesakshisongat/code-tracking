@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3543                                          |
-| **Lines Removed** (➖) | 429                                        |
-| **Net Change** (↕)    | 3114                |
-| **Active Time** (⌚)   | 137 minutes |
+| **Lines Added** (➕)   | 3977                                          |
+| **Lines Removed** (➖) | 435                                        |
+| **Net Change** (↕)    | 3542                |
+| **Active Time** (⌚)   | 147 minutes |
 
 
 ## Modified Files
@@ -19,7 +19,9 @@
 - **OrbitMission3D.tsx** (+365, -0)
 - **MissionPages.tsx** (+264, -0)
 - **store.ts** (+154, -0)
-- **Mission3DControl.tsx** (+161, -0)
+- **Mission3DControl.tsx** (+161, -3)
+- **MissionTypeSelector.tsx** (+73, -2)
+- **OrbitMissionControl.tsx** (+361, -1)
 
 ## Visualizations
 
@@ -28,7 +30,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 3693
+".tsx" : 4133
 ".ts" : 279
 ```
 
@@ -42,8 +44,8 @@ title Coding activity by hour (count of changes)
 "14h" : 40
 "15h" : 16
 "16h" : 16
-"17h" : 25
+"17h" : 32
 ```
 
 
-> **Last Updated:** 22/03/2026, 17:43:19
+> **Last Updated:** 22/03/2026, 17:48:19

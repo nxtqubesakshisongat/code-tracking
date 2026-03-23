@@ -1,0 +1,61 @@
+{
+  "date": "2026-03-23",
+  "projects": {
+    "nxtqube_webapp": {
+      "totalLinesAdded": 509,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Geofence/use.polygon.geofence.ts": [
+          {
+            "timestamp": "2026-03-23T09:48:23.416Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Geofence/use.polygon.geofence.ts",
+            "fileType": ".ts",
+            "linesAdded": 508,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-03-23T09:50:05.062Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Geofence/use.polygon.geofence.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 2
+      },
+      "changeFrequency": {
+        "15": 2
+      },
+      "topFiles": [
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Geofence/use.polygon.geofence.ts"
+      ],
+      "averageChangeSize": 254.5
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    15
+  ],
+  "mostUsedLanguages": [
+    "ts"
+  ]
+}

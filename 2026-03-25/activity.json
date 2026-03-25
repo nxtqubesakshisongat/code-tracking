@@ -3,8 +3,8 @@
   "projects": {
     "nxtqube_webapp": {
       "totalLinesAdded": 1434,
-      "totalLinesRemoved": 7,
-      "totalActiveTime": 20,
+      "totalLinesRemoved": 19,
+      "totalActiveTime": 22,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/components/3dMission/stack/StackMission3D.tsx": [
           {
@@ -259,6 +259,34 @@
             "fileType": ".ts",
             "linesAdded": 9,
             "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-03-25T08:08:25.797Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Geofence/use.polygon.geofence.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 11,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-03-25T08:08:54.632Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Geofence/use.polygon.geofence.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "nxtqube_webapp",
             "content": {
               "added": [],

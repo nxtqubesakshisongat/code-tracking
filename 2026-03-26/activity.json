@@ -1,0 +1,61 @@
+{
+  "date": "2026-03-26",
+  "projects": {
+    "nxtqube_webapp": {
+      "totalLinesAdded": 146,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/components/3dMission/stack/draw.stack.boundry.ts": [
+          {
+            "timestamp": "2026-03-26T08:10:21.700Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/components/3dMission/stack/draw.stack.boundry.ts",
+            "fileType": ".ts",
+            "linesAdded": 146,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-03-26T08:10:22.742Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/components/3dMission/stack/draw.stack.boundry.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 1
+      },
+      "changeFrequency": {
+        "13": 1
+      },
+      "topFiles": [
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/components/3dMission/stack/draw.stack.boundry.ts"
+      ],
+      "averageChangeSize": 73.5
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    13
+  ],
+  "mostUsedLanguages": [
+    "ts"
+  ]
+}

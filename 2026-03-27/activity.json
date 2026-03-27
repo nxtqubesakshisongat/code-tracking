@@ -2,7 +2,7 @@
   "date": "2026-03-27",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 2628,
+      "totalLinesAdded": 2993,
       "totalLinesRemoved": 70,
       "totalActiveTime": 24,
       "files": {
@@ -361,6 +361,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/components/3dMission/orbit/OrbitMission3D.tsx": [
+          {
+            "timestamp": "2026-03-27T11:28:35.662Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/components/3dMission/orbit/OrbitMission3D.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 365,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]

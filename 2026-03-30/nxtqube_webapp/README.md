@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2461                                          |
+| **Lines Added** (➕)   | 2532                                          |
 | **Lines Removed** (➖) | 511                                        |
-| **Net Change** (↕)    | 1950                |
-| **Active Time** (⌚)   | 82 minutes |
+| **Net Change** (↕)    | 2021                |
+| **Active Time** (⌚)   | 85 minutes |
 
 
 ## Modified Files
@@ -18,6 +18,7 @@
 - **save.ts** (+292, -106)
 - **StackMissionControl.tsx** (+204, -0)
 - **MissionTypeSelector.tsx** (+71, -0)
+- **MissionModeSelector.tsx** (+71, -0)
 
 ## Visualizations
 
@@ -26,7 +27,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2448
+".tsx" : 2519
 ".json" : 126
 ".ts" : 398
 ```
@@ -43,8 +44,8 @@ title Coding activity by hour (count of changes)
 "15h" : 3
 "16h" : 1
 "17h" : 5
-"18h" : 3
+"18h" : 4
 ```
 
 
-> **Last Updated:** 30/03/2026, 18:41:37
+> **Last Updated:** 30/03/2026, 18:46:37

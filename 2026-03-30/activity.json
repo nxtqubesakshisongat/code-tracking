@@ -2,9 +2,9 @@
   "date": "2026-03-30",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 489,
+      "totalLinesAdded": 1216,
       "totalLinesRemoved": 295,
-      "totalActiveTime": 20,
+      "totalActiveTime": 24,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/components/3dMission/orbit/OrbitMissionControl.tsx": [
           {
@@ -287,6 +287,36 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-03-30T05:52:08.802Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/create3DMission.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/components/path&PointMission/MissionInfo.tsx": [
+          {
+            "timestamp": "2026-03-30T05:51:39.013Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/components/path&PointMission/MissionInfo.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 724,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "tsx"
           }
         ]

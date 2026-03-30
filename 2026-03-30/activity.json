@@ -2,9 +2,9 @@
   "date": "2026-03-30",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 2284,
-      "totalLinesRemoved": 438,
-      "totalActiveTime": 78,
+      "totalLinesAdded": 2357,
+      "totalLinesRemoved": 511,
+      "totalActiveTime": 80,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/components/3dMission/orbit/OrbitMissionControl.tsx": [
           {
@@ -75,6 +75,48 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-03-30T12:19:37.661Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/components/3dMission/orbit/OrbitMissionControl.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 73,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-03-30T12:20:03.603Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/components/3dMission/orbit/OrbitMissionControl.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 72,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-03-30T12:20:11.854Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/components/3dMission/orbit/OrbitMissionControl.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ],

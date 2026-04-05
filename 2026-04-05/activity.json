@@ -2,9 +2,9 @@
   "date": "2026-04-05",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 5607,
-      "totalLinesRemoved": 1299,
-      "totalActiveTime": 56,
+      "totalLinesAdded": 5752,
+      "totalLinesRemoved": 1301,
+      "totalActiveTime": 61,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/components/3dMission/stack/StackMissionControl.tsx": [
           {
@@ -474,6 +474,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-05T06:28:24.781Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/create3DMission.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 44,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/types/mission.model.ts": [
@@ -563,6 +577,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-05T06:28:21.799Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/components/3dMission/stack/StackMission3D.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-05T06:28:24.788Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/components/3dMission/stack/StackMission3D.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 101,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ]

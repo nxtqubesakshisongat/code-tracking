@@ -2,9 +2,9 @@
   "date": "2026-04-05",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 4925,
-      "totalLinesRemoved": 1298,
-      "totalActiveTime": 53,
+      "totalLinesAdded": 5005,
+      "totalLinesRemoved": 1299,
+      "totalActiveTime": 56,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/components/3dMission/stack/StackMissionControl.tsx": [
           {
@@ -490,6 +490,64 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/.env": [
+          {
+            "timestamp": "2026-04-05T05:54:20.707Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/.env",
+            "fileType": "unknown",
+            "linesAdded": 65,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2026-04-05T05:54:23.150Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/.env",
+            "fileType": "unknown",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2026-04-05T05:54:41.100Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/.env",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2026-04-05T05:55:11.690Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/.env",
+            "fileType": "unknown",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
           }
         ]
       },

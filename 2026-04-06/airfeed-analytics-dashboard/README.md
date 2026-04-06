@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 285                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 285                |
-| **Active Time** (⌚)   | 14 minutes |
+| **Lines Added** (➕)   | 10813                                          |
+| **Lines Removed** (➖) | 8                                        |
+| **Net Change** (↕)    | 10805                |
+| **Active Time** (⌚)   | 21 minutes |
 
 
 ## Modified Files
@@ -15,6 +15,8 @@
 - **mapContainer.tsx** (+37, -0)
 - **rightSideBar.tsx** (+11, -0)
 - **bottomStats.tsx** (+16, -0)
+- **tsconfig.json** (+24, -8)
+- **package-lock.json** (+10504, -0)
 
 ## Visualizations
 
@@ -24,6 +26,7 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 285
+".json" : 10536
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -32,7 +35,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 10
+"10h" : 6
 ```
 
 
-> **Last Updated:** 06/04/2026, 10:03:22
+> **Last Updated:** 06/04/2026, 10:13:22

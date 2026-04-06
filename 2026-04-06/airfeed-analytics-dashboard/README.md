@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 11502                                          |
+| **Lines Added** (➕)   | 11551                                          |
 | **Lines Removed** (➖) | 358                                        |
-| **Net Change** (↕)    | 11144                |
+| **Net Change** (↕)    | 11193                |
 | **Active Time** (⌚)   | 67 minutes |
 
 
 ## Modified Files
 - **Dashboard.tsx** (+221, -205)
 - **mapContainer.tsx** (+94, -14)
-- **rightSideBar.tsx** (+56, -0)
+- **rightSideBar.tsx** (+105, -0)
 - **bottomStats.tsx** (+16, -0)
 - **tsconfig.json** (+24, -8)
 - **package-lock.json** (+10504, -0)
@@ -33,7 +33,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 732
+".tsx" : 781
 ".json" : 10536
 ".js" : 246
 ".css" : 136
@@ -51,8 +51,8 @@ title Coding activity by hour (count of changes)
 "11h" : 1
 "13h" : 7
 "14h" : 13
-"15h" : 7
+"15h" : 8
 ```
 
 
-> **Last Updated:** 06/04/2026, 15:29:14
+> **Last Updated:** 06/04/2026, 15:34:14

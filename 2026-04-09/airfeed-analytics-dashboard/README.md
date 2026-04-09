@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3174                                          |
-| **Lines Removed** (➖) | 1932                                        |
-| **Net Change** (↕)    | 1242                |
-| **Active Time** (⌚)   | 186 minutes |
+| **Lines Added** (➕)   | 3237                                          |
+| **Lines Removed** (➖) | 1936                                        |
+| **Net Change** (↕)    | 1301                |
+| **Active Time** (⌚)   | 196 minutes |
 
 
 ## Modified Files
@@ -26,7 +26,10 @@
 - **router.tsx** (+44, -0)
 - **Mission.tsx** (+228, -213)
 - **rightSideBar.tsx** (+217, -98)
-- **MissionList.tsx** (+318, -62)
+- **MissionList.tsx** (+318, -64)
+- **.env** (+2, -0)
+- **vite.config.ts** (+53, -0)
+- **index.ts** (+8, -2)
 
 ## Visualizations
 
@@ -35,8 +38,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 5042
-".ts" : 64
+".tsx" : 5044
+".ts" : 127
+"unknown" : 2
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -52,8 +56,8 @@ title Coding activity by hour (count of changes)
 "15h" : 3
 "16h" : 22
 "17h" : 57
-"18h" : 8
+"18h" : 13
 ```
 
 
-> **Last Updated:** 09/04/2026, 18:23:49
+> **Last Updated:** 09/04/2026, 18:28:49

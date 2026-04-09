@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2214                                          |
-| **Lines Removed** (➖) | 1474                                        |
-| **Net Change** (↕)    | 740                |
-| **Active Time** (⌚)   | 124 minutes |
+| **Lines Added** (➕)   | 2472                                          |
+| **Lines Removed** (➖) | 1540                                        |
+| **Net Change** (↕)    | 932                |
+| **Active Time** (⌚)   | 139 minutes |
 
 
 ## Modified Files
@@ -22,6 +22,10 @@
 - **DetectionLog.tsx** (+122, -44)
 - **mapContainer.tsx** (+101, -21)
 - **cesium.page.tsx** (+17, -0)
+- **navigation.ts** (+64, -0)
+- **router.tsx** (+44, -0)
+- **Mission.tsx** (+31, -17)
+- **rightSideBar.tsx** (+119, -49)
 
 ## Visualizations
 
@@ -30,7 +34,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 3688
+".tsx" : 3948
+".ts" : 64
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -45,7 +50,8 @@ title Coding activity by hour (count of changes)
 "14h" : 3
 "15h" : 3
 "16h" : 22
+"17h" : 16
 ```
 
 
-> **Last Updated:** 09/04/2026, 16:49:31
+> **Last Updated:** 09/04/2026, 17:35:38

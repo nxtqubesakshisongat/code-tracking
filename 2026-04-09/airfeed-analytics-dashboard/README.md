@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2958                                          |
-| **Lines Removed** (➖) | 1849                                        |
-| **Net Change** (↕)    | 1109                |
-| **Active Time** (⌚)   | 182 minutes |
+| **Lines Added** (➕)   | 2967                                          |
+| **Lines Removed** (➖) | 1854                                        |
+| **Net Change** (↕)    | 1113                |
+| **Active Time** (⌚)   | 184 minutes |
 
 
 ## Modified Files
@@ -18,7 +18,7 @@
 - **ReportsTable.tsx** (+53, -26)
 - **CreateReportPanel.tsx** (+398, -303)
 - **ReportRow.tsx** (+300, -223)
-- **dropdown.select.tsx** (+680, -516)
+- **dropdown.select.tsx** (+689, -521)
 - **DetectionLog.tsx** (+122, -44)
 - **mapContainer.tsx** (+103, -23)
 - **cesium.page.tsx** (+17, -0)
@@ -35,7 +35,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 4743
+".tsx" : 4757
 ".ts" : 64
 ```
 
@@ -52,8 +52,8 @@ title Coding activity by hour (count of changes)
 "15h" : 3
 "16h" : 22
 "17h" : 57
-"18h" : 2
+"18h" : 4
 ```
 
 
-> **Last Updated:** 09/04/2026, 18:00:38
+> **Last Updated:** 09/04/2026, 18:05:38

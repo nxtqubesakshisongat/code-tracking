@@ -2,9 +2,9 @@
   "date": "2026-04-13",
   "projects": {
     "Airfeed-Analytics-Dashboard": {
-      "totalLinesAdded": 200,
-      "totalLinesRemoved": 17,
-      "totalActiveTime": 7,
+      "totalLinesAdded": 586,
+      "totalLinesRemoved": 54,
+      "totalActiveTime": 17,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Airfeed-Analytics-Dashboard/Airfeed-Analytics-Dashboard/frontend/src/pages/Dashboard.tsx": [
           {
@@ -108,6 +108,148 @@
             },
             "duration": 0,
             "language": "ts"
+          },
+          {
+            "timestamp": "2026-04-13T09:25:29.883Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Airfeed-Analytics-Dashboard/Airfeed-Analytics-Dashboard/frontend/src/api/log.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Airfeed-Analytics-Dashboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Airfeed-Analytics-Dashboard/Airfeed-Analytics-Dashboard/frontend/src/components/Mission/MissionList.tsx": [
+          {
+            "timestamp": "2026-04-13T09:26:17.352Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Airfeed-Analytics-Dashboard/Airfeed-Analytics-Dashboard/frontend/src/components/Mission/MissionList.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 330,
+            "linesRemoved": 0,
+            "projectName": "Airfeed-Analytics-Dashboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-13T09:26:19.088Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Airfeed-Analytics-Dashboard/Airfeed-Analytics-Dashboard/frontend/src/components/Mission/MissionList.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "Airfeed-Analytics-Dashboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-13T09:26:41.673Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Airfeed-Analytics-Dashboard/Airfeed-Analytics-Dashboard/frontend/src/components/Mission/MissionList.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 17,
+            "projectName": "Airfeed-Analytics-Dashboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-13T09:26:54.122Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Airfeed-Analytics-Dashboard/Airfeed-Analytics-Dashboard/frontend/src/components/Mission/MissionList.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "Airfeed-Analytics-Dashboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-13T09:26:58.195Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Airfeed-Analytics-Dashboard/Airfeed-Analytics-Dashboard/frontend/src/components/Mission/MissionList.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Airfeed-Analytics-Dashboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-13T09:27:30.390Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Airfeed-Analytics-Dashboard/Airfeed-Analytics-Dashboard/frontend/src/components/Mission/MissionList.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 17,
+            "projectName": "Airfeed-Analytics-Dashboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-13T09:27:32.521Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Airfeed-Analytics-Dashboard/Airfeed-Analytics-Dashboard/frontend/src/components/Mission/MissionList.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Airfeed-Analytics-Dashboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-13T09:27:38.235Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Airfeed-Analytics-Dashboard/Airfeed-Analytics-Dashboard/frontend/src/components/Mission/MissionList.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "Airfeed-Analytics-Dashboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-13T09:28:00.522Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Airfeed-Analytics-Dashboard/Airfeed-Analytics-Dashboard/frontend/src/components/Mission/MissionList.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Airfeed-Analytics-Dashboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ]
       },

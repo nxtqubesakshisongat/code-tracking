@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 687                                          |
+| **Lines Added** (➕)   | 765                                          |
 | **Lines Removed** (➖) | 3                                        |
-| **Net Change** (↕)    | 684                |
-| **Active Time** (⌚)   | 12 minutes |
+| **Net Change** (↕)    | 762                |
+| **Active Time** (⌚)   | 18 minutes |
 
 
 ## Modified Files
@@ -17,8 +17,8 @@
 - **ReportsTable.tsx** (+97, -0)
 - **FilterBtn.tsx** (+21, -0)
 - **ReportDashboard.tsx** (+183, -3)
-- **CreateReportPanel.tsx** (+122, -0)
-- **date.range.picker.tsx** (+157, -0)
+- **CreateReportPanel.tsx** (+131, -0)
+- **date.range.picker.tsx** (+226, -0)
 
 ## Visualizations
 
@@ -28,7 +28,7 @@
 pie showData
 title Lines changed by file type
 ".ts" : 16
-".tsx" : 674
+".tsx" : 752
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -40,8 +40,8 @@ title Coding activity by hour (count of changes)
 "12h" : 6
 "13h" : 2
 "14h" : 2
-"15h" : 1
+"15h" : 3
 ```
 
 
-> **Last Updated:** 15/04/2026, 15:01:07
+> **Last Updated:** 15/04/2026, 15:06:07

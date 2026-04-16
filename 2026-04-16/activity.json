@@ -3,8 +3,8 @@
   "projects": {
     "Airfeed-Analytics-Dashboard": {
       "totalLinesAdded": 14489,
-      "totalLinesRemoved": 320,
-      "totalActiveTime": 79,
+      "totalLinesRemoved": 322,
+      "totalActiveTime": 82,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Airfeed-Analytics-Dashboard/Airfeed-Analytics-Dashboard/frontend/package-lock.json": [
           {
@@ -545,6 +545,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-16T12:26:37.124Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Airfeed-Analytics-Dashboard/Airfeed-Analytics-Dashboard/frontend/src/components/Reports/ReportsTable.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Airfeed-Analytics-Dashboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-16T12:26:40.805Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Airfeed-Analytics-Dashboard/Airfeed-Analytics-Dashboard/frontend/src/components/Reports/ReportsTable.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Airfeed-Analytics-Dashboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ],

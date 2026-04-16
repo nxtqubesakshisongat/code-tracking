@@ -2,9 +2,9 @@
   "date": "2026-04-16",
   "projects": {
     "Airfeed-Analytics-Dashboard": {
-      "totalLinesAdded": 13109,
+      "totalLinesAdded": 13301,
       "totalLinesRemoved": 281,
-      "totalActiveTime": 34,
+      "totalActiveTime": 36,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Airfeed-Analytics-Dashboard/Airfeed-Analytics-Dashboard/frontend/package-lock.json": [
           {
@@ -422,6 +422,50 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Airfeed-Analytics-Dashboard/Airfeed-Analytics-Dashboard/frontend/src/pages/ReportDashboard.tsx": [
+          {
+            "timestamp": "2026-04-16T07:38:37.484Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Airfeed-Analytics-Dashboard/Airfeed-Analytics-Dashboard/frontend/src/pages/ReportDashboard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 187,
+            "linesRemoved": 0,
+            "projectName": "Airfeed-Analytics-Dashboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-16T07:38:38.561Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Airfeed-Analytics-Dashboard/Airfeed-Analytics-Dashboard/frontend/src/pages/ReportDashboard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "Airfeed-Analytics-Dashboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-16T07:39:08.696Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Airfeed-Analytics-Dashboard/Airfeed-Analytics-Dashboard/frontend/src/pages/ReportDashboard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Airfeed-Analytics-Dashboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ]
       },

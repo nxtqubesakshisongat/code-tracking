@@ -2,7 +2,7 @@
   "date": "2026-04-16",
   "projects": {
     "Airfeed-Analytics-Dashboard": {
-      "totalLinesAdded": 14381,
+      "totalLinesAdded": 14489,
       "totalLinesRemoved": 320,
       "totalActiveTime": 79,
       "files": {
@@ -531,6 +531,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-16T12:24:47.947Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Airfeed-Analytics-Dashboard/Airfeed-Analytics-Dashboard/frontend/src/components/Reports/ReportsTable.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 108,
+            "linesRemoved": 0,
+            "projectName": "Airfeed-Analytics-Dashboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],

@@ -5,17 +5,17 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 13829                                          |
-| **Lines Removed** (➖) | 284                                        |
-| **Net Change** (↕)    | 13545                |
-| **Active Time** (⌚)   | 51 minutes |
+| **Lines Removed** (➖) | 286                                        |
+| **Net Change** (↕)    | 13543                |
+| **Active Time** (⌚)   | 56 minutes |
 
 
 ## Modified Files
 - **package-lock.json** (+11730, -36)
 - **CreateReportPanel.tsx** (+136, -0)
 - **report.route.ts** (+20, -3)
-- **report.ts** (+95, -31)
-- **ReportsTable.tsx** (+110, -2)
+- **report.ts** (+95, -32)
+- **ReportsTable.tsx** (+110, -3)
 - **report.controller.ts** (+1033, -212)
 - **ReportDashboard.tsx** (+192, -0)
 - **reports.model.ts** (+74, -0)
@@ -30,8 +30,8 @@
 pie showData
 title Lines changed by file type
 ".json" : 11766
-".tsx" : 440
-".ts" : 1907
+".tsx" : 441
+".ts" : 1908
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -43,8 +43,8 @@ title Coding activity by hour (count of changes)
 "11h" : 8
 "12h" : 12
 "13h" : 4
-"15h" : 8
+"15h" : 10
 ```
 
 
-> **Last Updated:** 16/04/2026, 15:50:47
+> **Last Updated:** 16/04/2026, 15:55:47

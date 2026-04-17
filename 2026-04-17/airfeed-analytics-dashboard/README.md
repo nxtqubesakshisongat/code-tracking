@@ -4,19 +4,20 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1049                                          |
+| **Lines Added** (➕)   | 1144                                          |
 | **Lines Removed** (➖) | 188                                        |
-| **Net Change** (↕)    | 861                |
-| **Active Time** (⌚)   | 53 minutes |
+| **Net Change** (↕)    | 956                |
+| **Active Time** (⌚)   | 62 minutes |
 
 
 ## Modified Files
-- **CreateReportPanel.tsx** (+428, -17)
+- **CreateReportPanel.tsx** (+436, -17)
 - **Tags.tsx** (+56, -0)
 - **tag.ts** (+87, -18)
 - **report.ts** (+181, -80)
 - **ReportsTable.tsx** (+128, -20)
 - **model.ts** (+169, -53)
+- **mapContainer.tsx** (+87, -0)
 
 ## Visualizations
 
@@ -25,7 +26,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 649
+".tsx" : 744
 ".ts" : 588
 ```
 
@@ -37,8 +38,8 @@ title Coding activity by hour (count of changes)
 "12h" : 5
 "13h" : 12
 "14h" : 5
-"15h" : 18
+"15h" : 20
 ```
 
 
-> **Last Updated:** 17/04/2026, 15:27:34
+> **Last Updated:** 17/04/2026, 15:32:34

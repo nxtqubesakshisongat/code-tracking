@@ -3,8 +3,8 @@
   "projects": {
     "Airfeed-Analytics-Dashboard": {
       "totalLinesAdded": 424,
-      "totalLinesRemoved": 6,
-      "totalActiveTime": 13,
+      "totalLinesRemoved": 8,
+      "totalActiveTime": 18,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Airfeed-Analytics-Dashboard/Airfeed-Analytics-Dashboard/frontend/src/components/Reports/CreateReportPanel.tsx": [
           {
@@ -103,6 +103,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-17T07:38:57.340Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Airfeed-Analytics-Dashboard/Airfeed-Analytics-Dashboard/frontend/src/components/Reports/CreateReportPanel.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Airfeed-Analytics-Dashboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "tsx"
           }
         ],

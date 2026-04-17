@@ -2,9 +2,9 @@
   "date": "2026-04-17",
   "projects": {
     "Airfeed-Analytics-Dashboard": {
-      "totalLinesAdded": 1161,
+      "totalLinesAdded": 1268,
       "totalLinesRemoved": 188,
-      "totalActiveTime": 68,
+      "totalActiveTime": 70,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Airfeed-Analytics-Dashboard/Airfeed-Analytics-Dashboard/frontend/src/components/Reports/CreateReportPanel.tsx": [
           {
@@ -633,6 +633,22 @@
               "removed": []
             },
             "duration": 4,
+            "language": "tsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Airfeed-Analytics-Dashboard/Airfeed-Analytics-Dashboard/frontend/src/components/cesium/components/cesium.provider.tsx": [
+          {
+            "timestamp": "2026-04-17T10:07:48.711Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Airfeed-Analytics-Dashboard/Airfeed-Analytics-Dashboard/frontend/src/components/cesium/components/cesium.provider.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 107,
+            "linesRemoved": 0,
+            "projectName": "Airfeed-Analytics-Dashboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ]

@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 3095                                          |
-| **Lines Removed** (➖) | 345                                        |
-| **Net Change** (↕)    | 2750                |
-| **Active Time** (⌚)   | 127 minutes |
+| **Lines Removed** (➖) | 351                                        |
+| **Net Change** (↕)    | 2744                |
+| **Active Time** (⌚)   | 129 minutes |
 
 
 ## Modified Files
@@ -25,7 +25,7 @@
 - **detection.controller.ts** (+417, -0)
 - **flight.ts** (+12, -0)
 - **bottomStats.tsx** (+194, -0)
-- **Schedule.tsx** (+457, -0)
+- **Schedule.tsx** (+457, -6)
 - **DateRangeContext.tsx** (+36, -0)
 
 ## Visualizations
@@ -35,7 +35,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2127
+".tsx" : 2133
 ".ts" : 1253
 ".json" : 60
 ```
@@ -53,8 +53,8 @@ title Coding activity by hour (count of changes)
 "16h" : 5
 "17h" : 36
 "18h" : 12
-"19h" : 10
+"19h" : 11
 ```
 
 
-> **Last Updated:** 20/04/2026, 19:17:40
+> **Last Updated:** 20/04/2026, 19:22:40

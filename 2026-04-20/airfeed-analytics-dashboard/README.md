@@ -4,22 +4,24 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 984                                          |
-| **Lines Removed** (➖) | 193                                        |
-| **Net Change** (↕)    | 791                |
-| **Active Time** (⌚)   | 65 minutes |
+| **Lines Added** (➕)   | 1774                                          |
+| **Lines Removed** (➖) | 320                                        |
+| **Net Change** (↕)    | 1454                |
+| **Active Time** (⌚)   | 88 minutes |
 
 
 ## Modified Files
 - **rightSideBar.tsx** (+378, -3)
-- **tag.ts** (+64, -0)
-- **mission.ts** (+62, -2)
-- **DetectionLog.tsx** (+198, -120)
+- **tag.ts** (+69, -5)
+- **mission.ts** (+88, -28)
+- **DetectionLog.tsx** (+232, -120)
 - **detection.ts** (+30, -1)
-- **index.ts** (+18, -2)
+- **index.ts** (+39, -21)
 - **detection.route.ts** (+23, -0)
 - **package.json** (+60, -0)
-- **report.ts** (+151, -65)
+- **report.ts** (+328, -142)
+- **CreateReportPanel.tsx** (+419, -0)
+- **ReportsTable.tsx** (+108, -0)
 
 ## Visualizations
 
@@ -28,8 +30,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 699
-".ts" : 418
+".tsx" : 1260
+".ts" : 774
 ".json" : 60
 ```
 
@@ -44,8 +46,8 @@ title Coding activity by hour (count of changes)
 "14h" : 1
 "15h" : 18
 "16h" : 5
-"17h" : 13
+"17h" : 35
 ```
 
 
-> **Last Updated:** 20/04/2026, 17:14:26
+> **Last Updated:** 20/04/2026, 17:19:26

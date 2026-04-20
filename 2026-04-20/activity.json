@@ -2,9 +2,9 @@
   "date": "2026-04-20",
   "projects": {
     "Airfeed-Analytics-Dashboard": {
-      "totalLinesAdded": 2408,
+      "totalLinesAdded": 3045,
       "totalLinesRemoved": 345,
-      "totalActiveTime": 121,
+      "totalActiveTime": 125,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Airfeed-Analytics-Dashboard/Airfeed-Analytics-Dashboard/frontend/src/components/Dashboard/rightSideBar.tsx": [
           {
@@ -1416,6 +1416,38 @@
             },
             "duration": 2,
             "language": "ts"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Airfeed-Analytics-Dashboard/Airfeed-Analytics-Dashboard/frontend/src/components/Dashboard/bottomStats.tsx": [
+          {
+            "timestamp": "2026-04-20T13:38:04.112Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Airfeed-Analytics-Dashboard/Airfeed-Analytics-Dashboard/frontend/src/components/Dashboard/bottomStats.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 194,
+            "linesRemoved": 0,
+            "projectName": "Airfeed-Analytics-Dashboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Airfeed-Analytics-Dashboard/Airfeed-Analytics-Dashboard/frontend/src/components/Dashboard/sections/Schedule.tsx": [
+          {
+            "timestamp": "2026-04-20T13:39:12.757Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Airfeed-Analytics-Dashboard/Airfeed-Analytics-Dashboard/frontend/src/components/Dashboard/sections/Schedule.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 443,
+            "linesRemoved": 0,
+            "projectName": "Airfeed-Analytics-Dashboard",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
           }
         ]
       },

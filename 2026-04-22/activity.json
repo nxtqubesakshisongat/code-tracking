@@ -2,7 +2,7 @@
   "date": "2026-04-22",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 1791,
+      "totalLinesAdded": 1793,
       "totalLinesRemoved": 2,
       "totalActiveTime": 11,
       "files": {
@@ -119,6 +119,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-22T11:17:29.272Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Geofence/geogence.create.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]

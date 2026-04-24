@@ -2,7 +2,7 @@
   "date": "2026-04-24",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 935,
+      "totalLinesAdded": 2948,
       "totalLinesRemoved": 16,
       "totalActiveTime": 3,
       "files": {
@@ -79,6 +79,52 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-04-24T11:00:39.323Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/components/path&PointMission/MissionControl.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 80,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/components/path&PointMission/MissionInfo.tsx": [
+          {
+            "timestamp": "2026-04-24T11:00:39.327Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/components/path&PointMission/MissionInfo.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 991,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/components/path&PointMission/WaypointAction.tsx": [
+          {
+            "timestamp": "2026-04-24T11:00:39.333Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/components/path&PointMission/WaypointAction.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 942,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]

@@ -49,9 +49,9 @@
       "averageChangeSize": 929
     },
     "calCApp": {
-      "totalLinesAdded": 595,
+      "totalLinesAdded": 597,
       "totalLinesRemoved": 110,
-      "totalActiveTime": 10,
+      "totalActiveTime": 16,
       "files": {
         "/Users/sakshi/Desktop/sakshi/calCApp/.gitignore": [
           {
@@ -243,6 +243,36 @@
             },
             "duration": 1,
             "language": "js"
+          }
+        ],
+        "/Users/sakshi/calCApp/.gitignore": [
+          {
+            "timestamp": "2026-04-26T13:33:50.695Z",
+            "fileName": "/Users/sakshi/calCApp/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "calCApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2026-04-26T13:33:50.766Z",
+            "fileName": "/Users/sakshi/calCApp/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "calCApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
           }
         ]
       },

@@ -49,7 +49,7 @@
       "averageChangeSize": 929
     },
     "calCApp": {
-      "totalLinesAdded": 326,
+      "totalLinesAdded": 419,
       "totalLinesRemoved": 0,
       "totalActiveTime": 1,
       "files": {
@@ -119,6 +119,22 @@
             "fileName": "/Users/sakshi/Desktop/sakshi/calCApp/src/screens/CalculatorScreen.js",
             "fileType": ".js",
             "linesAdded": 206,
+            "linesRemoved": 0,
+            "projectName": "calCApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ],
+        "/Users/sakshi/Desktop/sakshi/calCApp/App.js": [
+          {
+            "timestamp": "2026-04-26T13:17:24.550Z",
+            "fileName": "/Users/sakshi/Desktop/sakshi/calCApp/App.js",
+            "fileType": ".js",
+            "linesAdded": 93,
             "linesRemoved": 0,
             "projectName": "calCApp",
             "content": {

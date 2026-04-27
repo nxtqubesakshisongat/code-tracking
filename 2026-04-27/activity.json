@@ -35,9 +35,9 @@
       "averageChangeSize": 930
     },
     "calCApp": {
-      "totalLinesAdded": 98,
-      "totalLinesRemoved": 2,
-      "totalActiveTime": 12,
+      "totalLinesAdded": 155,
+      "totalLinesRemoved": 59,
+      "totalActiveTime": 23,
       "files": {
         "/Users/sakshi/calCApp/App.js": [
           {
@@ -122,6 +122,132 @@
               "removed": []
             },
             "duration": 5,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-04-27T13:00:06.089Z",
+            "fileName": "/Users/sakshi/calCApp/App.js",
+            "fileType": ".js",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "calCApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-04-27T13:00:13.646Z",
+            "fileName": "/Users/sakshi/calCApp/App.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "calCApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-04-27T13:00:21.242Z",
+            "fileName": "/Users/sakshi/calCApp/App.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "calCApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-04-27T13:00:37.545Z",
+            "fileName": "/Users/sakshi/calCApp/App.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "calCApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-04-27T13:01:01.614Z",
+            "fileName": "/Users/sakshi/calCApp/App.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 16,
+            "projectName": "calCApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-04-27T13:02:05.179Z",
+            "fileName": "/Users/sakshi/calCApp/App.js",
+            "fileType": ".js",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "calCApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-04-27T13:03:59.768Z",
+            "fileName": "/Users/sakshi/calCApp/App.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 15,
+            "projectName": "calCApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-04-27T13:04:31.215Z",
+            "fileName": "/Users/sakshi/calCApp/App.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 19,
+            "projectName": "calCApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-04-27T13:04:49.051Z",
+            "fileName": "/Users/sakshi/calCApp/App.js",
+            "fileType": ".js",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "calCApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "js"
           }
         ]

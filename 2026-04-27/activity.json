@@ -36,8 +36,8 @@
     },
     "calCApp": {
       "totalLinesAdded": 241,
-      "totalLinesRemoved": 64,
-      "totalActiveTime": 35,
+      "totalLinesRemoved": 145,
+      "totalActiveTime": 38,
       "files": {
         "/Users/sakshi/calCApp/App.js": [
           {
@@ -374,6 +374,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-04-27T13:21:17.006Z",
+            "fileName": "/Users/sakshi/calCApp/App.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 81,
+            "projectName": "calCApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "js"
           }
         ]

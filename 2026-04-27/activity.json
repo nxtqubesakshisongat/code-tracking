@@ -33,6 +33,81 @@
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/createPathMission.tsx"
       ],
       "averageChangeSize": 930
+    },
+    "calCApp": {
+      "totalLinesAdded": 97,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 6,
+      "files": {
+        "/Users/sakshi/calCApp/App.js": [
+          {
+            "timestamp": "2026-04-27T12:51:00.270Z",
+            "fileName": "/Users/sakshi/calCApp/App.js",
+            "fileType": ".js",
+            "linesAdded": 93,
+            "linesRemoved": 0,
+            "projectName": "calCApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-04-27T12:51:01.507Z",
+            "fileName": "/Users/sakshi/calCApp/App.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "calCApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-04-27T12:51:10.361Z",
+            "fileName": "/Users/sakshi/calCApp/App.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "calCApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-04-27T12:54:36.793Z",
+            "fileName": "/Users/sakshi/calCApp/App.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "calCApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "js"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 6
+      },
+      "changeFrequency": {
+        "18": 6
+      },
+      "topFiles": [
+        "/Users/sakshi/calCApp/App.js"
+      ],
+      "averageChangeSize": 24.25
     }
   },
   "totalActiveTime": 0,

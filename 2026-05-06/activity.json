@@ -1,0 +1,148 @@
+{
+  "date": "2026-05-06",
+  "projects": {
+    "nxtqube_webapp": {
+      "totalLinesAdded": 215,
+      "totalLinesRemoved": 8,
+      "totalActiveTime": 9,
+      "files": {
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/redux/features/missions/mission.action.ts": [
+          {
+            "timestamp": "2026-05-06T05:55:44.195Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/redux/features/missions/mission.action.ts",
+            "fileType": ".ts",
+            "linesAdded": 163,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-05-06T05:56:49.581Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/redux/features/missions/mission.action.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-05-06T05:56:50.985Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/redux/features/missions/mission.action.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-05-06T05:56:52.856Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/redux/features/missions/mission.action.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-05-06T05:56:56.732Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/redux/features/missions/mission.action.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-05-06T05:57:17.057Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/redux/features/missions/mission.action.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/routes/mission/mission.route.ts": [
+          {
+            "timestamp": "2026-05-06T05:58:38.856Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/routes/mission/mission.route.ts",
+            "fileType": ".ts",
+            "linesAdded": 50,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-05-06T05:58:40.621Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/routes/mission/mission.route.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 9
+      },
+      "changeFrequency": {
+        "11": 9
+      },
+      "topFiles": [
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/redux/features/missions/mission.action.ts",
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/routes/mission/mission.route.ts"
+      ],
+      "averageChangeSize": 27.875
+    }
+  },
+  "totalActiveTime": 9,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    11
+  ],
+  "mostUsedLanguages": [
+    "ts"
+  ]
+}

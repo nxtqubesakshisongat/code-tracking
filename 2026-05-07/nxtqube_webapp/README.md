@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1731                                          |
-| **Lines Removed** (➖) | 42                                        |
-| **Net Change** (↕)    | 1689                |
-| **Active Time** (⌚)   | 36 minutes |
+| **Lines Added** (➕)   | 1739                                          |
+| **Lines Removed** (➖) | 43                                        |
+| **Net Change** (↕)    | 1696                |
+| **Active Time** (⌚)   | 39 minutes |
 
 
 ## Modified Files
@@ -17,7 +17,7 @@
 - **Existing.tsx** (+479, -1)
 - **mission.validator.ts** (+612, -1)
 - **useMissions.ts** (+89, -0)
-- **side-nav.tsx** (+285, -9)
+- **side-nav.tsx** (+293, -10)
 
 ## Visualizations
 
@@ -27,7 +27,7 @@
 pie showData
 title Lines changed by file type
 ".ts" : 999
-".tsx" : 774
+".tsx" : 783
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -39,8 +39,8 @@ title Coding activity by hour (count of changes)
 "12h" : 5
 "13h" : 12
 "14h" : 12
-"17h" : 3
+"17h" : 6
 ```
 
 
-> **Last Updated:** 07/05/2026, 17:45:17
+> **Last Updated:** 07/05/2026, 18:00:17

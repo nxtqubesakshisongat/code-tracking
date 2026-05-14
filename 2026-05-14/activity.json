@@ -3,8 +3,8 @@
   "projects": {
     "nxtqube_webapp": {
       "totalLinesAdded": 2101,
-      "totalLinesRemoved": 43,
-      "totalActiveTime": 17,
+      "totalLinesRemoved": 44,
+      "totalActiveTime": 18,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/create3DMission.tsx": [
           {
@@ -191,6 +191,20 @@
               "removed": []
             },
             "duration": 5,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-05-14T13:19:47.961Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/components/3dMission/stack/draw.stack.boundry.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ]

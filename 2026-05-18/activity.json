@@ -2,7 +2,7 @@
   "date": "2026-05-18",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 704,
+      "totalLinesAdded": 712,
       "totalLinesRemoved": 16,
       "totalActiveTime": 33,
       "files": {
@@ -265,6 +265,20 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 15,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-05-18T10:33:43.193Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/create3DMission.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 8,
+            "linesRemoved": 0,
             "projectName": "nxtqube_webapp",
             "content": {
               "added": [],

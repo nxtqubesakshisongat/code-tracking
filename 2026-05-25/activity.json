@@ -2,9 +2,9 @@
   "date": "2026-05-25",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 484,
+      "totalLinesAdded": 489,
       "totalLinesRemoved": 17,
-      "totalActiveTime": 2,
+      "totalActiveTime": 5,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/createGridMission.tsx": [
           {
@@ -75,6 +75,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-05-25T07:16:48.848Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/createGridMission.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "tsx"
           }
         ]

@@ -1,0 +1,61 @@
+{
+  "date": "2026-06-07",
+  "projects": {
+    "nxtqube_webapp": {
+      "totalLinesAdded": 502,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/ExistingMission/Existing.tsx": [
+          {
+            "timestamp": "2026-06-07T05:43:26.486Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/ExistingMission/Existing.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 502,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-06-07T05:43:58.609Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/ExistingMission/Existing.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 1
+      },
+      "changeFrequency": {
+        "11": 1
+      },
+      "topFiles": [
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/ExistingMission/Existing.tsx"
+      ],
+      "averageChangeSize": 251.5
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    11
+  ],
+  "mostUsedLanguages": [
+    "tsx"
+  ]
+}

@@ -2,7 +2,7 @@
   "date": "2026-06-12",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 0,
+      "totalLinesAdded": 1,
       "totalLinesRemoved": 5,
       "totalActiveTime": 0,
       "files": {
@@ -13,6 +13,20 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 5,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-06-12T06:47:01.142Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Geofence/geofence.card.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
             "projectName": "nxtqube_webapp",
             "content": {
               "added": [],

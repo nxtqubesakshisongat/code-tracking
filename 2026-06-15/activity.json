@@ -2,9 +2,9 @@
   "date": "2026-06-15",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 1876,
-      "totalLinesRemoved": 709,
-      "totalActiveTime": 27,
+      "totalLinesAdded": 2517,
+      "totalLinesRemoved": 723,
+      "totalActiveTime": 34,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Geofence/geofence.card.tsx": [
           {
@@ -260,6 +260,62 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-06-15T13:51:00.702Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/ExistingMission/ExistingMission.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-06-15T13:52:57.761Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/ExistingMission/ExistingMission.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-06-15T13:53:00.685Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/ExistingMission/ExistingMission.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-06-15T13:53:02.073Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/ExistingMission/ExistingMission.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/sharedComponents/ReusableCard.tsx": [
@@ -318,6 +374,22 @@
             },
             "duration": 2,
             "language": "tsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/validators/mission.validator.ts": [
+          {
+            "timestamp": "2026-06-15T13:53:50.992Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/validators/mission.validator.ts",
+            "fileType": ".ts",
+            "linesAdded": 630,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },

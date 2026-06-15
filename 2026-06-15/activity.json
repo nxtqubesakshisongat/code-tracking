@@ -2,9 +2,9 @@
   "date": "2026-06-15",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 1208,
-      "totalLinesRemoved": 368,
-      "totalActiveTime": 7,
+      "totalLinesAdded": 1482,
+      "totalLinesRemoved": 571,
+      "totalActiveTime": 9,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Geofence/geofence.card.tsx": [
           {
@@ -91,6 +91,36 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-06-15T11:54:41.902Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/ExistingMission/ExistingMission.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 203,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/sharedComponents/ReusableCard.tsx": [
+          {
+            "timestamp": "2026-06-15T11:52:59.401Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/sharedComponents/ReusableCard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 274,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]

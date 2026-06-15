@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1482                                          |
-| **Lines Removed** (➖) | 571                                        |
-| **Net Change** (↕)    | 911                |
-| **Active Time** (⌚)   | 9 minutes |
+| **Lines Added** (➕)   | 1685                                          |
+| **Lines Removed** (➖) | 577                                        |
+| **Net Change** (↕)    | 1108                |
+| **Active Time** (⌚)   | 10 minutes |
 
 
 ## Modified Files
 - **geofence.card.tsx** (+566, -365)
-- **ExistingMission.tsx** (+642, -206)
-- **ReusableCard.tsx** (+274, -0)
+- **ExistingMission.tsx** (+845, -206)
+- **ReusableCard.tsx** (+274, -6)
 
 ## Visualizations
 
@@ -22,7 +22,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2053
+".tsx" : 2262
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -33,8 +33,8 @@ title Coding activity by hour (count of changes)
 "11h" : 2
 "12h" : 1
 "15h" : 3
-"17h" : 2
+"17h" : 4
 ```
 
 
-> **Last Updated:** 15/06/2026, 17:26:58
+> **Last Updated:** 15/06/2026, 17:31:58

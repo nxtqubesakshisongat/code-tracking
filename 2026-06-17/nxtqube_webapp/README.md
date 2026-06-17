@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4700                                          |
-| **Lines Removed** (➖) | 95                                        |
-| **Net Change** (↕)    | 4605                |
-| **Active Time** (⌚)   | 24 minutes |
+| **Lines Added** (➕)   | 5692                                          |
+| **Lines Removed** (➖) | 771                                        |
+| **Net Change** (↕)    | 4921                |
+| **Active Time** (⌚)   | 53 minutes |
 
 
 ## Modified Files
@@ -18,9 +18,10 @@
 - **ExistingMission.tsx** (+645, -3)
 - **geogence.list.tsx** (+254, -0)
 - **OrbitMissionControl.tsx** (+763, -13)
-- **StackMissionControl.tsx** (+1363, -13)
-- **SettingsSidebar.tsx** (+223, -8)
-- **users.create.tsx** (+450, -55)
+- **StackMissionControl.tsx** (+1535, -185)
+- **SettingsSidebar.tsx** (+306, -91)
+- **users.create.tsx** (+688, -347)
+- **users.list.tsx** (+499, -129)
 
 ## Visualizations
 
@@ -29,7 +30,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 4795
+".tsx" : 6463
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -38,8 +39,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "11h" : 13
-"12h" : 14
+"12h" : 38
 ```
 
 
-> **Last Updated:** 17/06/2026, 12:07:15
+> **Last Updated:** 17/06/2026, 12:12:15

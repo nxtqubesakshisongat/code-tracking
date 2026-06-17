@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 7280                                          |
-| **Lines Removed** (➖) | 1408                                        |
-| **Net Change** (↕)    | 5872                |
-| **Active Time** (⌚)   | 97 minutes |
+| **Lines Added** (➕)   | 8021                                          |
+| **Lines Removed** (➖) | 1744                                        |
+| **Net Change** (↕)    | 6277                |
+| **Active Time** (⌚)   | 119 minutes |
 
 
 ## Modified Files
@@ -15,15 +15,16 @@
 - **SortMission.tsx** (+266, -2)
 - **Existing.tsx** (+504, -1)
 - **MissionsNav.tsx** (+123, -0)
-- **ExistingMission.tsx** (+649, -7)
-- **geogence.list.tsx** (+300, -46)
+- **ExistingMission.tsx** (+651, -7)
+- **geogence.list.tsx** (+323, -46)
 - **OrbitMissionControl.tsx** (+776, -26)
-- **StackMissionControl.tsx** (+1707, -443)
-- **SettingsSidebar.tsx** (+381, -166)
-- **users.create.tsx** (+817, -476)
-- **users.list.tsx** (+580, -210)
-- **schedule.header.tsx** (+114, -28)
-- **createPathMission.tsx** (+954, -3)
+- **StackMissionControl.tsx** (+1793, -443)
+- **SettingsSidebar.tsx** (+389, -174)
+- **users.create.tsx** (+929, -588)
+- **users.list.tsx** (+678, -308)
+- **schedule.header.tsx** (+119, -28)
+- **createPathMission.tsx** (+954, -12)
+- **user.permissions.dialog.tsx** (+407, -109)
 
 ## Visualizations
 
@@ -32,7 +33,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 8688
+".tsx" : 9765
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -41,8 +42,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "11h" : 13
-"12h" : 69
+"12h" : 91
 ```
 
 
-> **Last Updated:** 17/06/2026, 12:37:15
+> **Last Updated:** 17/06/2026, 12:42:15

@@ -1,0 +1,61 @@
+{
+  "date": "2026-06-22",
+  "projects": {
+    "nxtqube_webapp": {
+      "totalLinesAdded": 992,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/components/path&PointMission/WaypointAction.tsx": [
+          {
+            "timestamp": "2026-06-22T05:37:41.379Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/components/path&PointMission/WaypointAction.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 992,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-06-22T05:37:42.458Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/components/path&PointMission/WaypointAction.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 1
+      },
+      "changeFrequency": {
+        "11": 1
+      },
+      "topFiles": [
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/components/path&PointMission/WaypointAction.tsx"
+      ],
+      "averageChangeSize": 496.5
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    11
+  ],
+  "mostUsedLanguages": [
+    "tsx"
+  ]
+}

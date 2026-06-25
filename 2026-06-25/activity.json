@@ -2,9 +2,9 @@
   "date": "2026-06-25",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 3242,
-      "totalLinesRemoved": 1130,
-      "totalActiveTime": 32,
+      "totalLinesAdded": 3325,
+      "totalLinesRemoved": 1137,
+      "totalActiveTime": 34,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/components/3dMission/orbit/OrbitMissionControl.tsx": [
           {
@@ -464,6 +464,48 @@
             "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/components/3dMission/stack/StackMissionControl.tsx",
             "fileType": ".tsx",
             "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-06-25T13:29:34.170Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/components/3dMission/stack/StackMissionControl.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 74,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-06-25T13:29:37.345Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/components/3dMission/stack/StackMissionControl.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-06-25T13:30:27.129Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/components/3dMission/stack/StackMissionControl.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 9,
             "linesRemoved": 0,
             "projectName": "nxtqube_webapp",
             "content": {

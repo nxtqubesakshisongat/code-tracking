@@ -3,7 +3,7 @@
   "projects": {
     "nxtqube_webapp": {
       "totalLinesAdded": 1020,
-      "totalLinesRemoved": 19,
+      "totalLinesRemoved": 581,
       "totalActiveTime": 5,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Drone/DroneInfo.tsx": [
@@ -121,6 +121,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-07-06T10:04:06.451Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/DockingStation/DockCardItem.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 562,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]

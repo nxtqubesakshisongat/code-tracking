@@ -2,7 +2,7 @@
   "date": "2026-07-06",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 2891,
+      "totalLinesAdded": 3472,
       "totalLinesRemoved": 581,
       "totalActiveTime": 6,
       "files": {
@@ -204,6 +204,38 @@
             "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/create3DMission.tsx",
             "fileType": ".tsx",
             "linesAdded": 1608,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/DockingStation/DockCard.tsx": [
+          {
+            "timestamp": "2026-07-06T12:40:15.741Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/DockingStation/DockCard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 165,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/DockingStation/DockDetailsPanel.tsx": [
+          {
+            "timestamp": "2026-07-06T12:40:15.745Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/DockingStation/DockDetailsPanel.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 416,
             "linesRemoved": 0,
             "projectName": "nxtqube_webapp",
             "content": {

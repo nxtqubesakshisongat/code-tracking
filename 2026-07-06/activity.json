@@ -2,7 +2,7 @@
   "date": "2026-07-06",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 1219,
+      "totalLinesAdded": 1283,
       "totalLinesRemoved": 581,
       "totalActiveTime": 6,
       "files": {
@@ -172,6 +172,22 @@
             "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/sharedComponents/ReusableCard.tsx",
             "fileType": ".tsx",
             "linesAdded": 190,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/DockingStation/DockList.tsx": [
+          {
+            "timestamp": "2026-07-06T11:42:39.282Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/DockingStation/DockList.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 64,
             "linesRemoved": 0,
             "projectName": "nxtqube_webapp",
             "content": {

@@ -4,14 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 206                                          |
+| **Lines Added** (➕)   | 366                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 206                |
+| **Net Change** (↕)    | 366                |
 | **Active Time** (⌚)   | 0 minute |
 
 
 ## Modified Files
 - **DroneInfo.tsx** (+206, -0)
+- **DroneList.tsx** (+160, -0)
 
 ## Visualizations
 
@@ -20,7 +21,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 206
+".tsx" : 366
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -29,7 +30,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "13h" : 1
+"14h" : 1
 ```
 
 
-> **Last Updated:** 06/07/2026, 13:25:22
+> **Last Updated:** 06/07/2026, 14:13:40

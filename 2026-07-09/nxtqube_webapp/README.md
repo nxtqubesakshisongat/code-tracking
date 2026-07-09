@@ -4,25 +4,25 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4214                                          |
-| **Lines Removed** (➖) | 2435                                        |
-| **Net Change** (↕)    | 1779                |
-| **Active Time** (⌚)   | 84 minutes |
+| **Lines Added** (➕)   | 4653                                          |
+| **Lines Removed** (➖) | 3042                                        |
+| **Net Change** (↕)    | 1611                |
+| **Active Time** (⌚)   | 104 minutes |
 
 
 ## Modified Files
-- **DockCardItem.tsx** (+72, -54)
-- **DroneList.tsx** (+815, -612)
-- **create3DMission.tsx** (+92, -69)
-- **DockList.tsx** (+87, -91)
-- **Multicam.tsx** (+730, -979)
-- **DroneInfo.tsx** (+41, -59)
+- **DockCardItem.tsx** (+72, -72)
+- **DroneList.tsx** (+815, -816)
+- **create3DMission.tsx** (+92, -92)
+- **DockList.tsx** (+94, -94)
+- **Multicam.tsx** (+979, -979)
+- **DroneInfo.tsx** (+59, -80)
 - **Drone.tsx** (+32, -0)
 - **SettingsSidebar.tsx** (+310, -37)
-- **users.create.tsx** (+465, -115)
+- **users.create.tsx** (+475, -126)
 - **users.list.tsx** (+468, -98)
-- **DockInfo.tsx** (+180, -45)
-- **ReusableCard.tsx** (+252, -126)
+- **DockInfo.tsx** (+180, -86)
+- **ReusableCard.tsx** (+407, -412)
 - **user.permissions.dialog.tsx** (+407, -109)
 - **change.password.tsx** (+229, -33)
 - **Setting.tsx** (+34, -8)
@@ -34,7 +34,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 6649
+".tsx" : 7695
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -43,8 +43,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "12h" : 38
-"14h" : 50
+"14h" : 70
 ```
 
 
-> **Last Updated:** 09/07/2026, 14:12:22
+> **Last Updated:** 09/07/2026, 14:17:22

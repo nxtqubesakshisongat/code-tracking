@@ -163,6 +163,39 @@
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/DockingStation/DockInfo.tsx"
       ],
       "averageChangeSize": 24
+    },
+    "argos_orchestrator": {
+      "totalLinesAdded": 8,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/sakshi/Desktop/nxtqube/argos_orchestrator/config/user/sitl.yaml": [
+          {
+            "timestamp": "2026-07-10T11:39:57.504Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/argos_orchestrator/config/user/sitl.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "argos_orchestrator",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "yaml"
+          }
+        ]
+      },
+      "languageStats": {
+        "yaml": 0
+      },
+      "changeFrequency": {
+        "17": 0
+      },
+      "topFiles": [
+        "/Users/sakshi/Desktop/nxtqube/argos_orchestrator/config/user/sitl.yaml"
+      ],
+      "averageChangeSize": 8
     }
   },
   "totalActiveTime": 0,

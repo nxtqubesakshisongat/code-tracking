@@ -269,7 +269,7 @@
       "averageChangeSize": 24
     },
     "argos_orchestrator": {
-      "totalLinesAdded": 327,
+      "totalLinesAdded": 350,
       "totalLinesRemoved": 0,
       "totalActiveTime": 1,
       "files": {
@@ -325,6 +325,22 @@
             "fileName": "/Users/sakshi/Desktop/nxtqube/argos_orchestrator/docker-compose.yaml",
             "fileType": ".yaml",
             "linesAdded": 240,
+            "linesRemoved": 0,
+            "projectName": "argos_orchestrator",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "yaml"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/argos_orchestrator/config/user/mqttgateway.yaml": [
+          {
+            "timestamp": "2026-07-10T13:35:53.045Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/argos_orchestrator/config/user/mqttgateway.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 23,
             "linesRemoved": 0,
             "projectName": "argos_orchestrator",
             "content": {

@@ -165,9 +165,9 @@
       "averageChangeSize": 24
     },
     "argos_orchestrator": {
-      "totalLinesAdded": 8,
+      "totalLinesAdded": 87,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 1,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/argos_orchestrator/config/user/sitl.yaml": [
           {
@@ -182,6 +182,36 @@
               "removed": []
             },
             "duration": 0,
+            "language": "yaml"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/argos_orchestrator/config/examples/drone.yaml": [
+          {
+            "timestamp": "2026-07-10T12:26:23.431Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/argos_orchestrator/config/examples/drone.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 73,
+            "linesRemoved": 0,
+            "projectName": "argos_orchestrator",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "yaml"
+          },
+          {
+            "timestamp": "2026-07-10T12:26:40.150Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/argos_orchestrator/config/examples/drone.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "argos_orchestrator",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "yaml"
           }
         ]

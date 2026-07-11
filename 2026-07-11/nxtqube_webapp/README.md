@@ -4,16 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 827                                          |
-| **Lines Removed** (➖) | 6                                        |
-| **Net Change** (↕)    | 821                |
-| **Active Time** (⌚)   | 5 minutes |
+| **Lines Added** (➕)   | 988                                          |
+| **Lines Removed** (➖) | 13                                        |
+| **Net Change** (↕)    | 975                |
+| **Active Time** (⌚)   | 11 minutes |
 
 
 ## Modified Files
 - **SettingsSidebar.tsx** (+233, -0)
 - **LaunchControl.tsx** (+398, -6)
 - **use.data.stream.tsx** (+196, -0)
+- **DetectionFilters.tsx** (+161, -7)
 
 ## Visualizations
 
@@ -22,7 +23,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 833
+".tsx" : 1001
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -31,7 +32,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "11h" : 4
+"13h" : 6
 ```
 
 
-> **Last Updated:** 11/07/2026, 11:57:05
+> **Last Updated:** 11/07/2026, 13:28:30

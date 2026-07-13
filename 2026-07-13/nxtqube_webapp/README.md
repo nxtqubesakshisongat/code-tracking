@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 755                                          |
-| **Lines Removed** (➖) | 3                                        |
-| **Net Change** (↕)    | 752                |
-| **Active Time** (⌚)   | 14 minutes |
+| **Lines Added** (➕)   | 1205                                          |
+| **Lines Removed** (➖) | 47                                        |
+| **Net Change** (↕)    | 1158                |
+| **Active Time** (⌚)   | 17 minutes |
 
 
 ## Modified Files
@@ -15,8 +15,10 @@
 - **DockList.tsx** (+64, -0)
 - **ReusableCard.tsx** (+243, -0)
 - **SearchInput.tsx** (+65, -0)
-- **MissionsLayout.tsx** (+77, -0)
-- **MissionsNav.tsx** (+121, -3)
+- **MissionsLayout.tsx** (+77, -3)
+- **MissionsNav.tsx** (+121, -44)
+- **MissionPages.tsx** (+274, -0)
+- **MissionSelector.tsx** (+176, -0)
 
 ## Visualizations
 
@@ -25,7 +27,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 758
+".tsx" : 1252
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -34,8 +36,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "11h" : 1
-"12h" : 8
+"12h" : 12
 ```
 
 
-> **Last Updated:** 13/07/2026, 12:46:19
+> **Last Updated:** 13/07/2026, 12:51:19

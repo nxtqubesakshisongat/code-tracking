@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4828                                          |
-| **Lines Removed** (➖) | 52                                        |
-| **Net Change** (↕)    | 4776                |
-| **Active Time** (⌚)   | 28 minutes |
+| **Lines Added** (➕)   | 4833                                          |
+| **Lines Removed** (➖) | 69                                        |
+| **Net Change** (↕)    | 4764                |
+| **Active Time** (⌚)   | 36 minutes |
 
 
 ## Modified Files
@@ -21,9 +21,9 @@
 - **MissionSelector.tsx** (+176, -0)
 - **Existing.tsx** (+462, -0)
 - **MissionSlider.tsx** (+128, -0)
-- **LaunchControl.tsx** (+347, -3)
+- **LaunchControl.tsx** (+352, -5)
 - **SortMission.tsx** (+209, -0)
-- **ManageMission.tsx** (+212, -0)
+- **ManageMission.tsx** (+212, -15)
 - **create3DMission.tsx** (+1612, -0)
 - **ExistingMission.tsx** (+647, -0)
 
@@ -34,7 +34,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 4880
+".tsx" : 4902
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -46,8 +46,8 @@ title Coding activity by hour (count of changes)
 "12h" : 14
 "13h" : 7
 "14h" : 1
-"15h" : 1
+"15h" : 5
 ```
 
 
-> **Last Updated:** 13/07/2026, 15:42:19
+> **Last Updated:** 13/07/2026, 15:47:19

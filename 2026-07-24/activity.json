@@ -2,7 +2,7 @@
   "date": "2026-07-24",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 381,
+      "totalLinesAdded": 786,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -28,6 +28,22 @@
             "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/layouts/AppLayout.tsx",
             "fileType": ".tsx",
             "linesAdded": 135,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Drone/drone.details.panel.tsx": [
+          {
+            "timestamp": "2026-07-24T10:48:45.076Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Drone/drone.details.panel.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 405,
             "linesRemoved": 0,
             "projectName": "nxtqube_webapp",
             "content": {

@@ -2,9 +2,9 @@
   "date": "2026-07-24",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 1279,
+      "totalLinesAdded": 2831,
       "totalLinesRemoved": 33,
-      "totalActiveTime": 12,
+      "totalActiveTime": 15,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/sharedComponents/ReusableCard.tsx": [
           {
@@ -165,6 +165,38 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/create.path.mission.tsx": [
+          {
+            "timestamp": "2026-07-24T11:36:38.041Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/create.path.mission.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 920,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/components/path&PointMission/waypoint.action.tsx": [
+          {
+            "timestamp": "2026-07-24T11:39:09.299Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Mission/createMission/components/path&PointMission/waypoint.action.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 632,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "tsx"
           }
         ]

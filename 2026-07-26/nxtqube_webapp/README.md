@@ -4,21 +4,21 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 587                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 587                |
-| **Active Time** (⌚)   | 16 minutes |
+| **Lines Added** (➕)   | 634                                          |
+| **Lines Removed** (➖) | 5                                        |
+| **Net Change** (↕)    | 629                |
+| **Active Time** (⌚)   | 23 minutes |
 
 
 ## Modified Files
 - **MissionControl.tsx** (+105, -0)
 - **RightHalf.tsx** (+182, -0)
 - **ReusableCard.tsx** (+6, -0)
-- **drone.list.tsx** (+165, -0)
-- **dock.card.item.tsx** (+90, -0)
-- **drone.details.panel.tsx** (+8, -0)
-- **dock.details.panel.tsx** (+5, -0)
-- **status.colors.ts** (+26, -0)
+- **drone.list.tsx** (+169, -0)
+- **dock.card.item.tsx** (+94, -0)
+- **drone.details.panel.tsx** (+13, -2)
+- **dock.details.panel.tsx** (+39, -0)
+- **status.colors.ts** (+26, -3)
 
 ## Visualizations
 
@@ -27,8 +27,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 561
-".ts" : 26
+".tsx" : 610
+".ts" : 29
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -37,7 +37,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "15h" : 14
+"16h" : 8
 ```
 
 
-> **Last Updated:** 26/07/2026, 15:50:45
+> **Last Updated:** 26/07/2026, 16:05:45

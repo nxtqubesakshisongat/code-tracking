@@ -2,9 +2,9 @@
   "date": "2026-07-28",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 225,
+      "totalLinesAdded": 479,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 1,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/system/tsconfig.app.json": [
           {
@@ -52,6 +52,36 @@
             },
             "duration": 0,
             "language": "js"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/DockingStation/dock.video.tsx": [
+          {
+            "timestamp": "2026-07-28T07:26:08.511Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/DockingStation/dock.video.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 250,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-07-28T07:26:09.668Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/DockingStation/dock.video.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ]
       },

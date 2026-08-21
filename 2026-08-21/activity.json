@@ -2,9 +2,9 @@
   "date": "2026-08-21",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 1038,
+      "totalLinesAdded": 1340,
       "totalLinesRemoved": 5,
-      "totalActiveTime": 11,
+      "totalActiveTime": 15,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/tests/functional/missions/GridMissionCoverage.todo.test.ts": [
           {
@@ -78,6 +78,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2026-08-21T07:39:29.050Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/tests/functional/missions/MissionControlAndWaypointAction.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
           }
         ],
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/tests/unit/missions/MissionPageUtils.test.ts": [
@@ -93,6 +107,20 @@
               "removed": []
             },
             "duration": 5,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-08-21T07:40:23.468Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/tests/unit/missions/MissionPageUtils.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 43,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ],
@@ -142,6 +170,38 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/tests/functional/missions/MissionCoverage.todo.test.ts": [
+          {
+            "timestamp": "2026-08-21T07:37:22.597Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/tests/functional/missions/MissionCoverage.todo.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 98,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/tests/unit/missions/GridMissionData.test.ts": [
+          {
+            "timestamp": "2026-08-21T07:37:22.598Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/tests/unit/missions/GridMissionData.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 152,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ]
       },

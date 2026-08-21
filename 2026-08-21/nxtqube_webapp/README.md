@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 9518                                          |
-| **Lines Removed** (➖) | 1335                                        |
-| **Net Change** (↕)    | 8183                |
-| **Active Time** (⌚)   | 74 minutes |
+| **Lines Added** (➕)   | 9696                                          |
+| **Lines Removed** (➖) | 1512                                        |
+| **Net Change** (↕)    | 8184                |
+| **Active Time** (⌚)   | 75 minutes |
 
 
 ## Modified Files
@@ -35,6 +35,7 @@
 - **dock.list.tsx** (+339, -196)
 - **dock.video.tsx** (+525, -382)
 - **drone.binding.dialog.tsx** (+423, -289)
+- **drone.unbind.dialog.tsx** (+178, -177)
 
 ## Visualizations
 
@@ -44,7 +45,7 @@
 pie showData
 title Lines changed by file type
 ".ts" : 1672
-".tsx" : 9181
+".tsx" : 9536
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -57,8 +58,8 @@ title Coding activity by hour (count of changes)
 "12h" : 2
 "13h" : 12
 "17h" : 14
-"18h" : 24
+"18h" : 26
 ```
 
 
-> **Last Updated:** 21/08/2026, 18:45:39
+> **Last Updated:** 21/08/2026, 18:58:40

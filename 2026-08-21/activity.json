@@ -2,7 +2,7 @@
   "date": "2026-08-21",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 1931,
+      "totalLinesAdded": 2389,
       "totalLinesRemoved": 57,
       "totalActiveTime": 21,
       "files": {
@@ -33,6 +33,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-08-21T08:15:39.758Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/tests/functional/missions/GridMissionCoverage.todo.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 458,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ],

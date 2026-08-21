@@ -2,7 +2,7 @@
   "date": "2026-08-21",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 2982,
+      "totalLinesAdded": 3572,
       "totalLinesRemoved": 57,
       "totalActiveTime": 26,
       "files": {
@@ -306,6 +306,22 @@
             },
             "duration": 2,
             "language": "ts"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/tests/functional/missions/ThreeDMissionCoverage.todo.test.tsx": [
+          {
+            "timestamp": "2026-08-21T08:25:43.439Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/tests/functional/missions/ThreeDMissionCoverage.todo.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 590,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ]
       },

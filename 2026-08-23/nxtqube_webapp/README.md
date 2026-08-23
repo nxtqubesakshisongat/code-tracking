@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 49038                                          |
-| **Lines Removed** (➖) | 13623                                        |
-| **Net Change** (↕)    | 35415                |
-| **Active Time** (⌚)   | 415 minutes |
+| **Lines Added** (➕)   | 50836                                          |
+| **Lines Removed** (➖) | 13833                                        |
+| **Net Change** (↕)    | 37003                |
+| **Active Time** (⌚)   | 470 minutes |
 
 
 ## Modified Files
@@ -21,7 +21,7 @@
 - **create.mission.home.tsx** (+351, -179)
 - **create.path.mission.tsx** (+944, -23)
 - **orbit.mission.control.tsx** (+971, -521)
-- **stack.mission.control.tsx** (+1445, -763)
+- **stack.mission.control.tsx** (+2148, -783)
 - **mission.controls.tsx** (+817, -416)
 - **mission.info.tsx** (+624, -70)
 - **waypoint.action.tsx** (+1317, -682)
@@ -69,14 +69,14 @@
 - **page.loading.tsx** (+155, -140)
 - **welcome.page.tsx** (+176, -128)
 - **annotation.list.tsx** (+1284, -3)
-- **dock.details.panel.tsx** (+669, -73)
+- **dock.details.panel.tsx** (+1390, -182)
 - **video.stream.tsx** (+153, -19)
 - **video.stream.tsx** (+84, -9)
 - **source.details.modal.tsx** (+330, -31)
 - **webhook.trigger.action.modal.tsx** (+814, -531)
-- **create.flow.tsx** (+1364, -462)
-- **create.mission.flow.tsx** (+3162, -1060)
-- **flow.details.tsx** (+2193, -1117)
+- **create.flow.tsx** (+1366, -465)
+- **create.mission.flow.tsx** (+3176, -1087)
+- **flow.details.tsx** (+2195, -1120)
 - **action.section.tsx** (+361, -217)
 - **select.dialog.tsx** (+402, -239)
 - **geofence.card.tsx** (+256, -37)
@@ -100,7 +100,7 @@
 - **reusable.card.tsx** (+311, -40)
 - **site.list.tsx** (+415, -5)
 - **site.update.tsx** (+397, -4)
-- **dock.list.tsx** (+1, -0)
+- **dock.list.tsx** (+26, -18)
 - **flink.tsx** (+604, -4)
 - **flows.tsx** (+830, -23)
 - **mission.logs.tsx** (+634, -62)
@@ -110,8 +110,10 @@
 - **position.data.slice.ts** (+35, -9)
 - **slider.theme.ts** (+95, -58)
 - **data.stream.handler.ts** (+224, -16)
-- **create.flow.model.tsx** (+252, -126)
+- **create.flow.model.tsx** (+254, -129)
 - **settings.sidebar.tsx** (+462, -164)
+- **dock.card.item.tsx** (+126, -20)
+- **dock.card.tsx** (+203, -7)
 
 ## Visualizations
 
@@ -120,7 +122,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 54573
+".tsx" : 56581
 ".ts" : 7925
 ".css" : 163
 ```
@@ -136,8 +138,8 @@ title Coding activity by hour (count of changes)
 "14h" : 43
 "15h" : 73
 "16h" : 152
-"17h" : 31
+"17h" : 72
 ```
 
 
-> **Last Updated:** 23/08/2026, 17:05:15
+> **Last Updated:** 23/08/2026, 17:10:15

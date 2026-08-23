@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 26796                                          |
-| **Lines Removed** (➖) | 7300                                        |
-| **Net Change** (↕)    | 19496                |
-| **Active Time** (⌚)   | 220 minutes |
+| **Lines Added** (➕)   | 29136                                          |
+| **Lines Removed** (➖) | 7845                                        |
+| **Net Change** (↕)    | 21291                |
+| **Active Time** (⌚)   | 235 minutes |
 
 
 ## Modified Files
@@ -72,7 +72,10 @@
 - **dock.details.panel.tsx** (+669, -73)
 - **video.stream.tsx** (+153, -19)
 - **video.stream.tsx** (+84, -9)
-- **source.details.modal.tsx** (+314, -31)
+- **source.details.modal.tsx** (+330, -31)
+- **webhook.trigger.action.modal.tsx** (+814, -531)
+- **create.flow.tsx** (+462, -11)
+- **create.mission.flow.tsx** (+1048, -3)
 
 ## Visualizations
 
@@ -81,7 +84,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 26445
+".tsx" : 29330
 ".ts" : 7488
 ".css" : 163
 ```
@@ -96,7 +99,8 @@ title Coding activity by hour (count of changes)
 "13h" : 8
 "14h" : 43
 "15h" : 73
+"16h" : 9
 ```
 
 
-> **Last Updated:** 23/08/2026, 16:01:47
+> **Last Updated:** 23/08/2026, 16:06:47

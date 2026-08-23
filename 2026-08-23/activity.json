@@ -2,9 +2,9 @@
   "date": "2026-08-23",
   "projects": {
     "nxtqube_webapp": {
-      "totalLinesAdded": 17960,
-      "totalLinesRemoved": 4900,
-      "totalActiveTime": 137,
+      "totalLinesAdded": 18222,
+      "totalLinesRemoved": 4913,
+      "totalActiveTime": 139,
       "files": {
         "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/DockingStation/icons/latitude.icon.tsx": [
           {
@@ -1859,6 +1859,50 @@
             "fileType": ".ts",
             "linesAdded": 0,
             "linesRemoved": 26,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-08-23T09:30:40.720Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/app.ts",
+            "fileType": ".ts",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/config/env.config.ts": [
+          {
+            "timestamp": "2026-08-23T09:30:44.979Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/config/env.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 240,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-08-23T09:30:45.989Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/backend/src/config/env.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 13,
             "projectName": "nxtqube_webapp",
             "content": {
               "added": [],

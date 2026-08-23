@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 33015                                          |
-| **Lines Removed** (➖) | 9497                                        |
-| **Net Change** (↕)    | 23518                |
-| **Active Time** (⌚)   | 276 minutes |
+| **Lines Added** (➕)   | 39542                                          |
+| **Lines Removed** (➖) | 10395                                        |
+| **Net Change** (↕)    | 29147                |
+| **Active Time** (⌚)   | 333 minutes |
 
 
 ## Modified Files
@@ -39,8 +39,8 @@
 - **micro.phone.tsx** (+181, -7)
 - **right.controls.tsx** (+130, -24)
 - **speed.info.tsx** (+139, -4)
-- **app.layout.tsx** (+123, -7)
-- **docking.station.tsx** (+355, -185)
+- **app.layout.tsx** (+147, -31)
+- **docking.station.tsx** (+406, -236)
 - **geofence.alt.tsx** (+126, -74)
 - **multicam.tsx** (+1148, -232)
 - **mission.pages.tsx** (+309, -25)
@@ -48,9 +48,9 @@
 - **missions.layout.tsx** (+148, -97)
 - **missions.nav.tsx** (+104, -58)
 - **mission.data.handler.ts** (+212, -4)
-- **top.nav.tsx** (+221, -14)
+- **top.nav.tsx** (+241, -34)
 - **fetch.safe.location.tsx** (+34, -4)
-- **analytics.tsx** (+1166, -266)
+- **analytics.tsx** (+1271, -371)
 - **Flowlogs.tsx** (+264, -4)
 - **app.ts** (+110, -26)
 - **env.config.ts** (+249, -13)
@@ -85,6 +85,21 @@
 - **emergency.switches.tsx** (+464, -334)
 - **video.stream.container.tsx** (+117, -70)
 - **detailed.log.tsx** (+464, -3)
+- **overlay.sidebar.tsx** (+600, -5)
+- **prompt.manager.tsx** (+599, -5)
+- **schedule.form.tsx** (+1823, -8)
+- **data.management.tsx** (+246, -10)
+- **home.location.tsx** (+211, -11)
+- **rally.points.tsx** (+224, -4)
+- **safe.location.tsx** (+242, -11)
+- **controller.tab.tsx** (+296, -201)
+- **gamepad.tab.tsx** (+284, -195)
+- **page.tsx** (+161, -5)
+- **manage.site.dialog.tsx** (+212, -4)
+- **pagination.ui.tsx** (+324, -207)
+- **reusable.card.tsx** (+293, -23)
+- **site.list.tsx** (+415, -5)
+- **site.update.tsx** (+397, -4)
 
 ## Visualizations
 
@@ -93,7 +108,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 34861
+".tsx" : 42286
 ".ts" : 7488
 ".css" : 163
 ```
@@ -108,8 +123,8 @@ title Coding activity by hour (count of changes)
 "13h" : 8
 "14h" : 43
 "15h" : 73
-"16h" : 51
+"16h" : 107
 ```
 
 
-> **Last Updated:** 23/08/2026, 16:31:47
+> **Last Updated:** 23/08/2026, 16:36:47

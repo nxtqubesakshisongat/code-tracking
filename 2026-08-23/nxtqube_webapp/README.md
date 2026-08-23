@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 12377                                          |
-| **Lines Removed** (➖) | 3712                                        |
-| **Net Change** (↕)    | 8665                |
-| **Active Time** (⌚)   | 72 minutes |
+| **Lines Added** (➕)   | 13072                                          |
+| **Lines Removed** (➖) | 3751                                        |
+| **Net Change** (↕)    | 9321                |
+| **Active Time** (⌚)   | 84 minutes |
 
 
 ## Modified Files
@@ -33,7 +33,10 @@
 - **sort.mission.tsx** (+656, -428)
 - **left.half.tsx** (+222, -6)
 - **middle.controls.tsx** (+95, -16)
-- **detection.filters.tsx** (+146, -0)
+- **detection.filters.tsx** (+146, -6)
+- **dock.options.tsx** (+97, -10)
+- **manual.controls.tsx** (+417, -16)
+- **micro.phone.tsx** (+181, -7)
 
 ## Visualizations
 
@@ -42,7 +45,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 16089
+".tsx" : 16823
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -51,8 +54,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "11h" : 9
-"12h" : 54
+"12h" : 63
 ```
 
 
-> **Last Updated:** 23/08/2026, 12:47:07
+> **Last Updated:** 23/08/2026, 12:52:07

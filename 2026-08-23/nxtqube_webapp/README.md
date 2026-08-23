@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 29136                                          |
-| **Lines Removed** (➖) | 7845                                        |
-| **Net Change** (↕)    | 21291                |
-| **Active Time** (⌚)   | 235 minutes |
+| **Lines Added** (➕)   | 30471                                          |
+| **Lines Removed** (➖) | 8641                                        |
+| **Net Change** (↕)    | 21830                |
+| **Active Time** (⌚)   | 239 minutes |
 
 
 ## Modified Files
@@ -76,6 +76,8 @@
 - **webhook.trigger.action.modal.tsx** (+814, -531)
 - **create.flow.tsx** (+462, -11)
 - **create.mission.flow.tsx** (+1048, -3)
+- **flow.details.tsx** (+1117, -579)
+- **action.section.tsx** (+218, -217)
 
 ## Visualizations
 
@@ -84,7 +86,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 29330
+".tsx" : 31461
 ".ts" : 7488
 ".css" : 163
 ```
@@ -99,8 +101,8 @@ title Coding activity by hour (count of changes)
 "13h" : 8
 "14h" : 43
 "15h" : 73
-"16h" : 9
+"16h" : 14
 ```
 
 
-> **Last Updated:** 23/08/2026, 16:06:47
+> **Last Updated:** 23/08/2026, 16:11:47

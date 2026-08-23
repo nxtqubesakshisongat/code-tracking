@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 22883                                          |
-| **Lines Removed** (➖) | 6808                                        |
-| **Net Change** (↕)    | 16075                |
-| **Active Time** (⌚)   | 165 minutes |
+| **Lines Added** (➕)   | 23906                                          |
+| **Lines Removed** (➖) | 6837                                        |
+| **Net Change** (↕)    | 17069                |
+| **Active Time** (⌚)   | 174 minutes |
 
 
 ## Modified Files
@@ -20,7 +20,7 @@
 - **create.grid.mission.tsx** (+510, -30)
 - **create.mission.home.tsx** (+351, -179)
 - **create.path.mission.tsx** (+944, -23)
-- **orbit.mission.control.tsx** (+952, -494)
+- **orbit.mission.control.tsx** (+956, -494)
 - **stack.mission.control.tsx** (+1431, -749)
 - **mission.controls.tsx** (+817, -416)
 - **mission.info.tsx** (+624, -70)
@@ -41,8 +41,8 @@
 - **speed.info.tsx** (+139, -4)
 - **app.layout.tsx** (+123, -7)
 - **docking.station.tsx** (+355, -185)
-- **geofence.alt.tsx** (+110, -58)
-- **multicam.tsx** (+1140, -232)
+- **geofence.alt.tsx** (+118, -58)
+- **multicam.tsx** (+1144, -232)
 - **mission.pages.tsx** (+309, -25)
 - **mission.selector.tsx** (+280, -76)
 - **missions.layout.tsx** (+148, -97)
@@ -62,7 +62,9 @@
 - **state.machine.ts** (+137, -78)
 - **dock.stream.handler.ts** (+190, -20)
 - **drone.stream.handler.ts** (+218, -19)
-- **flight-stream.template.ts** (+341, -340)
+- **flight-stream.template.ts** (+668, -340)
+- **index.css** (+152, -11)
+- **router.tsx** (+528, -18)
 
 ## Visualizations
 
@@ -71,8 +73,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 22530
-".ts" : 7161
+".tsx" : 23092
+".ts" : 7488
+".css" : 163
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -84,8 +87,8 @@ title Coding activity by hour (count of changes)
 "12h" : 67
 "13h" : 8
 "14h" : 43
-"15h" : 30
+"15h" : 39
 ```
 
 
-> **Last Updated:** 23/08/2026, 15:31:47
+> **Last Updated:** 23/08/2026, 15:46:47

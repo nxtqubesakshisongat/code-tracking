@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 24220                                          |
-| **Lines Removed** (➖) | 7140                                        |
-| **Net Change** (↕)    | 17080                |
-| **Active Time** (⌚)   | 195 minutes |
+| **Lines Added** (➕)   | 26796                                          |
+| **Lines Removed** (➖) | 7300                                        |
+| **Net Change** (↕)    | 19496                |
+| **Active Time** (⌚)   | 220 minutes |
 
 
 ## Modified Files
-- **latitude.icon.tsx** (+39, -0)
+- **latitude.icon.tsx** (+43, -4)
 - **drone.unbind.dialog.tsx** (+107, -0)
-- **longitude.icon.tsx** (+60, -40)
-- **drone.info.tsx** (+744, -421)
+- **longitude.icon.tsx** (+64, -44)
+- **drone.info.tsx** (+761, -438)
 - **drone.skeleton.tsx** (+68, -44)
 - **create.3d.mission.tsx** (+1662, -29)
 - **create.grid.mission.tsx** (+510, -30)
@@ -67,7 +67,12 @@
 - **router.tsx** (+546, -36)
 - **users.create.tsx** (+0, -1)
 - **page.loading.tsx** (+155, -140)
-- **welcome.page.tsx** (+129, -128)
+- **welcome.page.tsx** (+176, -128)
+- **annotation.list.tsx** (+1284, -3)
+- **dock.details.panel.tsx** (+669, -73)
+- **video.stream.tsx** (+153, -19)
+- **video.stream.tsx** (+84, -9)
+- **source.details.modal.tsx** (+314, -31)
 
 ## Visualizations
 
@@ -76,7 +81,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 23709
+".tsx" : 26445
 ".ts" : 7488
 ".css" : 163
 ```
@@ -90,8 +95,8 @@ title Coding activity by hour (count of changes)
 "12h" : 67
 "13h" : 8
 "14h" : 43
-"15h" : 52
+"15h" : 73
 ```
 
 
-> **Last Updated:** 23/08/2026, 15:56:47
+> **Last Updated:** 23/08/2026, 16:01:47

@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 39547                                          |
-| **Lines Removed** (➖) | 10403                                        |
-| **Net Change** (↕)    | 29144                |
-| **Active Time** (⌚)   | 336 minutes |
+| **Lines Added** (➕)   | 44232                                          |
+| **Lines Removed** (➖) | 11279                                        |
+| **Net Change** (↕)    | 32953                |
+| **Active Time** (⌚)   | 376 minutes |
 
 
 ## Modified Files
@@ -42,16 +42,16 @@
 - **app.layout.tsx** (+147, -31)
 - **docking.station.tsx** (+406, -236)
 - **geofence.alt.tsx** (+126, -74)
-- **multicam.tsx** (+1152, -240)
-- **mission.pages.tsx** (+309, -25)
-- **mission.selector.tsx** (+280, -76)
-- **missions.layout.tsx** (+148, -97)
+- **multicam.tsx** (+1156, -248)
+- **mission.pages.tsx** (+317, -33)
+- **mission.selector.tsx** (+284, -80)
+- **missions.layout.tsx** (+162, -111)
 - **missions.nav.tsx** (+104, -58)
 - **mission.data.handler.ts** (+212, -4)
 - **top.nav.tsx** (+241, -34)
 - **fetch.safe.location.tsx** (+34, -4)
 - **analytics.tsx** (+1271, -371)
-- **Flowlogs.tsx** (+264, -4)
+- **Flowlogs.tsx** (+898, -638)
 - **app.ts** (+110, -26)
 - **env.config.ts** (+249, -13)
 - **trigger.controller.ts** (+1052, -5)
@@ -97,10 +97,19 @@
 - **page.tsx** (+161, -5)
 - **manage.site.dialog.tsx** (+212, -4)
 - **pagination.ui.tsx** (+324, -207)
-- **reusable.card.tsx** (+293, -23)
+- **reusable.card.tsx** (+311, -40)
 - **site.list.tsx** (+415, -5)
 - **site.update.tsx** (+397, -4)
 - **dock.list.tsx** (+1, -0)
+- **flink.tsx** (+604, -4)
+- **flows.tsx** (+830, -23)
+- **mission.logs.tsx** (+634, -62)
+- **overlay.tsx** (+67, -9)
+- **mission.tsx** (+1271, -4)
+- **page.tsx** (+243, -6)
+- **position.data.slice.ts** (+35, -9)
+- **slider.theme.ts** (+95, -58)
+- **data.stream.handler.ts** (+224, -16)
 
 ## Visualizations
 
@@ -109,8 +118,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 42299
-".ts" : 7488
+".tsx" : 47423
+".ts" : 7925
 ".css" : 163
 ```
 
@@ -124,7 +133,7 @@ title Coding activity by hour (count of changes)
 "13h" : 8
 "14h" : 43
 "15h" : 73
-"16h" : 110
+"16h" : 151
 ```
 
 

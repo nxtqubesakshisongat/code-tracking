@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 30471                                          |
-| **Lines Removed** (➖) | 8641                                        |
-| **Net Change** (↕)    | 21830                |
-| **Active Time** (⌚)   | 239 minutes |
+| **Lines Added** (➕)   | 32305                                          |
+| **Lines Removed** (➖) | 9424                                        |
+| **Net Change** (↕)    | 22881                |
+| **Active Time** (⌚)   | 270 minutes |
 
 
 ## Modified Files
@@ -16,19 +16,19 @@
 - **longitude.icon.tsx** (+64, -44)
 - **drone.info.tsx** (+761, -438)
 - **drone.skeleton.tsx** (+68, -44)
-- **create.3d.mission.tsx** (+1662, -29)
-- **create.grid.mission.tsx** (+510, -30)
+- **create.3d.mission.tsx** (+1702, -69)
+- **create.grid.mission.tsx** (+514, -34)
 - **create.mission.home.tsx** (+351, -179)
 - **create.path.mission.tsx** (+944, -23)
-- **orbit.mission.control.tsx** (+956, -494)
-- **stack.mission.control.tsx** (+1431, -749)
+- **orbit.mission.control.tsx** (+971, -513)
+- **stack.mission.control.tsx** (+1445, -763)
 - **mission.controls.tsx** (+817, -416)
 - **mission.info.tsx** (+624, -70)
 - **waypoint.action.tsx** (+1317, -682)
 - **delete.mission.tsx** (+72, -6)
 - **mission.slider.tsx** (+132, -4)
-- **existing.mission.tsx** (+649, -6)
-- **existing.tsx** (+604, -91)
+- **existing.mission.tsx** (+654, -11)
+- **existing.tsx** (+678, -165)
 - **manage.mission.tsx** (+240, -43)
 - **sort.mission.tsx** (+656, -428)
 - **left.half.tsx** (+222, -6)
@@ -77,7 +77,12 @@
 - **create.flow.tsx** (+462, -11)
 - **create.mission.flow.tsx** (+1048, -3)
 - **flow.details.tsx** (+1117, -579)
-- **action.section.tsx** (+218, -217)
+- **action.section.tsx** (+361, -217)
+- **select.dialog.tsx** (+402, -239)
+- **geofence.card.tsx** (+256, -37)
+- **geogence.list.tsx** (+317, -13)
+- **right.half.tsx** (+229, -4)
+- **emergency.switches.tsx** (+335, -334)
 
 ## Visualizations
 
@@ -86,7 +91,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 31461
+".tsx" : 34078
 ".ts" : 7488
 ".css" : 163
 ```
@@ -101,8 +106,8 @@ title Coding activity by hour (count of changes)
 "13h" : 8
 "14h" : 43
 "15h" : 73
-"16h" : 14
+"16h" : 44
 ```
 
 
-> **Last Updated:** 23/08/2026, 16:11:47
+> **Last Updated:** 23/08/2026, 16:16:47

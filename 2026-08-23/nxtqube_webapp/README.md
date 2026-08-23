@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 15806                                          |
-| **Lines Removed** (➖) | 4459                                        |
-| **Net Change** (↕)    | 11347                |
-| **Active Time** (⌚)   | 113 minutes |
+| **Lines Added** (➕)   | 17960                                          |
+| **Lines Removed** (➖) | 4900                                        |
+| **Net Change** (↕)    | 13060                |
+| **Active Time** (⌚)   | 137 minutes |
 
 
 ## Modified Files
@@ -19,7 +19,7 @@
 - **create.3d.mission.tsx** (+1662, -29)
 - **create.grid.mission.tsx** (+510, -30)
 - **create.mission.home.tsx** (+351, -179)
-- **create.path.mission.tsx** (+936, -15)
+- **create.path.mission.tsx** (+944, -23)
 - **orbit.mission.control.tsx** (+952, -494)
 - **stack.mission.control.tsx** (+1431, -749)
 - **mission.controls.tsx** (+817, -416)
@@ -28,7 +28,7 @@
 - **delete.mission.tsx** (+72, -6)
 - **mission.slider.tsx** (+132, -4)
 - **existing.mission.tsx** (+649, -6)
-- **existing.tsx** (+547, -34)
+- **existing.tsx** (+604, -91)
 - **manage.mission.tsx** (+240, -43)
 - **sort.mission.tsx** (+656, -428)
 - **left.half.tsx** (+222, -6)
@@ -46,6 +46,13 @@
 - **mission.pages.tsx** (+309, -25)
 - **mission.selector.tsx** (+280, -76)
 - **missions.layout.tsx** (+148, -97)
+- **missions.nav.tsx** (+104, -58)
+- **mission.data.handler.ts** (+212, -4)
+- **top.nav.tsx** (+221, -14)
+- **fetch.safe.location.tsx** (+34, -4)
+- **analytics.tsx** (+1166, -266)
+- **Flowlogs.tsx** (+264, -4)
+- **app.ts** (+88, -26)
 
 ## Visualizations
 
@@ -54,7 +61,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 20265
+".tsx" : 22530
+".ts" : 330
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -65,8 +73,8 @@ title Coding activity by hour (count of changes)
 "11h" : 9
 "12h" : 67
 "13h" : 8
-"14h" : 19
+"14h" : 43
 ```
 
 
-> **Last Updated:** 23/08/2026, 14:33:20
+> **Last Updated:** 23/08/2026, 14:38:20

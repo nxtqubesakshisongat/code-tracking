@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 44232                                          |
-| **Lines Removed** (➖) | 11287                                        |
-| **Net Change** (↕)    | 32945                |
-| **Active Time** (⌚)   | 377 minutes |
+| **Lines Added** (➕)   | 49038                                          |
+| **Lines Removed** (➖) | 13623                                        |
+| **Net Change** (↕)    | 35415                |
+| **Active Time** (⌚)   | 415 minutes |
 
 
 ## Modified Files
@@ -74,9 +74,9 @@
 - **video.stream.tsx** (+84, -9)
 - **source.details.modal.tsx** (+330, -31)
 - **webhook.trigger.action.modal.tsx** (+814, -531)
-- **create.flow.tsx** (+462, -11)
-- **create.mission.flow.tsx** (+1048, -3)
-- **flow.details.tsx** (+1117, -579)
+- **create.flow.tsx** (+1364, -462)
+- **create.mission.flow.tsx** (+3162, -1060)
+- **flow.details.tsx** (+2193, -1117)
 - **action.section.tsx** (+361, -217)
 - **select.dialog.tsx** (+402, -239)
 - **geofence.card.tsx** (+256, -37)
@@ -110,6 +110,8 @@
 - **position.data.slice.ts** (+35, -9)
 - **slider.theme.ts** (+95, -58)
 - **data.stream.handler.ts** (+224, -16)
+- **create.flow.model.tsx** (+252, -126)
+- **settings.sidebar.tsx** (+462, -164)
 
 ## Visualizations
 
@@ -118,7 +120,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 47431
+".tsx" : 54573
 ".ts" : 7925
 ".css" : 163
 ```
@@ -134,7 +136,8 @@ title Coding activity by hour (count of changes)
 "14h" : 43
 "15h" : 73
 "16h" : 152
+"17h" : 31
 ```
 
 
-> **Last Updated:** 23/08/2026, 17:00:15
+> **Last Updated:** 23/08/2026, 17:05:15

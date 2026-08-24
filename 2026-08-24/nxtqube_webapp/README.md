@@ -4,23 +4,23 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3775                                          |
-| **Lines Removed** (➖) | 70                                        |
-| **Net Change** (↕)    | 3705                |
-| **Active Time** (⌚)   | 49 minutes |
+| **Lines Added** (➕)   | 3783                                          |
+| **Lines Removed** (➖) | 79                                        |
+| **Net Change** (↕)    | 3704                |
+| **Active Time** (⌚)   | 54 minutes |
 
 
 ## Modified Files
 - **create.flow.model.tsx** (+127, -2)
 - **drone.tsx** (+91, -0)
-- **dock.details.panel.tsx** (+619, -7)
+- **dock.details.panel.tsx** (+627, -15)
 - **dock.list.tsx** (+157, -6)
 - **dock.filter.popover.tsx** (+162, -0)
 - **dock.card.tsx** (+196, -0)
 - **compass.tsx** (+87, -0)
 - **map.controls.tsx** (+73, -35)
 - **left.half.tsx** (+235, -19)
-- **map.controls.tsx** (+68, -1)
+- **map.controls.tsx** (+68, -2)
 - **users.create.tsx** (+344, -0)
 - **forgot.password.tsx** (+131, -0)
 - **mission.tsx** (+1269, -0)
@@ -33,7 +33,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 3845
+".tsx" : 3862
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -42,8 +42,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "11h" : 14
-"12h" : 31
+"12h" : 34
 ```
 
 
-> **Last Updated:** 24/08/2026, 12:30:47
+> **Last Updated:** 24/08/2026, 12:35:47

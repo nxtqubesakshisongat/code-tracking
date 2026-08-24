@@ -1,0 +1,47 @@
+{
+  "date": "2026-08-24",
+  "projects": {
+    "nxtqube_webapp": {
+      "totalLinesAdded": 126,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Flow/create.flow.model.tsx": [
+          {
+            "timestamp": "2026-08-24T06:10:07.180Z",
+            "fileName": "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Flow/create.flow.model.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 126,
+            "linesRemoved": 0,
+            "projectName": "nxtqube_webapp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 0
+      },
+      "changeFrequency": {
+        "11": 0
+      },
+      "topFiles": [
+        "/Users/sakshi/Desktop/nxtqube/Argos/nxtqube_webapp/frontend/src/components/Flow/create.flow.model.tsx"
+      ],
+      "averageChangeSize": 126
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    11
+  ],
+  "mostUsedLanguages": [
+    "tsx"
+  ]
+}

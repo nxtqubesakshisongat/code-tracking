@@ -5,8 +5,8 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 6336                                          |
-| **Lines Removed** (➖) | 1923                                        |
-| **Net Change** (↕)    | 4413                |
+| **Lines Removed** (➖) | 1925                                        |
+| **Net Change** (↕)    | 4411                |
 | **Active Time** (⌚)   | 81 minutes |
 
 
@@ -15,7 +15,7 @@
 - **drone.tsx** (+91, -0)
 - **dock.details.panel.tsx** (+2550, -1859)
 - **dock.list.tsx** (+157, -6)
-- **dock.filter.popover.tsx** (+162, -0)
+- **dock.filter.popover.tsx** (+162, -2)
 - **dock.card.tsx** (+196, -0)
 - **compass.tsx** (+87, -0)
 - **map.controls.tsx** (+73, -35)
@@ -34,7 +34,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 7629
+".tsx" : 7631
 ".ts" : 630
 ```
 
@@ -48,7 +48,8 @@ title Coding activity by hour (count of changes)
 "13h" : 7
 "15h" : 2
 "16h" : 4
+"17h" : 1
 ```
 
 
-> **Last Updated:** 24/08/2026, 17:01:54
+> **Last Updated:** 24/08/2026, 17:39:44

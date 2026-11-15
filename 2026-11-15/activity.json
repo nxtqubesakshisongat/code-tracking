@@ -2,9 +2,9 @@
   "date": "2026-11-15",
   "projects": {
     "nashik-misal-queue": {
-      "totalLinesAdded": 35,
+      "totalLinesAdded": 201,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 2,
       "files": {
         "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/backend/src/router/index.js": [
           {
@@ -20,6 +20,52 @@
             },
             "duration": 0,
             "language": "js"
+          }
+        ],
+        "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/backend/src/shared/middleware/image-upload.js": [
+          {
+            "timestamp": "2026-11-15T14:11:32.246Z",
+            "fileName": "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/backend/src/shared/middleware/image-upload.js",
+            "fileType": ".js",
+            "linesAdded": 124,
+            "linesRemoved": 0,
+            "projectName": "nashik-misal-queue",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ],
+        "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/backend/.env": [
+          {
+            "timestamp": "2026-11-15T14:12:25.815Z",
+            "fileName": "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/backend/.env",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nashik-misal-queue",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2026-11-15T14:12:26.883Z",
+            "fileName": "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/backend/.env",
+            "fileType": "unknown",
+            "linesAdded": 41,
+            "linesRemoved": 0,
+            "projectName": "nashik-misal-queue",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
           }
         ]
       },

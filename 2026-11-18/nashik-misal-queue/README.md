@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 7898                                          |
-| **Lines Removed** (➖) | 1914                                        |
-| **Net Change** (↕)    | 5984                |
-| **Active Time** (⌚)   | 58 minutes |
+| **Lines Added** (➕)   | 8689                                          |
+| **Lines Removed** (➖) | 1915                                        |
+| **Net Change** (↕)    | 6774                |
+| **Active Time** (⌚)   | 69 minutes |
 
 
 ## Modified Files
 - **settings.json** (+82, -0)
 - **CheckToken.jsx** (+459, -229)
 - **ConfirmDetails.jsx** (+929, -432)
-- **FinalCall.jsx** (+414, -5)
+- **FinalCall.jsx** (+415, -6)
 - **OwnerDashboard.jsx** (+2192, -1234)
 - **HomeScreen.jsx** (+583, -10)
 - **CustomerArrived.jsx** (+391, -4)
@@ -44,6 +44,12 @@
 - **QueueSection.jsx** (+107, -0)
 - **StaffHeader.jsx** (+42, -0)
 - **StaffSidebar.jsx** (+43, -0)
+- **WaitingTokenCard.jsx** (+25, -0)
+- **StaffDashboard.jsx** (+530, -0)
+- **auth.store.js** (+165, -0)
+- **token.store.js** (+36, -0)
+- **DataFormat.js** (+19, -0)
+- **timeUtils.js** (+15, -0)
 
 ## Visualizations
 
@@ -53,8 +59,8 @@
 pie showData
 title Lines changed by file type
 ".json" : 82
-".jsx" : 9381
-".js" : 349
+".jsx" : 9938
+".js" : 584
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -63,8 +69,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "15h" : 1
-"16h" : 52
+"16h" : 60
 ```
 
 
-> **Last Updated:** 18/11/2026, 16:22:13
+> **Last Updated:** 18/11/2026, 16:27:13

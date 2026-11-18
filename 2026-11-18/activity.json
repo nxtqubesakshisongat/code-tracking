@@ -2,9 +2,9 @@
   "date": "2026-11-18",
   "projects": {
     "nashik-misal-queue": {
-      "totalLinesAdded": 5677,
+      "totalLinesAdded": 7898,
       "totalLinesRemoved": 1914,
-      "totalActiveTime": 34,
+      "totalActiveTime": 58,
       "files": {
         "/Users/sakshi/Library/Application Support/Cursor/User/settings.json": [
           {
@@ -420,6 +420,390 @@
             "fileName": "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/src/App.jsx",
             "fileType": ".jsx",
             "linesAdded": 113,
+            "linesRemoved": 0,
+            "projectName": "nashik-misal-queue",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/src/main.jsx": [
+          {
+            "timestamp": "2026-11-18T10:47:16.836Z",
+            "fileName": "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/src/main.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "nashik-misal-queue",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/src/api/advertisements.api.js": [
+          {
+            "timestamp": "2026-11-18T10:47:28.466Z",
+            "fileName": "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/src/api/advertisements.api.js",
+            "fileType": ".js",
+            "linesAdded": 158,
+            "linesRemoved": 0,
+            "projectName": "nashik-misal-queue",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/src/api/auth.api.js": [
+          {
+            "timestamp": "2026-11-18T10:47:36.363Z",
+            "fileName": "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/src/api/auth.api.js",
+            "fileType": ".js",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "nashik-misal-queue",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/src/api/axios.js": [
+          {
+            "timestamp": "2026-11-18T10:47:45.623Z",
+            "fileName": "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/src/api/axios.js",
+            "fileType": ".js",
+            "linesAdded": 55,
+            "linesRemoved": 0,
+            "projectName": "nashik-misal-queue",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/src/api/menu.api.js": [
+          {
+            "timestamp": "2026-11-18T10:47:55.150Z",
+            "fileName": "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/src/api/menu.api.js",
+            "fileType": ".js",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "nashik-misal-queue",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/src/api/shop.api.js": [
+          {
+            "timestamp": "2026-11-18T10:48:01.228Z",
+            "fileName": "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/src/api/shop.api.js",
+            "fileType": ".js",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "nashik-misal-queue",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/src/api/staff.api.js": [
+          {
+            "timestamp": "2026-11-18T10:48:04.803Z",
+            "fileName": "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/src/api/staff.api.js",
+            "fileType": ".js",
+            "linesAdded": 31,
+            "linesRemoved": 0,
+            "projectName": "nashik-misal-queue",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/src/api/token.api.js": [
+          {
+            "timestamp": "2026-11-18T10:48:15.204Z",
+            "fileName": "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/src/api/token.api.js",
+            "fileType": ".js",
+            "linesAdded": 33,
+            "linesRemoved": 0,
+            "projectName": "nashik-misal-queue",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/src/assets/assets.jsx": [
+          {
+            "timestamp": "2026-11-18T10:49:01.407Z",
+            "fileName": "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/src/assets/assets.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 338,
+            "linesRemoved": 0,
+            "projectName": "nashik-misal-queue",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/src/components/AdvertisementCard.jsx": [
+          {
+            "timestamp": "2026-11-18T10:49:10.977Z",
+            "fileName": "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/src/components/AdvertisementCard.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 256,
+            "linesRemoved": 0,
+            "projectName": "nashik-misal-queue",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/src/components/AdvertisementCarousel.jsx": [
+          {
+            "timestamp": "2026-11-18T10:49:21.342Z",
+            "fileName": "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/src/components/AdvertisementCarousel.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 388,
+            "linesRemoved": 0,
+            "projectName": "nashik-misal-queue",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/src/components/MisalLoader.jsx": [
+          {
+            "timestamp": "2026-11-18T10:49:30.352Z",
+            "fileName": "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/src/components/MisalLoader.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "nashik-misal-queue",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/src/components/SimpleLoader.jsx": [
+          {
+            "timestamp": "2026-11-18T10:49:41.141Z",
+            "fileName": "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/src/components/SimpleLoader.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 40,
+            "linesRemoved": 0,
+            "projectName": "nashik-misal-queue",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/src/components/TokenCallListener.jsx": [
+          {
+            "timestamp": "2026-11-18T10:49:48.997Z",
+            "fileName": "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/src/components/TokenCallListener.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 83,
+            "linesRemoved": 0,
+            "projectName": "nashik-misal-queue",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/src/components/auth/LoginLeftSide.jsx": [
+          {
+            "timestamp": "2026-11-18T10:49:59.982Z",
+            "fileName": "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/src/components/auth/LoginLeftSide.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "nashik-misal-queue",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/src/components/auth/ProtectedRoute.jsx": [
+          {
+            "timestamp": "2026-11-18T10:50:10.993Z",
+            "fileName": "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/src/components/auth/ProtectedRoute.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "nashik-misal-queue",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/src/components/layout/Layout.jsx": [
+          {
+            "timestamp": "2026-11-18T10:50:20.761Z",
+            "fileName": "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/src/components/layout/Layout.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "nashik-misal-queue",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/src/components/owner/AddStaffModal.jsx": [
+          {
+            "timestamp": "2026-11-18T10:50:27.794Z",
+            "fileName": "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/src/components/owner/AddStaffModal.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 281,
+            "linesRemoved": 0,
+            "projectName": "nashik-misal-queue",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/src/components/shared/InputField.jsx": [
+          {
+            "timestamp": "2026-11-18T10:50:33.472Z",
+            "fileName": "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/src/components/shared/InputField.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 42,
+            "linesRemoved": 0,
+            "projectName": "nashik-misal-queue",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/src/components/shared/Modal.jsx": [
+          {
+            "timestamp": "2026-11-18T10:50:40.700Z",
+            "fileName": "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/src/components/shared/Modal.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 44,
+            "linesRemoved": 0,
+            "projectName": "nashik-misal-queue",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/src/components/staff/PendingArrivalCard.jsx": [
+          {
+            "timestamp": "2026-11-18T10:50:46.479Z",
+            "fileName": "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/src/components/staff/PendingArrivalCard.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 113,
+            "linesRemoved": 0,
+            "projectName": "nashik-misal-queue",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/src/components/staff/QueueSection.jsx": [
+          {
+            "timestamp": "2026-11-18T10:50:53.901Z",
+            "fileName": "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/src/components/staff/QueueSection.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 107,
+            "linesRemoved": 0,
+            "projectName": "nashik-misal-queue",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/src/components/staff/StaffHeader.jsx": [
+          {
+            "timestamp": "2026-11-18T10:50:59.091Z",
+            "fileName": "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/src/components/staff/StaffHeader.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 42,
+            "linesRemoved": 0,
+            "projectName": "nashik-misal-queue",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/src/components/staff/StaffSidebar.jsx": [
+          {
+            "timestamp": "2026-11-18T10:51:05.666Z",
+            "fileName": "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/src/components/staff/StaffSidebar.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 43,
             "linesRemoved": 0,
             "projectName": "nashik-misal-queue",
             "content": {

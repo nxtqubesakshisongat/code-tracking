@@ -1,0 +1,47 @@
+{
+  "date": "2026-11-18",
+  "projects": {
+    "nashik-misal-queue": {
+      "totalLinesAdded": 82,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/sakshi/Library/Application Support/Cursor/User/settings.json": [
+          {
+            "timestamp": "2026-11-18T10:26:38.704Z",
+            "fileName": "/Users/sakshi/Library/Application Support/Cursor/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 82,
+            "linesRemoved": 0,
+            "projectName": "nashik-misal-queue",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "15": 0
+      },
+      "topFiles": [
+        "/Users/sakshi/Library/Application Support/Cursor/User/settings.json"
+      ],
+      "averageChangeSize": 82
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    15
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}

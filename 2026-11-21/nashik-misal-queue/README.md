@@ -4,17 +4,19 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4346                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 4346                |
-| **Active Time** (⌚)   | 6 minutes |
+| **Lines Added** (➕)   | 4469                                          |
+| **Lines Removed** (➖) | 625                                        |
+| **Net Change** (↕)    | 3844                |
+| **Active Time** (⌚)   | 21 minutes |
 
 
 ## Modified Files
 - **vite.config.js** (+12, -0)
-- **package-lock.json** (+4266, -0)
-- **package.json** (+42, -0)
-- **App.jsx** (+26, -0)
+- **package-lock.json** (+4271, -511)
+- **package.json** (+46, -7)
+- **App.jsx** (+26, -81)
+- **main.jsx** (+13, -13)
+- **MisalLoader.jsx** (+101, -13)
 
 ## Visualizations
 
@@ -24,8 +26,8 @@
 pie showData
 title Lines changed by file type
 ".js" : 12
-".json" : 4308
-".jsx" : 26
+".json" : 4835
+".jsx" : 247
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -34,8 +36,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "14h" : 4
-"15h" : 1
+"15h" : 13
 ```
 
 
-> **Last Updated:** 21/11/2026, 15:18:31
+> **Last Updated:** 21/11/2026, 15:23:31

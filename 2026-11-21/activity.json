@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-21",
+  "projects": {
+    "nashik-misal-queue": {
+      "totalLinesAdded": 4320,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 5,
+      "files": {
+        "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/vite.config.js": [
+          {
+            "timestamp": "2026-11-21T08:53:06.714Z",
+            "fileName": "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/vite.config.js",
+            "fileType": ".js",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "nashik-misal-queue",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ],
+        "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/package-lock.json": [
+          {
+            "timestamp": "2026-11-21T08:56:49.192Z",
+            "fileName": "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/package-lock.json",
+            "fileType": ".json",
+            "linesAdded": 4266,
+            "linesRemoved": 0,
+            "projectName": "nashik-misal-queue",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "json"
+          }
+        ],
+        "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/package.json": [
+          {
+            "timestamp": "2026-11-21T08:56:51.347Z",
+            "fileName": "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/package.json",
+            "fileType": ".json",
+            "linesAdded": 42,
+            "linesRemoved": 0,
+            "projectName": "nashik-misal-queue",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 0,
+        "json": 5
+      },
+      "changeFrequency": {
+        "14": 5
+      },
+      "topFiles": [
+        "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/vite.config.js",
+        "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/package-lock.json",
+        "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/frontend/package.json"
+      ],
+      "averageChangeSize": 1440
+    }
+  },
+  "totalActiveTime": 5,
+  "totalProjects": 1,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    14
+  ],
+  "mostUsedLanguages": [
+    "json",
+    "js"
+  ]
+}

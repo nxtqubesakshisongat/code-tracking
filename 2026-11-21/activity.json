@@ -2,7 +2,7 @@
   "date": "2026-11-21",
   "projects": {
     "nashik-misal-queue": {
-      "totalLinesAdded": 10194,
+      "totalLinesAdded": 12237,
       "totalLinesRemoved": 5162,
       "totalActiveTime": 47,
       "files": {
@@ -484,6 +484,20 @@
             },
             "duration": 1,
             "language": "jsx"
+          },
+          {
+            "timestamp": "2026-11-21T11:36:01.937Z",
+            "fileName": "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/webapp/src/pages/owner/MenuManagement.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 594,
+            "linesRemoved": 0,
+            "projectName": "nashik-misal-queue",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
           }
         ],
         "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/webapp/src/pages/owner/Profile.jsx": [
@@ -556,6 +570,20 @@
             },
             "duration": 1,
             "language": "jsx"
+          },
+          {
+            "timestamp": "2026-11-21T11:36:01.941Z",
+            "fileName": "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/webapp/src/pages/owner/Profile.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 974,
+            "linesRemoved": 0,
+            "projectName": "nashik-misal-queue",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
           }
         ],
         "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/webapp/src/pages/staff/StaffDashboard.jsx": [
@@ -627,6 +655,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-11-21T11:36:01.944Z",
+            "fileName": "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/webapp/src/pages/staff/StaffDashboard.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 475,
+            "linesRemoved": 0,
+            "projectName": "nashik-misal-queue",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "jsx"
           }
         ]

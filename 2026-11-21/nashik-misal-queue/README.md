@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 10194                                          |
+| **Lines Added** (➕)   | 12237                                          |
 | **Lines Removed** (➖) | 5162                                        |
-| **Net Change** (↕)    | 5032                |
+| **Net Change** (↕)    | 7075                |
 | **Active Time** (⌚)   | 47 minutes |
 
 
@@ -19,9 +19,9 @@
 - **MisalLoader.jsx** (+105, -15)
 - **HomeScreen.jsx** (+152, -152)
 - **AnalyticsAndReports.jsx** (+1310, -130)
-- **MenuManagement.jsx** (+1268, -1266)
-- **Profile.jsx** (+1978, -1976)
-- **StaffDashboard.jsx** (+1013, -1011)
+- **MenuManagement.jsx** (+1862, -1266)
+- **Profile.jsx** (+2952, -1976)
+- **StaffDashboard.jsx** (+1488, -1011)
 
 ## Visualizations
 
@@ -32,7 +32,7 @@ pie showData
 title Lines changed by file type
 ".js" : 12
 ".json" : 4835
-".jsx" : 10509
+".jsx" : 12552
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -43,7 +43,8 @@ title Coding activity by hour (count of changes)
 "14h" : 4
 "15h" : 17
 "16h" : 22
+"17h" : 3
 ```
 
 
-> **Last Updated:** 21/11/2026, 16:11:48
+> **Last Updated:** 21/11/2026, 17:09:11

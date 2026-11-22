@@ -1,0 +1,75 @@
+{
+  "date": "2026-11-22",
+  "projects": {
+    "nashik-misal-queue": {
+      "totalLinesAdded": 529,
+      "totalLinesRemoved": 475,
+      "totalActiveTime": 2,
+      "files": {
+        "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/webapp/src/pages/staff/StaffDashboard.jsx": [
+          {
+            "timestamp": "2026-11-22T07:44:00.177Z",
+            "fileName": "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/webapp/src/pages/staff/StaffDashboard.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 475,
+            "projectName": "nashik-misal-queue",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-11-22T07:44:02.095Z",
+            "fileName": "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/webapp/src/pages/staff/StaffDashboard.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 481,
+            "linesRemoved": 0,
+            "projectName": "nashik-misal-queue",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-11-22T07:44:09.120Z",
+            "fileName": "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/webapp/src/pages/staff/StaffDashboard.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 48,
+            "linesRemoved": 0,
+            "projectName": "nashik-misal-queue",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "jsx": 2
+      },
+      "changeFrequency": {
+        "13": 2
+      },
+      "topFiles": [
+        "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/webapp/src/pages/staff/StaffDashboard.jsx"
+      ],
+      "averageChangeSize": 334.6666666666667
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    13
+  ],
+  "mostUsedLanguages": [
+    "jsx"
+  ]
+}

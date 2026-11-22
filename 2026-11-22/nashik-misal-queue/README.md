@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1069                                          |
+| **Lines Added** (➕)   | 1077                                          |
 | **Lines Removed** (➖) | 657                                        |
-| **Net Change** (↕)    | 412                |
+| **Net Change** (↕)    | 420                |
 | **Active Time** (⌚)   | 8 minutes |
 
 
 ## Modified Files
-- **StaffDashboard.jsx** (+539, -657)
+- **StaffDashboard.jsx** (+547, -657)
 - **staffDashCopy.jsx** (+530, -0)
 
 ## Visualizations
@@ -21,7 +21,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".jsx" : 1726
+".jsx" : 1734
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -31,8 +31,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "13h" : 3
 "18h" : 3
-"19h" : 4
+"19h" : 5
 ```
 
 
-> **Last Updated:** 22/11/2026, 19:08:24
+> **Last Updated:** 22/11/2026, 19:23:24

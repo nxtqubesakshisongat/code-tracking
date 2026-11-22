@@ -5,16 +5,16 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 1306                                          |
-| **Lines Removed** (➖) | 657                                        |
-| **Net Change** (↕)    | 649                |
-| **Active Time** (⌚)   | 11 minutes |
+| **Lines Removed** (➖) | 697                                        |
+| **Net Change** (↕)    | 609                |
+| **Active Time** (⌚)   | 17 minutes |
 
 
 ## Modified Files
-- **StaffDashboard.jsx** (+547, -657)
+- **StaffDashboard.jsx** (+547, -676)
 - **staffDashCopy.jsx** (+530, -0)
-- **QueueSection.jsx** (+102, -0)
-- **PendingArrivalCard.jsx** (+127, -0)
+- **QueueSection.jsx** (+102, -8)
+- **PendingArrivalCard.jsx** (+127, -13)
 
 ## Visualizations
 
@@ -23,7 +23,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".jsx" : 1963
+".jsx" : 2003
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -33,8 +33,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "13h" : 3
 "18h" : 3
-"19h" : 10
+"19h" : 13
 ```
 
 
-> **Last Updated:** 22/11/2026, 19:53:36
+> **Last Updated:** 22/11/2026, 19:58:36

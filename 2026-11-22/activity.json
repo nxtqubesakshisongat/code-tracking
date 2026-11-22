@@ -3,7 +3,7 @@
   "projects": {
     "nashik-misal-queue": {
       "totalLinesAdded": 1059,
-      "totalLinesRemoved": 475,
+      "totalLinesRemoved": 639,
       "totalActiveTime": 3,
       "files": {
         "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/webapp/src/pages/staff/StaffDashboard.jsx": [
@@ -47,6 +47,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-11-22T13:10:03.018Z",
+            "fileName": "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/webapp/src/pages/staff/StaffDashboard.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 164,
+            "projectName": "nashik-misal-queue",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "jsx"
           }
         ],

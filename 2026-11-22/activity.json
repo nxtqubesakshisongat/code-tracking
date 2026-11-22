@@ -2,9 +2,9 @@
   "date": "2026-11-22",
   "projects": {
     "nashik-misal-queue": {
-      "totalLinesAdded": 1178,
+      "totalLinesAdded": 1306,
       "totalLinesRemoved": 657,
-      "totalActiveTime": 8,
+      "totalActiveTime": 11,
       "files": {
         "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/webapp/src/pages/staff/StaffDashboard.jsx": [
           {
@@ -177,6 +177,64 @@
               "removed": []
             },
             "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-11-22T14:21:40.634Z",
+            "fileName": "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/webapp/src/components/staff/QueueSection.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nashik-misal-queue",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/webapp/src/components/staff/PendingArrivalCard.jsx": [
+          {
+            "timestamp": "2026-11-22T14:21:15.214Z",
+            "fileName": "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/webapp/src/components/staff/PendingArrivalCard.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 116,
+            "linesRemoved": 0,
+            "projectName": "nashik-misal-queue",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-11-22T14:21:19.131Z",
+            "fileName": "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/webapp/src/components/staff/PendingArrivalCard.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "nashik-misal-queue",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-11-22T14:22:37.326Z",
+            "fileName": "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/webapp/src/components/staff/PendingArrivalCard.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "nashik-misal-queue",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "jsx"
           }
         ]

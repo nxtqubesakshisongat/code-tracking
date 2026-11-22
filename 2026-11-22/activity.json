@@ -2,9 +2,9 @@
   "date": "2026-11-22",
   "projects": {
     "nashik-misal-queue": {
-      "totalLinesAdded": 1059,
+      "totalLinesAdded": 1068,
       "totalLinesRemoved": 639,
-      "totalActiveTime": 3,
+      "totalActiveTime": 4,
       "files": {
         "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/webapp/src/pages/staff/StaffDashboard.jsx": [
           {
@@ -61,6 +61,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-11-22T13:32:45.353Z",
+            "fileName": "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/webapp/src/pages/staff/StaffDashboard.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "nashik-misal-queue",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2026-11-22T13:32:48.068Z",
+            "fileName": "/Users/sakshi/Desktop/nashik-misal-queue/nashik-misal-queue/webapp/src/pages/staff/StaffDashboard.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "nashik-misal-queue",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "jsx"
           }
         ],
